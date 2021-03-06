@@ -4867,11 +4867,11 @@
 </str>
 <str>
 	<tag>TXT_Pedestrian_STR_M</tag>
-	<txt>徒步區</txt>
+	<txt>徒步</txt>
 </str>
 <str>
 	<tag>TXT_Pedestrian_STR_X</tag>
-	<txt>徒步區</txt>
+	<txt>徒步</txt>
 </str>
 <str>
 	<tag>TXT_PEN_Peru_Neuvos__Soles_STR_X</tag>
@@ -8474,7 +8474,7 @@
   </str>
   <str>
    <tag>TXT_Avoidance_Setup_STR_M</tag>
-    <txt>設置為迴避</txt>
+    <txt>迴避區設定</txt>
   </str>
   <str>
    <tag>TXT_Azimuth_Of_Center_Line_STR_S</tag>
@@ -8559,18 +8559,6 @@
   <str>
    <tag>TXT_Battery_too_low_to_update_STR_M</tag>
     <txt>電池電量太低，無法更新軟件。</txt>
-  </str>
-  <str>
-   <tag>TXT_Bearing_Large_STR_M</tag>
-    <txt>方位指示器（大）</txt>
-  </str>
-  <str>
-   <tag>TXT_Bearing_Medium_STR_M</tag>
-    <txt>輪詢指示器（中）</txt>
-  </str>
-  <str>
-   <tag>TXT_Bearing_Small_STR_M</tag>
-    <txt>方位指示器（小）</txt>
   </str>
   <str>
    <tag>TXT_Beauty_Personal_Care_STR</tag>
@@ -9215,7 +9203,7 @@
   </str>
   <str>
    <tag>TXT_Cycling_STR_M</tag>
-    <txt>騎車</txt>
+    <txt>腳踏車</txt>
   </str>
   <str>
    <tag>TXT_DANISH_KB_LANG_STR_M</tag>
@@ -10787,10 +10775,6 @@
    <tag>TXT_Good_Times_STR_S</tag>
     <txt>好時光</txt>
   </str>
-  <str>
-   <tag>TXT_Goto_Line_STR_M</tag>
-    <txt>轉到行</txt>
-  </str>
    <str>
    <tag>TXT_Greek_STR</tag>
     <txt>希臘語</txt>
@@ -11397,10 +11381,6 @@
   <str>
    <tag>TXT_Lock_Direction_STR_M</tag>
     <txt>修正方向</txt>
-  </str>
-  <str>
-   <tag>TXT_Lock_On_Road_STR_M</tag>
-    <txt>隨心所欲</txt>
   </str>
   <str>
    <tag>TXT_Log_Attempt_STR_M</tag>
@@ -12016,7 +11996,7 @@
   </str>
   <str>
    <tag>TXT_Mountain_Bike_STR_M</tag>
-   <txt>Mountainbiken</txt>
+   <txt>越野腳踏車</txt>
   </str>
   <str>
    <tag>TXT_Mountain_Biking_STR_M</tag>
@@ -12024,7 +12004,7 @@
   </str>
   <str>
    <tag>TXT_Mountaineering_STR_M</tag>
-    <txt>登山者</txt>
+    <txt>登山</txt>
   </str>
   <str>
    <tag>TXT_Move_Down_STR_M</tag>
@@ -12113,10 +12093,6 @@
   <str>
    <tag>TXT_NOAA_STR_M</tag>
    <txt>NOAA</txt>
-  </str>
-  <str>
-   <tag>TXT_NORWEGIAN_KB_LANG_STR_M</tag>
-   <txt>Noors</txt>
   </str>
   <str>
    <tag>TXT_NRML_PRES_STR_N</tag>
@@ -12264,7 +12240,7 @@
   </str>
   <str>
    <tag>TXT_No_Active_Route_1_STR_M</tag>
-    <txt>當前沒有有效的路由。</txt>
+    <txt>當前沒有有效的航線。</txt>
   </str>
   <str>
    <tag>TXT_No_Adventures_STR_M</tag>
@@ -12392,7 +12368,7 @@
   </str>
   <str>
    <tag>TXT_North_Reference_STR_S</tag>
-   <txt>Noordreferentie</txt>
+   <txt>指向北方</txt>
   </str>
   <str>
    <tag>TXT_Not_Chosen_STR_M</tag>
@@ -12522,7 +12498,7 @@ Herberekenen？</txt>
   </str>
   <str>
    <tag>TXT_Off_Route_Recalculation_STR_M</tag>
-    <txt>路由herberekenen</txt>
+    <txt>重新計算航線</txt>
   </str>
   <str>
    <tag>TXT_Off_STR_S</tag>
@@ -14437,10 +14413,6 @@ Herberekenen？</txt>
   <str>
    <tag>TXT_Touch_Screen_Firmware_Updating_STR_M</tag>
     <txt>更新觸摸屏軟件</txt>
-  </str>
-  <str>
-   <tag>TXT_Tour_Cycling_STR_M</tag>
-    <txt>旅遊套餐</txt>
   </str>
    <str>
    <tag>TXT_Tourist_Info_STR</tag>
