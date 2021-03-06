@@ -24,10 +24,26 @@
 	<tag>TXT_12_Hour_STR_X</tag>
 	<txt>12 小時制</txt>
 </str>
+  <str>
+    <tag>TXT_STP_Menus_STR_L</tag>
+    <txt>選單</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Menus_STR_M</tag>
+    <txt>選單</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Menus_STR_S</tag>
+    <txt>選單</txt>
+  </str>
 <str>
 	<tag>TXT_24_Hour_STR_M</tag>
 	<txt>24 小時制</txt>
 </str>
+  <str>
+    <tag>TXT_STP_Profiles_STR_L</tag>
+    <txt>活動類型</txt>
+  </str>
 <str>
 	<tag>TXT_24_Hour_STR_X</tag>
 	<txt>24 小時制</txt>
@@ -289,6 +305,11 @@
 	<tag>TXT_All_Community_STR_M</tag>
 	<txt>所有機關社團</txt>
 </str>
+ <str>
+    <tag>TXT_Community_Services_STR</tag>
+    <txt>機關社團</txt>
+  </str>
+
 <str>
 	<tag>TXT_All_Entertainment_STR_M</tag>
 	<txt>所有娛樂</txt>
@@ -2475,6 +2496,11 @@
 	<tag>TXT_Elevation_STR_X</tag>
 	<txt>高度</txt>
 </str>
+ <str>
+    <tag>TXT_Elevation_STR_S</tag>
+    <txt>高度</txt>
+  </str>
+
 <str>
 	<tag>TXT_Emergency___Governmental_STR</tag>
 	<txt>醫療/政府機構</txt>
@@ -5315,6 +5341,37 @@
 	<txt>最大速度歸零?</txt>
 </str>
 <str>
+    <tag>TXT_for_Main_Menu_STR_S</tag>
+    <txt>到主選單</txt>
+  </str>
+
+ <str>
+    <tag>TXT_MNU_Main_Menu_STR_L</tag>
+    <txt>主選單</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Main_Menu_STR_M</tag>
+    <txt>主選單</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Main_Menu_STR_S</tag>
+    <txt>主選單</txt>
+  </str>
+
+ <str>
+    <tag>TXT_Once_STR_M</tag>
+    <txt>一次</txt>
+  </str>
+
+ <str>
+    <tag>TXT_Barometer_Mode_STR_S</tag>
+    <txt>晴雨表模式</txt>
+  </str>
+  <str>
+    <tag>TXT_Reset_STR_M</tag>
+    <txt>重置</txt>
+  </str>
+<str>
 	<tag>TXT_Reset_Trip_Data__STR_M</tag>
 	<txt>里程資訊歸零?</txt>
 </str>
@@ -5378,6 +5435,11 @@
 	<tag>TXT_Resume_STR_S</tag>
 	<txt>恢復</txt>
 </str>
+<str>
+    <tag>TXT_Resume_STR_M</tag>
+    <txt>恢復</txt>
+  </str>
+
 <str>
 	<tag>TXT_Rgn_Help_Cntry_Addr_STR_M</tag>
 	<txt>此地址位於那一個國家或地區?</txt>
@@ -5590,6 +5652,16 @@
 	<tag>TXT_Save_STR_M</tag>
 	<txt>儲存</txt>
 </str>
+<str>
+    <tag>TXT_Discard_STR_L</tag>
+    <txt>捨棄</txt>
+  </str>
+
+<str>
+    <tag>TXT_Save_STR_L</tag>
+    <txt>儲存</txt>
+  </str>
+
 <str>
 	<tag>TXT_Save_STR_S</tag>
 	<txt>確認</txt>
@@ -6038,6 +6110,11 @@
 	<tag>TXT_Speed_Alert__STR</tag>
 	<txt>速限警示: </txt>
 </str>
+ <str>
+    <tag>TXT_ETA_DEST_STR_S</tag>
+    <txt>ETA 抵達時間</txt>
+  </str>
+
 <str>
 	<tag>TXT_Speed_Alert_Ahead_STR_X</tag>
 	<txt>前方為速限區域</txt>
@@ -6047,12 +6124,28 @@
 	<txt>速限警示</txt>
 </str>
 <str>
+    <tag>TXT_MNU_Compass_STR_L</tag>
+    <txt>指北針</txt>
+  </str>
+   <str>
+    <tag>TXT_MNU_Main_Menu_STR_L</tag>
+    <txt>主選單</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Main_Menu_STR_M</tag>
+    <txt>主選單</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Main_Menu_STR_S</tag>
+    <txt>主選單</txt>
+  </str>
+<str>
 	<tag>TXT_Speed_Alert_Zone_STR</tag>
 	<txt>速限警示區</txt>
 </str>
 <str>
 	<tag>TXT_SPEED_STR_S</tag>
-	<txt>目前車速</txt>
+	<txt>目前速度</txt>
 </str>
 <str>
 	<tag>TXT_Spell_City__Postal_Code_STR_M</tag>
@@ -6412,7 +6505,7 @@
 </str>
 <str>
 	<tag>TXT_TRACK_STR_S</tag>
-	<txt>車行方向</txt>
+	<txt>移動方向</txt>
 </str>
 <str>
 	<tag>TXT_Track_Turn_STR_S</tag>
@@ -9152,7 +9245,11 @@
   </str>
   <str>
    <tag>TXT_Course_STR_M</tag>
-   <txt>Koers</txt>
+   <txt>航向</txt>
+  </str>
+   <str>
+    <tag>TXT_Set_Course_STR_M</tag>
+    <txt>設定航向</txt>
   </str>
   <str>
    <tag>TXT_Court_Houses_STR</tag>
@@ -9564,7 +9661,7 @@
   </str>
   <str>
    <tag>TXT_Download_Imagery_STR_M</tag>
-    <txt>圖 將被下載。</txt>
+    <txt>下載衛星影像</txt>
   </str>
   <str>
    <tag>TXT_Download_Near_STR</tag>
@@ -10356,7 +10453,11 @@
   </str>
   <str>
    <tag>TXT_Feet_STR_M</tag>
-    <txt>語音</txt>
+    <txt>英尺</txt>
+  </str>
+   <str>
+    <tag>TXT_Yards_STR_M</tag>
+    <txt>碼</txt>
   </str>
   <str>
    <tag>TXT_Feet_ft_per_hour_STR_M</tag>
@@ -10602,6 +10703,54 @@
    <tag>TXT_GPI_Nav_Begin_STR_M</tag>
     <txt>至頂部</txt>
   </str>
+   <str>
+    <tag>TXT_STP_Altimeter_STR_L</tag>
+    <txt>高度計</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Altimeter_STR_M</tag>
+    <txt>高度計</txt>
+  </str>
+    <str>
+    <tag>TXT_STP_Routing_STR_L</tag>
+    <txt>航線</txt>
+  </str>
+   <str>
+    <tag>TXT_STP_Expedition_Mode_STR_L</tag>
+    <txt>探險模式</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Expedition_Mode_STR_M</tag>
+    <txt>探險模式</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Expedition_Mode_STR_S</tag>
+    <txt>探險模式</txt>
+  </str>
+    <str>
+    <tag>TXT_STP_Map_STR_L</tag>
+    <txt>地圖</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Map_STR_M</tag>
+    <txt>地圖</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Map_STR_S</tag>
+    <txt>地圖</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Routing_STR_M</tag>
+    <txt>航線</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Routing_STR_S</tag>
+    <txt>航線</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Altimeter_STR_S</tag>
+    <txt>高度計</txt>
+  </str>
   <str>
    <tag>TXT_GPI_Nav_Route_STR_M</tag>
     <txt>語言路線</txt>
@@ -10609,6 +10758,18 @@
   <str>
    <tag>TXT_GPI_Nav_along_route_or_to_start_STR_M</tag>
     <txt>您要遵循路線還是轉到路線的起點？</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Heading_STR_L</tag>
+    <txt>指北針</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Heading_STR_M</tag>
+    <txt>指北針</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Heading_STR_S</tag>
+    <txt>指北針</txt>
   </str>
    <str>
    <tag>TXT_GPS_Accuracy_STR_M</tag>
@@ -11020,7 +11181,6 @@
    <tag>TXT_InReachMessaging_Speed_M</tag>
     <txt>速度</txt>
   </str>
-  <str>
    <str>
    <tag>TXT_Inches__Hg__STR_M</tag>
     <txt>英寸（Hg）</txt>
@@ -11333,6 +11493,18 @@
   <str>
    <tag>TXT_Lithium_STR_M</tag>
     <txt>鋰</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Time_STR_L</tag>
+    <txt>時間</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Time_STR_M</tag>
+    <txt>時間</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Time_STR_S</tag>
+    <txt>時間</txt>
   </str>
     <str>
    <tag>TXT_Loading_Complete_STR_S</tag>
@@ -11669,7 +11841,7 @@
   </str>
   <str>
    <tag>TXT_MNU_Setup_STR_S</tag>
-    <txt>進入</txt>
+    <txt>設置</txt>
   </str>
   <str>
    <tag>TXT_MNU_Share_Wirelessly_STR_L</tag>
@@ -11721,19 +11893,28 @@
   </str>
   <str>
    <tag>TXT_MNU_Trip_Computer_STR_L</tag>
-    <txt>旅行Dashboard</txt>
+    <txt>行程儀表板</txt>
   </str>
     <str>
         <tag>TXT_Odometer_STR_M</tag>
         <txt>里程表</txt>
     </str>
+     <str>
+    <tag>TXT_Trip_Odometer_STR_M</tag>
+    <txt>旅行總里程</txt>
+  </str>
+<str>
+    <tag>TXT_Elevation_STR_S</tag>
+    <txt>高度</txt>
+  </str>
+
   <str>
    <tag>TXT_MNU_Trip_Computer_STR_M</tag>
-    <txt>出行計算機</txt>
+    <txt>行程儀表板</txt>
   </str>
   <str>
    <tag>TXT_MNU_Trip_Computer_STR_S</tag>
-    <txt>出行計算機</txt>
+    <txt>行程儀表板</txt>
   </str>
    <str>
    <tag>TXT_MOB_STR_S</tag>
@@ -11807,6 +11988,19 @@
    <tag>TXT_Mar_STR_S</tag>
    <txt>Mrt</txt>
   </str>
+  <str>
+    <tag>TXT_STP_Marine_STR_L</tag>
+    <txt>航海</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Marine_STR_M</tag>
+    <txt>航海</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Marine_STR_S</tag>
+    <txt>航海</txt>
+  </str>
+
    <str>
    <tag>TXT_Marine_Alarm_Setup_STR_M</tag>
     <txt>設置海洋警報</txt>
@@ -11916,8 +12110,29 @@
     <txt>設置郵件</txt>
   </str>
   <str>
+    <tag>TXT_Sunrise_STR_M</tag>
+    <txt>日出</txt>
+  </str>
+   <str>
+    <tag>TXT_Moonset_STR_S</tag>
+    <txt>月相</txt>
+  </str>
+  <str>
+    <tag>TXT_Sunrise_STR_S</tag>
+    <txt>日出</txt>
+  </str>
+ <str>
+    <tag>TXT_Setup_Map_STR_M</tag>
+    <txt>地圖設置</txt>
+  </str>
+
+  <str>
+    <tag>TXT_Enter_Distance_In_STR_M</tag>
+    <txt>輸入距離 單位:</txt>
+  </str>
+  <str>
    <tag>TXT_Meters_STR_M</tag>
-    <txt>儀表</txt>
+    <txt>公尺</txt>
   </str>
   <str>
    <tag>TXT_Meters_m_per_hr_STR_M</tag>
@@ -12363,14 +12578,19 @@
    <tag>TXT_None_Found_STR_M</tag>
     <txt>沒找到</txt>
   </str>
-  <str>
-   <tag>TXT_None_blank_STR_M</tag>
-   <txt>Geen</txt>
+   <str>
+    <tag>TXT_FND_Tracks_STR_L</tag>
+    <txt>航跡</txt>
   </str>
   <str>
-   <tag>TXT_None_blank_STR_S</tag>
-   <txt>Geen</txt>
+    <tag>TXT_FND_Tracks_STR_M</tag>
+    <txt>航跡</txt>
   </str>
+  <str>
+    <tag>TXT_FND_Tracks_STR_S</tag>
+    <txt>航跡</txt>
+  </str>
+
   <str>
    <tag>TXT_Normalized_Pressure_STR_M</tag>
     <txt>晴雨表</txt>
@@ -12811,7 +13031,7 @@ Herberekenen？</txt>
   </str>
   <str>
    <tag>TXT_Project_Wpt_STR_M</tag>
-   <txt>Projecteer Wayp。</txt>
+   <txt>投影航點</txt>
   </str>
   <str>
    <tag>TXT_Prompt_Page_CIQ_App_Expires_In_STR_S</tag>
@@ -13006,6 +13226,42 @@ Herberekenen？</txt>
     <txt>保存，在地圖上顯示</txt>
   </str>
   <str>
+    <tag>TXT_STP_Tracking_STR_L</tag>
+    <txt>追蹤</txt>
+  </str>
+    <str>
+    <tag>TXT_STP_Display_STR_L</tag>
+    <txt>顯示</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Display_STR_M</tag>
+    <txt>顯示</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Display_STR_S</tag>
+    <txt>顯示</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Tracking_STR_M</tag>
+    <txt>追蹤</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_Tracking_STR_S</tag>
+    <txt>追蹤</txt>
+  </str>
+    <str>
+    <tag>TXT_MNU_Inreach_Messages_STR_L</tag>
+    <txt>訊息</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Inreach_Messages_STR_M</tag>
+    <txt>訊息</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Inreach_Messages_STR_S</tag>
+    <txt>訊息</txt>
+  </str>
+  <str>
    <tag>TXT_Recording_Controls_STR_M</tag>
     <txt>錄製按鈕</txt>
   </str>
@@ -13076,6 +13332,10 @@ Herberekenen？</txt>
   <str>
    <tag>TXT_Reset_All_Settings_STR_M</tag>
     <txt>恢復所有設置。</txt>
+  </str>
+    <str>
+    <tag>TXT_Reset_STR_M</tag>
+    <txt>重置</txt>
   </str>
     <str>
    <tag>TXT_Residential_Area_Building_STR</tag>
@@ -13287,7 +13547,7 @@ Herberekenen？</txt>
   </str>
   <str>
    <tag>TXT_STP_About_STR_M</tag>
-    <txt>上方</txt>
+    <txt>關於</txt>
   </str>
   <str>
    <tag>TXT_STP_About_STR_S</tag>
@@ -13834,6 +14094,10 @@ Herberekenen？</txt>
    <tag>TXT_Setup_Satellite_STR_M</tag>
     <txt>設置衛星</txt>
   </str>
+   <str>
+    <tag>TXT_STP_Tones_STR_L</tag>
+    <txt>提示音</txt>
+  </str>
   <str>
    <tag>TXT_Setup_Tones_STR_M</tag>
     <txt>設置警報音</txt>
@@ -14294,6 +14558,56 @@ Herberekenen？</txt>
         <tag>TXT_Elapsed_time_STR_M</tag>
         <txt>總紀錄時間</txt>
     </str>
+    <str>
+    <tag>TXT_Elapsed_time_STR_S</tag>
+    <txt>總紀錄時間</txt>
+  </str>
+   <str>
+    <tag>TXT_MNU_Flashlight_STR_L</tag>
+    <txt>手電筒</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Flashlight_STR_M</tag>
+    <txt>手電筒</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Flashlight_STR_S</tag>
+    <txt>手電筒</txt>
+  </str>
+
+<str>
+    <tag>TXT_Min_Elevation_STR_M</tag>
+    <txt>最小高度</txt>
+  </str>
+   <str>
+    <tag>TXT_Max_Elevation_STR_M</tag>
+    <txt>最大高度</txt>
+  </str>
+<str>
+    <tag>TXT_MNU_Notifications_STR_L</tag>
+    <txt>通知</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Notifications_STR_M</tag>
+    <txt>通知</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Waypoint_Averaging_STR_L</tag>
+    <txt>航點平均位置</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Waypoint_Averaging_STR_M</tag>
+    <txt>Waypoint middelen</txt>
+  </str>
+  <str>
+    <tag>TXT_MNU_Waypoint_Averaging_STR_S</tag>
+    <txt>Waypoint middelen</txt>
+  </str>
+
+  <str>
+    <tag>TXT_MNU_Notifications_STR_S</tag>
+    <txt>通知</txt>
+  </str>
  <str>
         <tag>TXT_MAX_DSCNT_STR_N</tag>
         <txt>總下降</txt>

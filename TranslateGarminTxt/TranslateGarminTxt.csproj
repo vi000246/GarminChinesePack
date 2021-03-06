@@ -8,17 +8,11 @@
   <ItemGroup>
     <None Remove="Dutch.xml" />
     <None Remove="Taiwan%28合併整理後的翻譯%29.gtt" />
-    <None Remove="Taiwan.xml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Dutch.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Taiwan.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Program.cs">
