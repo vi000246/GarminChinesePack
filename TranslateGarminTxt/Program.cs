@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
+using System.Web;
 using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Serialization;
@@ -44,7 +46,7 @@ namespace TranslateGarminTxt
                 element2.AppendChild(element3);
 
                 XmlElement element4 = doc.CreateElement(string.Empty, "txt", string.Empty);
-                XmlText text2 = doc.CreateTextNode(str.txt);
+                XmlText text2 = doc.CreateTextNode(Translate(str.txt));
                 element4.AppendChild(text2);
                 element2.AppendChild(element4);
             }
@@ -62,6 +64,26 @@ namespace TranslateGarminTxt
                result = (gtt)serializer.Deserialize(fileStream);
             }
             return result;
+        }
+        public static String Translate(String word)
+        {
+            var toLanguage = "zh-TW";//English
+            var fromLanguage = "nl";//Deutsch
+            var url = $"https://translate.googleapis.com/translate_a/single?client=gtx&sl={fromLanguage}&tl={toLanguage}&dt=t&q={HttpUtility.UrlEncode(word)}";
+            var webClient = new WebClient
+            {
+                Encoding = System.Text.Encoding.UTF8
+            };
+            var result = webClient.DownloadString(url);
+            try
+            {
+                result = result.Substring(4, result.IndexOf("\"", 4, StringComparison.Ordinal) - 4);
+                return result;
+            }
+            catch
+            {
+                return "Error";
+            }
         }
     }
     [XmlRoot("gtt")]
