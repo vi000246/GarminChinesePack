@@ -7,19 +7,27 @@
 
   <ItemGroup>
     <None Remove="Dutch.xml" />
+    <None Remove="Taiwan%28合併整理後的翻譯%29.gtt" />
     <None Remove="Taiwan.xml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Dutch.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Taiwan.xml">
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Taiwan.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Program.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Taiwan.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>

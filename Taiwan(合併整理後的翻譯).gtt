@@ -1,7 +1,20 @@
-<gtt>
+<?xml version="1.0" encoding="UTF-8"?>
+<gtt xmlns="http://www.garmin.com/xmlschemas/GarminTextTranslation/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GarminTextTranslation/v1 http://www.garmin.com/xmlschemas/GarminTextTranslationv1.xsd">
+<hdr>
+	<lang>繁體中文</lang>
+	<desc>繁體中文</desc>
+	<type>Primary</type>
+	<sort>0</sort>
+	<cpage>950</cpage>
+	<pnum>006-D0851-60</pnum>
+	<ver>2.90</ver>
+	<upperkbrd>ABCDEFGHIJKLMNOPQRSTUVWXYZ</upperkbrd>
+	<lowerkbrd>abcdefghijklmnopqrstuvwxyz</lowerkbrd>
+</hdr>
 <str>
 	<tag>TXT_LANG_ID_STR_M</tag>
-	<txt>正體中文</txt>
+	<txt>繁體中文</txt>
 </str>
 <str>
 	<tag>TXT_12_Hour_STR_M</tag>
