@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gtt>
+<gtt xmlns="http://www.garmin.com/xmlschemas/GarminTextTranslation/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GarminTextTranslation/v1 http://www.garmin.com/xmlschemas/GarminTextTranslationv1.xsd">
+    <hdr>
+        <lang>Dutch</lang>
+        <desc>Nederlands</desc>
+        <type>Primary</type>
+        <sort>0</sort>
+        <cpage>Dutch</cpage>
+        <pnum>006-D7908-08</pnum>
+        <ver>2.50</ver>
+        <upperkbrd>A</upperkbrd>
+        <lowerkbrd>a</lowerkbrd>
+        <maplang>a</maplang>
+        <gdnclang>Dutch</gdnclang>
+    </hdr>
     <str>
         <tag>TXT_LANG_ID_STR_M</tag>
         <txt>Engels</txt>

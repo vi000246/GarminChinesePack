@@ -6,13 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Dutch.xml" />
     <None Remove="Taiwan%28合併整理後的翻譯%29.gtt" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Dutch.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Program.cs">
@@ -21,6 +15,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Update="Taiwan.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Taiwan.gtt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Dutch.gtt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
