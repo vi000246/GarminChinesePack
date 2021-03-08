@@ -4559,13 +4559,17 @@
     <tag>TXT_Low_STR_XS</tag>
     <txt>低</txt>
   </str>
+    <str>
+    <tag>TXT_Directional_Letters_STR_M</tag>
+    <txt>方位文字</txt>
+  </str>
   <str>
     <tag>TXT_Location_Share_Message_Elevation</tag>
     <txt>高度: %1</txt>
   </str>
   <str>
     <tag>TXT_Lock_On_Road_STR_M</tag>
-    <txt>卡在路上</txt>
+    <txt>上路鎖定</txt>
   </str>
   <str>
     <tag>TXT_Log_STR_S</tag>
@@ -4709,7 +4713,7 @@
   </str>
   <str>
     <tag>TXT_InReach_Address_STR_M</tag>
-    <txt>地址</txt>
+    <txt>InReach地址</txt>
   </str>
   <str>
     <tag>TXT_InReach_Message_Wpt_Id_STR_M</tag>
@@ -6473,9 +6477,17 @@
     <tag>TXT_STP_Reset_STR_M</tag>
     <txt>重置</txt>
   </str>
+   <str>
+    <tag>TXT_Average_Location_STR_M</tag>
+    <txt>取得精確位置</txt>
+  </str>
   <str>
     <tag>TXT_STP_Reset_STR_S</tag>
     <txt>重置</txt>
+  </str>
+  <str>
+    <tag>TXT_STP_System_STR</tag>
+    <txt>系統</txt>
   </str>
   <str>
     <tag>TXT_STP_System_STR_L</tag>
@@ -7087,6 +7099,14 @@
   </str>
   <str>
     <tag>TXT_Tour_Cycling_STR_M</tag>
+    <txt>自行車行程</txt>
+  </str>
+   <str>
+    <tag>TXT_Elevation_STR_XS</tag>
+    <txt>海拔</txt>
+  </str>
+  <str>
+    <tag>TXT_Tour_Cycling_STR</tag>
     <txt>自行車行程</txt>
   </str>
   <str>
@@ -9628,10 +9648,22 @@
    <tag>TXT_3D_Area_STR</tag>
    <txt>3D網格化</txt>
   </str>
+   <str>
+    <tag>TXT_Land_Cover_STR_M</tag>
+    <txt>土地</txt>
+  </str>
   <str>
    <tag>TXT_3D_Arrow_Vehicle_Name_STR_M</tag>
-   <txt>3D-pijl</txt>
+   <txt>3D箭頭</txt>
   </str>
+   <str>
+    <tag>TXT_Bash_Vehicle_Name_STR_M</tag>
+    <txt>涼爽的</txt>
+  </str>
+    <str>
+    <tag>TXT_Beach_Ball_Vehicle_Name_STR_M</tag>
+    <txt>沙灘球</txt>
+  </str> 
   <str>
    <tag>TXT_4_3_ratio_STR_M</tag>
    <txt>4：3</txt>
@@ -9853,8 +9885,16 @@
     <txt>主要建築</txt>
   </str>
   <str>
+    <tag>TXT_Boating_STR_M</tag>
+    <txt>快艇</txt>
+  </str>
+   <str>
+    <tag>TXT_FIT_Activity_STR_M</tag>
+    <txt>活動類型</txt>
+  </str>
+  <str>
    <tag>TXT_Advanced_STR_M</tag>
-    <txt>高級。設置</txt>
+    <txt>進階設定</txt>
   </str>
   <str>
    <tag>TXT_African_STR</tag>
@@ -11341,7 +11381,7 @@
   </str>
   <str>
    <tag>TXT_Direct_Routing_STR_M</tag>
-    <txt>直接路線</txt>
+    <txt>直線路線</txt>
   </str>
    <str>
    <tag>TXT_Disable_All_Alarms_STR_M</tag>
@@ -11679,7 +11719,11 @@
   </str>
   <str>
    <tag>TXT_Enter_Bearing_In_STR_M</tag>
-    <txt>輸入速率，以</txt>
+    <txt>輸入速率 單位:</txt>
+  </str>
+   <str>
+    <tag>TXT_Battery_Save_STR_M</tag>
+    <txt>節省電力</txt>
   </str>
   <str>
    <tag>TXT_Enter_Comment_STR_M</tag>
@@ -11759,7 +11803,7 @@
   </str>
   <str>
    <tag>TXT_Enter_Number_of_Found_Geocaches_STR_M</tag>
-    <txt>輸入找到的地理緩存數量</txt>
+    <txt>輸入找到的地理藏寶數量</txt>
   </str>
   <str>
    <tag>TXT_Enter_Owners_Unit_ID_STR_M</tag>
@@ -12337,7 +12381,7 @@
   </str>
   <str>
    <tag>TXT_Find_a_Geocache_STR_M</tag>
-    <txt>查找地理緩存</txt>
+    <txt>查找地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Fine_Dining_STR</tag>
@@ -12465,7 +12509,7 @@
   </str>
   <str>
    <tag>TXT_Found_Geocaches_STR_M</tag>
-    <txt>找到的地理緩存</txt>
+    <txt>找到的地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Found_STR_M</tag>
@@ -12571,17 +12615,29 @@
    <tag>TXT_GPI_Nav_along_route_or_to_start_STR_M</tag>
     <txt>您要遵循路線還是轉到路線的起點？</txt>
   </str>
+   <str>
+    <tag>TXT_Boat_STR_M</tag>
+    <txt>遊艇</txt>
+  </str>
   <str>
     <tag>TXT_STP_Heading_STR_L</tag>
-    <txt>指北針</txt>
+    <txt>羅盤</txt>
+  </str>
+   <str>
+    <tag>TXT_Fast_STR_M</tag>
+    <txt>快速</txt>
+  </str>
+   <str>
+    <tag>TXT_Taiwan_STR</tag>
+    <txt>台灣</txt>
   </str>
   <str>
     <tag>TXT_STP_Heading_STR_M</tag>
-    <txt>指北針</txt>
+    <txt>羅盤</txt>
   </str>
   <str>
     <tag>TXT_STP_Heading_STR_S</tag>
-    <txt>指北針</txt>
+    <txt>羅盤</txt>
   </str>
    <str>
    <tag>TXT_GPS_Accuracy_STR_M</tag>
@@ -12673,11 +12729,11 @@
   </str>
   <str>
    <tag>TXT_Geocache_Basic_Member_Download_Prompt_STR</tag>
-    <txt>地理緩存下載基本成員每天可以下載3個地理緩存的詳細信息。</txt>
+    <txt>地理藏寶下載基本成員每天可以下載3個地理藏寶的詳細信息。</txt>
   </str>
   <str>
    <tag>TXT_Geocache_DB_Full_STR_M</tag>
-    <txt>超過了最大數量的地理緩存。</txt>
+    <txt>超過了最大數量的地理藏寶。</txt>
   </str>
   <str>
    <tag>TXT_Geocache_Daily_Limit_Exceeded_STR</tag>
@@ -12691,11 +12747,11 @@
   </str>
    <str>
    <tag>TXT_Geocache_Information_Received_STR</tag>
-    <txt>接收地理緩存信息</txt>
+    <txt>接收地理藏寶信息</txt>
   </str>
    <str>
    <tag>TXT_Geocache_Not_In_Database_STR_M</tag>
-    <txt>無法找到有關此地理緩存的其他信息。</txt>
+    <txt>無法找到有關此地理藏寶的其他信息。</txt>
   </str>
   <str>
    <tag>TXT_Geocache_Premium_Member_Only_STR</tag>
@@ -12707,23 +12763,23 @@
   </str>
   <str>
    <tag>TXT_Geocache_STR_M</tag>
-    <txt>地理緩存</txt>
+    <txt>地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Geocache_Style_STR_M</tag>
-    <txt>地理緩存樣式</txt>
+    <txt>地理藏寶樣式</txt>
   </str>
   <str>
    <tag>TXT_Geocaches_Base_Help_STR_M</tag>
-    <txt>查看您的地理緩存</txt>
+    <txt>查看您的地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Geocaches_Found_STR_S</tag>
-    <txt>找到了地理緩存</txt>
+    <txt>找到了地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Geocaches_STR_M</tag>
-   <txt>Geocaches</txt>
+   <txt>地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Geocaching_Live_STR</tag>
@@ -12767,7 +12823,7 @@
   </str>
   <str>
    <tag>TXT_Green_STR_M</tag>
-    <txt>格羅恩</txt>
+    <txt>綠色</txt>
   </str>
   <str>
    <tag>TXT_Grid_STR_M</tag>
@@ -14062,6 +14118,10 @@
    <tag>TXT_Move_Wpt_Butn_STR_M</tag>
     <txt>移動</txt>
   </str>
+   <str>
+    <tag>TXT_degrees_STR_M</tag>
+    <txt>度</txt>
+  </str>
   <str>
    <tag>TXT_Move_Wpt_STR_M</tag>
     <txt>通過點移動</txt>
@@ -15272,7 +15332,7 @@
   </str>
   <str>
    <tag>TXT_STP_About_STR_S</tag>
-    <txt>上方</txt>
+    <txt>關於</txt>
   </str>
    <str>
    <tag>TXT_STP_Advanced_STR_M</tag>
@@ -15300,11 +15360,15 @@
   </str>
   <str>
    <tag>TXT_STP_Appearance_STR_M</tag>
-    <txt>演示</txt>
+    <txt>外觀</txt>
   </str>
   <str>
    <tag>TXT_STP_Appearance_STR_S</tag>
     <txt>演示</txt>
+  </str>
+  <str>
+    <tag>TXT_Big_STR_M</tag>
+    <txt>大</txt>
   </str>
   <str>
    <tag>TXT_STP_Bluetooth_STR_L</tag>
@@ -15849,7 +15913,7 @@
   </str>
   <str>
    <tag>TXT_Shaded_Relief_STR_M</tag>
-    <txt>射箭</txt>
+    <txt>地勢圖</txt>
   </str>
   <str>
    <tag>TXT_Shaded_Relief_Show_STR_M</tag>
@@ -16298,6 +16362,14 @@
 
 <str>
     <tag>TXT_Min_Elevation_STR_M</tag>
+    <txt>最小高度</txt>
+  </str>
+  <str>
+    <tag>TXT_Min_Elevation_STR_S</tag>
+    <txt>最小高度</txt>
+  </str>
+  <str>
+    <tag>TXT_Min_Elevation_STR</tag>
     <txt>最小高度</txt>
   </str>
    <str>

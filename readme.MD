@@ -7,6 +7,8 @@ For developer:
 build完後會將缺少的字串輸出到bin/debug的result_ParamNotInTaiwanGtt.xml裡.  
   
 
+TXT_MNU是主選單  
+TXT_STP是主選單裡的系統設置  
 
 
 ------
