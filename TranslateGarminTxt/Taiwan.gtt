@@ -254,14 +254,6 @@
 	<txt>水域</txt>
 </str>
 <str>
-	<tag>TXT_Airy_STR</tag>
-	<txt>愛利法</txt>
-</str>
-<str>
-	<tag>TXT_Alamo_Rentals_STR</tag>
-	<txt>Alamo Rentals</txt>
-</str>
-<str>
 	<tag>TXT_Alarm_STR</tag>
 	<txt>警告: </txt>
 </str>
@@ -335,24 +327,16 @@
 	<txt>巷弄</txt>
 </str>
 <str>
-	<tag>TXT_Almaty_STR_M</tag>
-	<txt>阿拉木圖</txt>
-</str>
-<str>
-	<tag>TXT_Almaty_STR_X</tag>
-	<txt>阿拉木圖</txt>
-</str>
-<str>
 	<tag>TXT_Alternating_Flashing_STR</tag>
-	<txt>互閃光燈</txt>
+	<txt>交替閃光燈</txt>
 </str>
 <str>
 	<tag>TXT_Alternating_Group_Flashing_STR</tag>
-	<txt>互聯閃光燈</txt>
+	<txt>交替群組閃光燈</txt>
 </str>
 <str>
 	<tag>TXT_Alternating_Occulting_STR</tag>
-	<txt>互明暗燈</txt>
+	<txt>交替閃明暗燈</txt>
 </str>
 <str>
 	<tag>TXT_Alternating_STR</tag>
@@ -420,15 +404,7 @@
 </str>
 <str>
 	<tag>TXT_APR_STR</tag>
-	<txt>04月</txt>
-</str>
-<str>
-	<tag>TXT_APR_STR_M</tag>
-	<txt>04</txt>
-</str>
-<str>
-	<tag>TXT_Apr_STR_M</tag>
-	<txt>04</txt>
+	<txt>4月</txt>
 </str>
 <str>
 	<tag>TXT_Arch_STR</tag>
@@ -520,15 +496,7 @@
 </str>
 <str>
 	<tag>TXT_AUG_STR</tag>
-	<txt>08月</txt>
-</str>
-<str>
-	<tag>TXT_AUG_STR_M</tag>
-	<txt>08</txt>
-</str>
-<str>
-	<tag>TXT_Aug_STR_M</tag>
-	<txt>08</txt>
+	<txt>8月</txt>
 </str>
 <str>
 	<tag>TXT_Australia_Adelaide_STR_M</tag>
@@ -564,7 +532,7 @@
 </str>
 <str>
 	<tag>TXT_Australian_National_STR</tag>
-	<txt>Australian National</txt>
+	<txt>澳洲</txt>
 </str>
 <str>
 	<tag>TXT_Auto_Fuel_STR</tag>
@@ -576,7 +544,7 @@
 </str>
 <str>
 	<tag>TXT_Auto_Repair_STR</tag>
-	<txt>汽車保修</txt>
+	<txt>汽車修護</txt>
 </str>
 <str>
 	<tag>TXT_Auto_Service_STR</tag>
@@ -636,15 +604,7 @@
 </str>
 <str>
 	<tag>TXT_AVG_SPD_STR_S</tag>
-	<txt>全程均速</txt>
-</str>
-<str>
-	<tag>TXT_Avis_Airport_STR</tag>
-	<txt>Avis Airport</txt>
-</str>
-<str>
-	<tag>TXT_Avis_Non_Airport_STR</tag>
-	<txt>Avis Non-Airport</txt>
+	<txt>平均速度</txt>
 </str>
 <str>
 	<tag>TXT_Avis_PIN_Fail_STR_M</tag>
@@ -756,19 +716,19 @@
 </str>
 <str>
 	<tag>TXT_Beacon_STR</tag>
-	<txt>信標桿</txt>
+	<txt>燈塔</txt>
 </str>
 <str>
 	<tag>TXT_Beacon_with_East_Topmark_STR</tag>
-	<txt>東端信標桿</txt>
+	<txt>東端燈塔</txt>
 </str>
 <str>
 	<tag>TXT_Beacon_with_North_Topmark_STR</tag>
-	<txt>北端信標桿</txt>
+	<txt>北端燈塔</txt>
 </str>
 <str>
 	<tag>TXT_Beacon_with_South_Topmark_STR</tag>
-	<txt>南端信標桿</txt>
+	<txt>南端燈塔</txt>
 </str>
 <str>
 	<tag>TXT_Beacon_with_West_Topmark_STR</tag>
@@ -797,14 +757,6 @@
 <str>
 	<tag>TXT_Bend_STR</tag>
 	<txt>彎路</txt>
-</str>
-<str>
-	<tag>TXT_Bessel_1841__Namibia__STR</tag>
-	<txt>Bessel 1841 (Namibia)</txt>
-</str>
-<str>
-	<tag>TXT_Bessel_1841_STR</tag>
-	<txt>Bessel 1841</txt>
 </str>
 <str>
 	<tag>TXT_BGN_Bulgaria__Lev_STR_X</tag>
@@ -1068,7 +1020,7 @@
 </str>
 <str>
 	<tag>TXT_Can_t_Unlock_Maps_STR_M</tag>
-	<txt>地圖無法解碼</txt>
+	<txt>地圖無法解鎖</txt>
 </str>
 <str>
 	<tag>TXT_Canal_STR</tag>
@@ -1097,10 +1049,6 @@
 <str>
 	<tag>TXT_Car_Wash_STR</tag>
 	<txt>汽車洗車場</txt>
-</str>
-<str>
-	<tag>TXT_Card_Boundary_STR</tag>
-	<txt>Card Boundary</txt>
 </str>
 <str>
 	<tag>TXT_Carpool_Lanes_STR_M</tag>
@@ -1165,7 +1113,6 @@
 <str>
 	<tag>TXT_Charge_Page_Message_STR_M</tag>
 	<txt>充電狀態中.
-
 您可將電源鍵往左滑動啟用本機.</txt>
 </str>
 <str>
@@ -1187,14 +1134,6 @@
 <str>
 	<tag>TXT_Chinese_STR</tag>
 	<txt>中國</txt>
-</str>
-<str>
-	<tag>TXT_Chita_STR_M</tag>
-	<txt>Chita</txt>
-</str>
-<str>
-	<tag>TXT_Chita_STR_X</tag>
-	<txt>Chita</txt>
 </str>
 <str>
 	<tag>TXT_Chrysler_Dealers_STR</tag>
@@ -1231,14 +1170,6 @@
 <str>
 	<tag>TXT_Civil_Bldg_STR</tag>
 	<txt>公共建築</txt>
-</str>
-<str>
-	<tag>TXT_Clarke_1866_STR</tag>
-	<txt>Clarke 1866</txt>
-</str>
-<str>
-	<tag>TXT_Clarke_1880_STR</tag>
-	<txt>Clarke 1880</txt>
 </str>
 <str>
 	<tag>TXT_Clear_Currency_STR_S</tag>
@@ -2241,14 +2172,6 @@
 	<txt>12月</txt>
 </str>
 <str>
-	<tag>TXT_Dec_STR_M</tag>
-	<txt>12</txt>
-</str>
-<str>
-	<tag>TXT_DEC_STR_M</tag>
-	<txt>12</txt>
-</str>
-<str>
 	<tag>TXT_Decifeet_STR</tag>
 	<txt>0.1 英呎</txt>
 </str>
@@ -2353,10 +2276,6 @@
 	<txt>關閉</txt>
 </str>
 <str>
-	<tag>TXT_Discover_STR</tag>
-	<txt>Discover 卡</txt>
-</str>
-<str>
 	<tag>TXT_Display_at_Poweron_STR_M</tag>
 	<txt>是否當成開機畫面?</txt>
 </str>
@@ -2403,10 +2322,6 @@
 <str>
 	<tag>TXT_Does_Not_Match_STR_M</tag>
 	<txt>與先前所輸入的密碼不相符合.</txt>
-</str>
-<str>
-	<tag>TXT_Dollar_Rentals_STR</tag>
-	<txt>Dollar Rentals</txt>
 </str>
 <str>
 	<tag>TXT_Done_STR_M</tag>
@@ -2479,14 +2394,6 @@
 <str>
 	<tag>TXT_EGP_Egypt__Pounds_STR_X</tag>
 	<txt>(EGP) 埃及, Pound</txt>
-</str>
-<str>
-	<tag>TXT_Ekaterinburg_STR_M</tag>
-	<txt>Ekaterinburg</txt>
-</str>
-<str>
-	<tag>TXT_Ekaterinburg_STR_X</tag>
-	<txt>Ekaterinburg</txt>
 </str>
 <str>
 	<tag>TXT_electricity_STR</tag>
@@ -2646,30 +2553,6 @@
 	<txt>歐洲 - 西歐(WET)</txt>
 </str>
 <str>
-	<tag>TXT_Everest__Brunei__STR</tag>
-	<txt>Everest (Brunei)</txt>
-</str>
-<str>
-	<tag>TXT_Everest__India_1830__STR</tag>
-	<txt>Everest (India 1830)</txt>
-</str>
-<str>
-	<tag>TXT_Everest__India_1956__STR</tag>
-	<txt>Everest (India 1956)</txt>
-</str>
-<str>
-	<tag>TXT_Everest__W_Malasia_1948__STR</tag>
-	<txt>Everest (W Malasia 1948)</txt>
-</str>
-<str>
-	<tag>TXT_Everest__W_Malasia_1969__STR</tag>
-	<txt>Everest (W Malasia 1969)</txt>
-</str>
-<str>
-	<tag>TXT_Everest_STR</tag>
-	<txt>Everest</txt>
-</str>
-<str>
 	<tag>TXT_Existence_Doubtful_STR</tag>
 	<txt>可能不存在</txt>
 </str>
@@ -2720,10 +2603,6 @@
 <str>
 	<tag>TXT_Extras_Install_STR_M</tag>
 	<txt>已發現外部記憶卡有新的 Extra 資料.您是否要將這些資料載入到機台內部記憶體上,如此您若移除外部記憶卡,仍能繼續使用這些資料.</txt>
-</str>
-<str>
-	<tag>TXT_Extras_STR_M</tag>
-	<txt>Extras</txt>
 </str>
 <str>
 	<tag>TXT_Facilities_STR</tag>
@@ -2779,15 +2658,7 @@
 </str>
 <str>
 	<tag>TXT_FEB_STR</tag>
-	<txt>02月</txt>
-</str>
-<str>
-	<tag>TXT_Feb_STR_M</tag>
-	<txt>02</txt>
-</str>
-<str>
-	<tag>TXT_FEB_STR_M</tag>
-	<txt>02</txt>
+	<txt>2月</txt>
 </str>
 <str>
 	<tag>TXT_Feet_STR</tag>
@@ -2820,14 +2691,6 @@
 <str>
 	<tag>TXT_First_Aid_Station_STR</tag>
 	<txt>急救中心</txt>
-</str>
-<str>
-	<tag>TXT_Fischer_1960_Mercury_STR</tag>
-	<txt>Fischer 1960/Mercury</txt>
-</str>
-<str>
-	<tag>TXT_Fischer_1968_STR</tag>
-	<txt>Fischer 1968</txt>
 </str>
 <str>
 	<tag>TXT_Fish_Haven_STR</tag>
@@ -3214,14 +3077,6 @@
 	<txt>互聯極快</txt>
 </str>
 <str>
-	<tag>TXT_GRS_1967_STR</tag>
-	<txt>GRS 1967</txt>
-</str>
-<str>
-	<tag>TXT_GRS_1980_STR</tag>
-	<txt>GRS 1980</txt>
-</str>
-<str>
 	<tag>TXT_GTQ_Guatemala__Quetzal_STR_X</tag>
 	<txt>(GTQ) 瓜地馬拉, Quetzal</txt>
 </str>
@@ -3288,10 +3143,6 @@
 <str>
 	<tag>TXT_Heliport_STR</tag>
 	<txt>直昇機場</txt>
-</str>
-<str>
-	<tag>TXT_Helmert_1906_STR</tag>
-	<txt>Helmert 1906</txt>
 </str>
 <str>
 	<tag>TXT_HELP_General_Info_STR_M</tag>
@@ -3367,11 +3218,11 @@
 </str>
 <str>
 	<tag>TXT_Hong_Kong_STR_M</tag>
-	<txt>台灣</txt>
+	<txt>香港</txt>
 </str>
 <str>
 	<tag>TXT_Hong_Kong_STR_X</tag>
-	<txt>台灣</txt>
+	<txt>香港</txt>
 </str>
 <str>
 	<tag>TXT_Hookups_STR</tag>
@@ -3404,10 +3255,6 @@
 <str>
 	<tag>TXT_hotel_STR</tag>
 	<txt>飯店</txt>
-</str>
-<str>
-	<tag>TXT_Hough_STR</tag>
-	<txt>Hough</txt>
 </str>
 <str>
 	<tag>TXT_House_and_Garden_STR</tag>
@@ -3663,15 +3510,7 @@
 </str>
 <str>
 	<tag>TXT_JAN_STR</tag>
-	<txt>01月</txt>
-</str>
-<str>
-	<tag>TXT_Jan_STR_M</tag>
-	<txt>01</txt>
-</str>
-<str>
-	<tag>TXT_JAN_STR_M</tag>
-	<txt>01</txt>
+	<txt>1月</txt>
 </str>
 <str>
 	<tag>TXT_Jeep_Dealers_STR</tag>
@@ -3695,27 +3534,11 @@
 </str>
 <str>
 	<tag>TXT_JUL_STR</tag>
-	<txt>07月</txt>
-</str>
-<str>
-	<tag>TXT_Jul_STR_M</tag>
-	<txt>07</txt>
-</str>
-<str>
-	<tag>TXT_JUL_STR_M</tag>
-	<txt>07</txt>
+	<txt>7月</txt>
 </str>
 <str>
 	<tag>TXT_JUN_STR</tag>
-	<txt>06月</txt>
-</str>
-<str>
-	<tag>TXT_Jun_STR_M</tag>
-	<txt>06</txt>
-</str>
-<str>
-	<tag>TXT_JUN_STR_M</tag>
-	<txt>06</txt>
+	<txt>6月</txt>
 </str>
 <str>
 	<tag>TXT_Kabul_STR_M</tag>
@@ -3788,10 +3611,6 @@
 <str>
 	<tag>TXT_Krasnoyarsk_STR_X</tag>
 	<txt>克拉斯諾亞爾斯克</txt>
-</str>
-<str>
-	<tag>TXT_Krassovsky_STR</tag>
-	<txt>Krassovsky</txt>
 </str>
 <str>
 	<tag>TXT_KRW_South_Korea__Won_STR_X</tag>
@@ -4127,15 +3946,7 @@
 </str>
 <str>
 	<tag>TXT_MAR_STR</tag>
-	<txt>03月</txt>
-</str>
-<str>
-	<tag>TXT_MAR_STR_M</tag>
-	<txt>03</txt>
-</str>
-<str>
-	<tag>TXT_Mar_STR_M</tag>
-	<txt>03</txt>
+	<txt>3月</txt>
 </str>
 <str>
 	<tag>TXT_Marina_Boat_Repair_and_Storage_STR</tag>
@@ -4198,15 +4009,7 @@
 </str>
 <str>
 	<tag>TXT_MAY_STR</tag>
-	<txt>05月</txt>
-</str>
-<str>
-	<tag>TXT_May_STR_M</tag>
-	<txt>05</txt>
-</str>
-<str>
-	<tag>TXT_MAY_STR_M</tag>
-	<txt>05</txt>
+	<txt>5月</txt>
 </str>
 <str>
 	<tag>TXT_MDL_Moldova__Leu_STR_X</tag>
@@ -4337,18 +4140,6 @@
 	<txt>模式</txt>
 </str>
 <str>
-	<tag>TXT_Modified_Airy_STR</tag>
-	<txt>Modified Airy</txt>
-</str>
-<str>
-	<tag>TXT_Modified_Everest_STR</tag>
-	<txt>Modified Everest</txt>
-</str>
-<str>
-	<tag>TXT_Modified_Fischer_1960_STR</tag>
-	<txt>Modified Fischer 1960</txt>
-</str>
-<str>
 	<tag>TXT_Mon_STR_M</tag>
 	<txt>星期一</txt>
 </str>
@@ -4413,10 +4204,6 @@
 	<txt>電影院</txt>
 </str>
 <str>
-	<tag>TXT_mph_STR</tag>
-	<txt>mph</txt>
-</str>
-<str>
 	<tag>TXT_MRO_Mauritania__Ouguiya_STR_X</tag>
 	<txt>(MRO) 毛利塔尼亞, Ouguiya</txt>
 </str>
@@ -4475,10 +4262,6 @@
 <str>
 	<tag>TXT_NAD_Namibia__Dollars_STR_X</tag>
 	<txt>(NAD) 那米比亞, Dollar</txt>
-</str>
-<str>
-	<tag>TXT_National_Rentals_STR</tag>
-	<txt>National Rentals</txt>
 </str>
 <str>
 	<tag>TXT_Native_American_Reservation_STR</tag>
@@ -5029,14 +4812,6 @@
 	<txt>11月</txt>
 </str>
 <str>
-	<tag>TXT_Nov_STR_M</tag>
-	<txt>11</txt>
-</str>
-<str>
-	<tag>TXT_NOV_STR_M</tag>
-	<txt>11</txt>
-</str>
-<str>
 	<tag>TXT_Novosibirsk_STR_M</tag>
 	<txt>新西伯利亞</txt>
 </str>
@@ -5103,14 +4878,6 @@
 <str>
 	<tag>TXT_OCT_STR</tag>
 	<txt>10月</txt>
-</str>
-<str>
-	<tag>TXT_Oct_STR_M</tag>
-	<txt>10</txt>
-</str>
-<str>
-	<tag>TXT_OCT_STR_M</tag>
-	<txt>10</txt>
 </str>
 <str>
 	<tag>TXT_OEM_Dealer_STR</tag>
@@ -5674,11 +5441,11 @@
 </str>
 <str>
 	<tag>TXT_Register_Body_STR_M</tag>
-	<txt>To learn about features, updates and special offers for your Garmin device, go to http://my.garmin.com to register.</txt>
+	<txt>要了解Garmin設備的功能，更新和特殊優惠，請訪問http://my.garmin.com進行註冊。</txt>
 </str>
 <str>
 	<tag>TXT_REGISTER_STR_L</tag>
-	<txt>Please Register Your Product</txt>
+	<txt>請註冊您的裝置</txt>
 </str>
 <str>
 	<tag>TXT_Remind_later_STR_M</tag>
@@ -6244,15 +6011,7 @@
 </str>
 <str>
 	<tag>TXT_SEP_STR</tag>
-	<txt>09月</txt>
-</str>
-<str>
-	<tag>TXT_SEP_STR_M</tag>
-	<txt>09</txt>
-</str>
-<str>
-	<tag>TXT_Sep_STR_M</tag>
-	<txt>09</txt>
+	<txt>9月</txt>
 </str>
 <str>
 	<tag>TXT_Service_Area_STR</tag>
@@ -6433,10 +6192,6 @@
 <str>
 	<tag>TXT_Soundings_Stored_in_STR</tag>
 	<txt>測深資料儲存於</txt>
-</str>
-<str>
-	<tag>TXT_South_American_1969_STR</tag>
-	<txt>South American 1969</txt>
 </str>
 <str>
 	<tag>TXT_South_STR</tag>
@@ -7204,7 +6959,7 @@
   </str>
   <str>
     <tag>TXT_Upcoming_Speed_Alert_STR_S</tag>
-    <txt>接近速度警報</txt>
+    <txt>即將超速警報</txt>
   </str>
   <str>
     <tag>TXT_Use_Best_Maps_STR_M</tag>
@@ -8316,19 +8071,19 @@
 </str>
 <str>
 	<tag>TXT_Tour_Guide_STR_S</tag>
-	<txt>TourGuide</txt>
+	<txt>導遊</txt>
 </str>
 <str>
 	<tag>TXT_Tour_Guide_STR_T</tag>
-	<txt>TourGuide</txt>
+	<txt>導遊</txt>
 </str>
 <str>
 	<tag>TXT_TourGuide__STR</tag>
-	<txt>TourGuide: </txt>
+	<txt>導遊: </txt>
 </str>
 <str>
 	<tag>TXT_TourGuide_STR</tag>
-	<txt>TourGuide</txt>
+	<txt>導遊</txt>
 </str>
 <str>
 	<tag>TXT_Tower_STR</tag>
@@ -9036,7 +8791,7 @@
 </str>
 <str>
 	<tag>TXT_Your_unit_will_now_restart_to_complete_this_change_STR_M</tag>
-	<txt>本機將進行重新開機動作,以完成系統設定的變更.</txt>
+	<txt>本機將進行重新開機,以完成系統設定的變更.</txt>
 </str>
 <str>
 	<tag>TXT_TAIWAN_STR_X</tag>
@@ -10563,7 +10318,7 @@
   </str>
   <str>
    <tag>TXT_Birdseye_Limit_Exceeded_STR_M</tag>
-    <txt>您已超出圖像服務器的下載限制。半徑恢復到災禍之前的最大值。允許分辨率。</txt>
+    <txt>您已超出圖像服務器的下載限制。半徑恢復到錯誤之前的最大值。</txt>
   </str>
   <str>
    <tag>TXT_Birdseye_No_Connection_STR_M</tag>
@@ -11034,7 +10789,7 @@
   </str>
   <str>
    <tag>TXT_Cancelling_SOS_STR_M</tag>
-    <txt>如果SOS被取消，“協助”將收到一條消息，告知您不再需要幫助，並且緊急呼叫也將被取消。</txt>
+    <txt>如果SOS被取消，“救助中心”將收到一條消息，告知您不再需要幫助，並且緊急呼叫也將被取消。</txt>
   </str>
   <str>
    <tag>TXT_Car_Rental_STR</tag>
@@ -11170,7 +10925,7 @@
   </str>
   <str>
    <tag>TXT_Clear_Profile_Settings_STR_M</tag>
-    <txt>默認配置文件設置將恢復。</txt>
+    <txt>預設配置文件設置將恢復。</txt>
   </str>
   <str>
    <tag>TXT_Clear_Track_Log_Msg1_STR_M</tag>
@@ -11206,7 +10961,7 @@
   </str>
   <str>
    <tag>TXT_Colleges_Universities_STR</tag>
-    <txt>高校</txt>
+    <txt>學校</txt>
   </str>
   <str>
    <tag>TXT_Comment_STR_M</tag>
@@ -12078,10 +11833,6 @@
    <tag>TXT_Enter_Zone_5_STR_M</tag>
     <txt>輸入5區最低心率</txt>
   </str>
-  <str>
-   <tag>TXT_Entertainment_Electronic_Store_STR</tag>
-   <txt>Elektronicawinkel</txt>
-  </str>
    <str>
    <tag>TXT_Est_Download_Time_STR_M</tag>
     <txt>大約 下載時間</txt>
@@ -12474,15 +12225,15 @@
   </str>
   <str>
    <tag>TXT_FND_Waypoints_STR_L</tag>
-   <txt>Waypoints</txt>
+   <txt>航點</txt>
   </str>
   <str>
    <tag>TXT_FND_Waypoints_STR_M</tag>
-   <txt>Waypoints</txt>
+   <txt>航點</txt>
   </str>
   <str>
    <tag>TXT_FND_Waypoints_STR_S</tag>
-   <txt>Waypoints</txt>
+   <txt>航點</txt>
   </str>
     <str>
    <tag>TXT_Factory_Tour_STR</tag>
@@ -14289,7 +14040,7 @@
   </str>
   <str>
    <tag>TXT_Mountain_Biking_STR_M</tag>
-   <txt>Mountainbiken</txt>
+   <txt>越野自行車</txt>
   </str>
   <str>
    <tag>TXT_Mountaineering_STR_M</tag>
@@ -14297,7 +14048,7 @@
   </str>
   <str>
    <tag>TXT_Move_Down_STR_M</tag>
-   <txt>Omlaag</txt>
+   <txt>下</txt>
   </str>
   <str>
    <tag>TXT_Move_STR_M</tag>
@@ -14321,11 +14072,7 @@
   </str>
   <str>
    <tag>TXT_Movie_Theaters_STR</tag>
-   <txt>Bioscopen</txt>
-  </str>
-  <str>
-   <tag>TXT_Mud_Slinger_Vehicle_Name_STR_M</tag>
-   <txt>Moddergooier</txt>
+   <txt>電影院</txt>
   </str>
   <str>
    <tag>TXT_Multi_STR_M</tag>
@@ -14362,26 +14109,6 @@
   <str>
    <tag>TXT_My_Location_STR_M</tag>
     <txt>我的位置</txt>
-  </str>
-  <str>
-   <tag>TXT_NMEA_In_Out_STR_M</tag>
-   <txt>NMEA in / uit</txt>
-  </str>
-  <str>
-   <tag>TXT_NMEA_Sentences_STR_S</tag>
-   <txt>NMEA-zinnen</txt>
-  </str>
-  <str>
-   <tag>TXT_NNE_STR</tag>
-   <txt>NNO</txt>
-  </str>
-  <str>
-   <tag>TXT_NNW_STR</tag>
-   <txt>NNW</txt>
-  </str>
-  <str>
-   <tag>TXT_NOAA_STR_M</tag>
-   <txt>NOAA</txt>
   </str>
   <str>
    <tag>TXT_NRML_PRES_STR_N</tag>
@@ -14424,18 +14151,6 @@
     <txt>航海（zm）</txt>
   </str>
   <str>
-   <tag>TXT_Nautical_nm_kt_ft_STR_M</tag>
-   <txt>Nautisch（zm，kn，ft）</txt>
-  </str>
-  <str>
-   <tag>TXT_Nautical_nm_kt_m_STR_M</tag>
-   <txt>Nautisch（zm，kn，m）</txt>
-  </str>
-  <str>
-   <tag>TXT_Navaids_STR_L</tag>
-   <txt>Navigatiemiddelen</txt>
-  </str>
-  <str>
    <tag>TXT_Navigate_Hot_Zone_STR_M</tag>
     <txt>添加了新的XERO位置。導航？</txt>
   </str>
@@ -14458,10 +14173,6 @@
   <str>
    <tag>TXT_Needs_Repair_STR_M</tag>
     <txt>需要維修</txt>
-  </str>
-  <str>
-   <tag>TXT_Neighborhood_STR</tag>
-   <txt>Wijk</txt>
   </str>
   <str>
    <tag>TXT_Never_STR_M</tag>
@@ -14504,16 +14215,12 @@
    <txt>Volgend體育館</txt>
   </str>
   <str>
-   <tag>TXT_NiMH_STR_M</tag>
-   <txt>NiMH</txt>
-  </str>
-  <str>
    <tag>TXT_Night_STR_M</tag>
     <txt>帽子</txt>
   </str>
   <str>
    <tag>TXT_Nightclubs_STR</tag>
-   <txt>Nachtclubs</txt>
+   <txt>夜店</txt>
   </str>
   <str>
    <tag>TXT_Nightlife_STR</tag>
@@ -14629,11 +14336,7 @@
   </str>
   <str>
    <tag>TXT_No_Waypoint_STR_M</tag>
-   <txt>Geen Waypoint</txt>
-  </str>
-  <str>
-   <tag>TXT_Nomad_Vehicle_Name_STR_M</tag>
-   <txt>Nomade</txt>
+   <txt>沒有航點</txt>
   </str>
   <str>
    <tag>TXT_None_Found_STR_M</tag>
@@ -14651,7 +14354,6 @@
     <tag>TXT_FND_Tracks_STR_S</tag>
     <txt>航跡</txt>
   </str>
-
   <str>
    <tag>TXT_Normalized_Pressure_STR_M</tag>
     <txt>晴雨表</txt>
@@ -14678,7 +14380,7 @@
   </str>
   <str>
    <tag>TXT_Not_Synced_STR</tag>
-   <txt>Nt gesynchr</txt>
+   <txt>尚未同步</txt>
   </str>
   <str>
    <tag>TXT_Note_STR_S</tag>
@@ -14733,14 +14435,6 @@
    <txt>OEM經銷商2</txt>
   </str>
   <str>
-   <tag>TXT_OFF_COURSE_STR_N</tag>
-   <txt>Van koers</txt>
-  </str>
-  <str>
-   <tag>TXT_OFF_COURSE_STR_S</tag>
-   <txt>Van koers</txt>
-  </str>
-  <str>
    <tag>TXT_OSGB_Demo_Info_Msg_STR_M</tag>
     <txt>此設備包含軍械測量©官方評估圖數據，在評估期結束時，該數據將從設備上刪除</txt>
   </str>
@@ -14773,22 +14467,16 @@
     <txt>課程錯誤警報</txt>
   </str>
   <str>
-   <tag>TXT_Off_Course_STR_M</tag>
-   <txt>Van koers</txt>
-  </str>
-  <str>
    <tag>TXT_Off_Course_alarm_banner_STR_M</tag>
     <txt>價格錯誤</txt>
   </str>
   <str>
    <tag>TXT_Off_Road_Info_STR_XS</tag>
-   <txt>Offroadinformatie</txt>
+   <txt>越野信息</txt>
   </str>
   <str>
    <tag>TXT_Off_Route_Recalculate_STR_M</tag>
-   <txt>Routefout
-
-Herberekenen？</txt>
+   <txt>路線錯誤，重新計算?</txt>
   </str>
   <str>
    <tag>TXT_Off_Route_Recalculation_STR_M</tag>
@@ -14823,16 +14511,12 @@ Herberekenen？</txt>
     <txt>道路導航</txt>
   </str>
   <str>
-   <tag>TXT_On_STR_S</tag>
-   <txt>Aan</txt>
-  </str>
-  <str>
    <tag>TXT_Open_Pit_STR</tag>
     <txt>打開schacht</txt>
   </str>
   <str>
    <tag>TXT_Optical_Store_STR</tag>
-   <txt>Opticien</txt>
+   <txt>眼鏡行</txt>
   </str>
   <str>
    <tag>TXT_Optimize_Route_For_Selected_Vehicle_STR_M</tag>
@@ -14889,10 +14573,6 @@ Herberekenen？</txt>
   <str>
    <tag>TXT_PORTUGUESE_KB_LANG_STR_M</tag>
     <txt>葡萄牙語</txt>
-  </str>
-  <str>
-   <tag>TXT_Paddling_STR_M</tag>
-    <txt>Kanoën</txt>
   </str>
   <str>
    <tag>TXT_Pair_Mobile_Device_STR_M</tag>
@@ -15083,10 +14763,6 @@ Herberekenen？</txt>
     <txt>已創建一個新的配置文件。現在是當前配置文件。以前的配置文件已保存。</txt>
   </str>
   <str>
-   <tag>TXT_Program_Chirp_STR_M</tag>
-   <txt>chirp！22程序員</txt>
-  </str>
-  <str>
    <tag>TXT_Project_Distance_Instructions_STR_M</tag>
     <txt>選擇投影距離單位</txt>
   </str>
@@ -15127,20 +14803,8 @@ Herberekenen？</txt>
     <txt>您要解鎖應用程序/數據字段嗎？</txt>
   </str>
   <str>
-   <tag>TXT_Prompt_Page_CIQ_Go_to_website_to_unlock_it_STR_S</tag>
-   <txt>Ontgr op apps.garmin.com。</txt>
-  </str>
-  <str>
-   <tag>TXT_Prompt_Page_CIQ_day_STR_S</tag>
-   <txt>dag</txt>
-  </str>
-  <str>
-   <tag>TXT_Prompt_Page_CIQ_days_STR_S</tag>
-   <txt>dg</txt>
-  </str>
-  <str>
    <tag>TXT_Prompt_Page_End_Tracking_STR_M</tag>
-    <txt>結束跟踪會話？</txt>
+    <txt>結束跟蹤會話？</txt>
   </str>
   <str>
    <tag>TXT_Prompt_Page_Smartphone_Renewal_STR_S</tag>
@@ -15231,12 +14895,8 @@ Herberekenen？</txt>
     <txt>使用最近的已知位置嗎？</txt>
   </str>
   <str>
-   <tag>TXT_RT_90_STR_M</tag>
-   <txt>RT 90</txt>
-  </str>
-  <str>
    <tag>TXT_RUSSIAN_KB_LANG_STR_M</tag>
-   <txt>Russisch</txt>
+   <txt>俄語</txt>
   </str>
   <str>
    <tag>TXT_Race_Track_STR</tag>
@@ -15244,7 +14904,7 @@ Herberekenen？</txt>
   </str>
   <str>
    <tag>TXT_Radians_STR_M</tag>
-   <txt>Radialen</txt>
+   <txt>弧度</txt>
   </str>
   <str>
    <tag>TXT_Radius_STR_M</tag>
@@ -15740,15 +15400,15 @@ Herberekenen？</txt>
   </str>
   <str>
    <tag>TXT_STP_User_Waypoint_STR_L</tag>
-   <txt>Waypoints</txt>
+   <txt>航點</txt>
   </str>
   <str>
    <tag>TXT_STP_User_Waypoint_STR_M</tag>
-   <txt>Waypoints</txt>
+   <txt>航點</txt>
   </str>
   <str>
    <tag>TXT_STP_User_Waypoint_STR_S</tag>
-   <txt>Waypoints</txt>
+   <txt>航點</txt>
   </str>
   <str>
    <tag>TXT_STP_WiFi_STR_L</tag>
@@ -16101,7 +15761,7 @@ Herberekenen？</txt>
   </str>
   <str>
    <tag>TXT_Set_Color_M</tag>
-   <txt>Kies kleur</txt>
+   <txt>選擇顏色</txt>
   </str>
   <str>
    <tag>TXT_Set_Current_Track_Color_STR_M</tag>
@@ -16658,11 +16318,11 @@ Herberekenen？</txt>
   </str>
   <str>
     <tag>TXT_MNU_Waypoint_Averaging_STR_M</tag>
-    <txt>Waypoint middelen</txt>
+    <txt>取得精確座標</txt>
   </str>
   <str>
     <tag>TXT_MNU_Waypoint_Averaging_STR_S</tag>
-    <txt>Waypoint middelen</txt>
+    <txt>取得精確座標</txt>
   </str>
 
   <str>
@@ -16816,11 +16476,11 @@ Herberekenen？</txt>
   </str>
    <str>
    <tag>TXT_Track_Already_Exists_STR_M</tag>
-    <txt>跟踪已存在</txt>
+    <txt>航跡已存在</txt>
   </str>
   <str>
    <tag>TXT_Track_Archive_Error_STR_M</tag>
-    <txt>歸檔跟踪錯誤</txt>
+    <txt>歸檔航跡錯誤</txt>
   </str>
   <str>
    <tag>TXT_Track_Distance_STR_M</tag>
@@ -16832,11 +16492,11 @@ Herberekenen？</txt>
   </str>
   <str>
    <tag>TXT_Track_Truncated_STR_M</tag>
-    <txt>跟踪不完整</txt>
+    <txt>航跡不完整</txt>
   </str>
   <str>
    <tag>TXT_Track__Saving_Requirements_STR_M</tag>
-    <txt>曲目存儲至少需要兩點。</txt>
+    <txt>航跡存儲至少需要兩點。</txt>
   </str>
   <str>
    <tag>TXT_Track_and_Trip_STR_M</tag>
@@ -17108,7 +16768,7 @@ Herberekenen？</txt>
   </str>
     <str>
    <tag>TXT_Utilities_Activate_Device_to_Access_Plan_Details_STR_M</tag>
-    <txt>激活以獲取訂戶信息。</txt>
+    <txt>啟動以獲取訂戶信息。</txt>
   </str>
   <str>
    <tag>TXT_Utilities_Activate_Device_to_Access_Plan_Usage_STR_M</tag>
@@ -17176,7 +16836,7 @@ Herberekenen？</txt>
   </str>
    <str>
    <tag>TXT_Utilities_Unlimited_Preset_Messages_STR_M</tag>
-    <txt>無限。預設。郵件</txt>
+    <txt>無限數量的預設郵件</txt>
   </str>
    <str>
    <tag>TXT_Utilities_Unlimited_STR_M</tag>
@@ -17184,7 +16844,7 @@ Herberekenen？</txt>
   </str>
   <str>
    <tag>TXT_Utilities_Unlimited_Text_Messages_STR_M</tag>
-    <txt>無限。短信數量</txt>
+    <txt>無限的簡訊數量</txt>
   </str>
   <str>
    <tag>TXT_Utilities_Update_Plan_STR_M</tag>
