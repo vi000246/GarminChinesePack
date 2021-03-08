@@ -8926,6 +8926,58 @@
     <tag>TXT_FND_Community_STR_M</tag>
     <txt>社區</txt>
   </str>
+    <str>
+    <tag>TXT_Fishing_STR_M</tag>
+    <txt>釣魚</txt>
+  </str>
+  <str>
+    <tag>TXT_GLIDE_RATIO_DEST_STR_N</tag>
+    <txt>到目標海拔滑行率</txt>
+  </str>
+  <str>
+    <tag>TXT_GLIDE_RATIO_DEST_STR_S</tag>
+    <txt>到目標海拔滑行率</txt>
+  </str>
+  <str>
+    <tag>TXT_GLIDE_RATIO_STR_N</tag>
+    <txt>滑行率</txt>
+  </str>
+  <str>
+    <tag>TXT_GLIDE_RATIO_STR_S</tag>
+    <txt>滑行率</txt>
+  </str>
+    <str>
+    <tag>TXT_GPS_ACCURACY_STR_N</tag>
+    <txt>GSP精準度</txt>
+  </str>
+  <str>
+    <tag>TXT_GPS_ACCURACY_STR_S</tag>
+    <txt>GSP精準度</txt>
+  </str>
+  <str>
+    <tag>TXT_GPS_Altitude_STR_M</tag>
+    <txt>GPS-海拔</txt>
+  </str>
+  <str>
+    <tag>TXT_GPS_Elevation_STR_M</tag>
+    <txt>GPS-海拔</txt>
+  </str>
+  <str>
+    <tag>TXT_GPS_Elevation_STR_S</tag>
+    <txt>GPS-海拔</txt>
+  </str>
+  <str>
+    <tag>TXT_February_STR_M</tag>
+    <txt>二月</txt>
+  </str>
+  <str>
+    <tag>TXT_February_STR_S</tag>
+    <txt>二月</txt>
+  </str>
+    <str>
+    <tag>TXT_Favorites_STR_M</tag>
+    <txt>收藏夾</txt>
+  </str>
    <str>
     <tag>TXT_FND_Fishing_Spots_STR_L</tag>
     <txt>垂釣區</txt>
