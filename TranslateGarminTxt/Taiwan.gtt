@@ -2260,7 +2260,7 @@
 	<txt>柴油車</txt>
 </str>
 <str>
-	<tag>TXT_Direction__STR</tag>
+	<tag>TXT_Direction_STR</tag>
 	<txt>方向: </txt>
 </str>
 <str>
@@ -4563,13 +4563,21 @@
     <tag>TXT_Directional_Letters_STR_M</tag>
     <txt>方位文字</txt>
   </str>
+   <str>
+    <tag>TXT_Directional_Letters_STR</tag>
+    <txt>方位文字</txt>
+  </str>
+   <str>
+    <tag>TXT_Magnetic_STR_M</tag>
+    <txt>磁北</txt>
+  </str>
   <str>
     <tag>TXT_Location_Share_Message_Elevation</tag>
     <txt>高度: %1</txt>
   </str>
   <str>
     <tag>TXT_Lock_On_Road_STR_M</tag>
-    <txt>上路鎖定</txt>
+    <txt>安全模式 路上鎖定</txt>
   </str>
   <str>
     <tag>TXT_Log_STR_S</tag>
@@ -4789,7 +4797,7 @@
   </str>
    <str>
     <tag>TXT_Guidance_Text_STR_M</tag>
-    <txt>導航方向</txt>
+    <txt>參考文字</txt>
   </str>
   <str>
     <tag>TXT_Grassland_STR</tag>
@@ -5508,7 +5516,7 @@
 
  <str>
     <tag>TXT_Barometer_Mode_STR_S</tag>
-    <txt>晴雨表模式</txt>
+    <txt>氣壓計模式</txt>
   </str>
   <str>
     <tag>TXT_Reset_STR_M</tag>
@@ -6243,7 +6251,7 @@
 </str>
  <str>
     <tag>TXT_ETA_DEST_STR_S</tag>
-    <txt>ETA 抵達時間</txt>
+    <txt>最終到達時間</txt>
   </str>
   <str>
     <tag>TXT_MNU_FIT_History_STR_M</tag>
@@ -6443,7 +6451,7 @@
   </str>
     <str>
     <tag>TXT_More_Often_STR_M</tag>
-    <txt>更經常</txt>
+    <txt>更常</txt>
   </str>
     <str>
     <tag>TXT_None_blank_STR_M</tag>
@@ -7027,7 +7035,7 @@
   </str>
   <str>
     <tag>TXT_True_STR_M</tag>
-    <txt>是的</txt>
+    <txt>真北</txt>
   </str>
   <str>
     <tag>TXT_Train_Station_STR</tag>
@@ -7103,7 +7111,7 @@
   </str>
    <str>
     <tag>TXT_Elevation_STR_XS</tag>
-    <txt>海拔</txt>
+    <txt>高度</txt>
   </str>
   <str>
     <tag>TXT_Tour_Cycling_STR</tag>
@@ -7207,7 +7215,7 @@
   </str>
   <str>
     <tag>TXT_Symbol_Set_STR_M</tag>
-    <txt>符號集</txt>
+    <txt>標記選項</txt>
   </str>
   <str>
     <tag>TXT_Synagogue_STR</tag>
@@ -7229,6 +7237,10 @@
     <tag>TXT_Subway_Train_Station_STR</tag>
     <txt>地鐵站</txt>
   </str>
+   <str>
+    <tag>TXT_Light_Sectors_STR_M</tag>
+    <txt>有效燈弧區</txt>
+  </str>
   <str>
     <tag>TXT_Steakhouses_STR</tag>
     <txt>小酒館</txt>
@@ -7243,7 +7255,7 @@
   </str>
   <str>
     <tag>TXT_Spot_Soundings_STR_M</tag>
-    <txt>深度探測</txt>
+    <txt>觀測點</txt>
   </str>
   <str>
     <tag>TXT_Square_Kilometers_STR_M</tag>
@@ -7547,7 +7559,7 @@
   </str>
   <str>
     <tag>TXT_Most_Often_STR_M</tag>
-    <txt>最經常</txt>
+    <txt>最常</txt>
   </str>
   <str>
     <tag>TXT_NORWEGIAN_KB_LANG_STR_M</tag>
@@ -7815,7 +7827,7 @@
 </str>
 <str>
 	<tag>TXT_Spot_Elevation_STR</tag>
-	<txt>測點海拔</txt>
+	<txt>測點高度</txt>
 </str>
 <str>
 	<tag>TXT_Spot_Height_STR</tag>
@@ -9650,15 +9662,35 @@
   </str>
    <str>
     <tag>TXT_Land_Cover_STR_M</tag>
-    <txt>土地</txt>
+    <txt>地名</txt>
+  </str>
+   <str>
+    <tag>TXT_Land_Cover_STR</tag>
+    <txt>地名</txt>
   </str>
   <str>
    <tag>TXT_3D_Arrow_Vehicle_Name_STR_M</tag>
    <txt>3D箭頭</txt>
   </str>
    <str>
+    <tag>TXT_Battery_config_STR_N</tag>
+    <txt>電池</txt>
+  </str>
+  <str>
+    <tag>TXT_Battery_config_STR_S</tag>
+    <txt>電池</txt>
+  </str>
+  <str>
+   <tag>TXT_3D_Arrow_Vehicle_Name_STR</tag>
+   <txt>3D箭頭</txt>
+  </str>
+   <str>
     <tag>TXT_Bash_Vehicle_Name_STR_M</tag>
-    <txt>涼爽的</txt>
+    <txt>四驅車</txt>
+  </str>
+   <str>
+    <tag>TXT_Bash_Vehicle_Name_STR</tag>
+    <txt>四驅車</txt>
   </str>
     <str>
     <tag>TXT_Beach_Ball_Vehicle_Name_STR_M</tag>
@@ -9800,6 +9832,10 @@
    <tag>TXT_Activation_Step_3_Status_3_STR_M</tag>
     <txt>等待響應</txt>
   </str>
+    <str>
+    <tag>TXT_Activation_Welcome_STR_M</tag>
+    <txt>歡迎</txt>
+  </str>
   <str>
    <tag>TXT_Activation_Taking_Long_STR_M</tag>
     <txt>啟動需要很長時間。確保您可以清楚看到天空。</txt>
@@ -9830,6 +9866,10 @@
   </str>
   <str>
    <tag>TXT_Activity_STR_M</tag>
+    <txt>活動</txt>
+  </str>
+  <str>
+   <tag>TXT_Activity_STR</tag>
     <txt>活動</txt>
   </str>
   <str>
@@ -9950,7 +9990,7 @@
   </str>
   <str>
    <tag>TXT_Altimeter_Calibration_STR_M</tag>
-    <txt>校準高度計</txt>
+    <txt>高度計矯正</txt>
   </str>
   <str>
    <tag>TXT_Altimeter_STR_M</tag>
@@ -9978,7 +10018,7 @@
   </str>
   <str>
    <tag>TXT_Appearance_STR_M</tag>
-    <txt>外貌</txt>
+    <txt>顯示</txt>
   </str>
   <str>
    <tag>TXT_Applications_STR_M</tag>
@@ -10102,7 +10142,7 @@
   </str>
   <str>
    <tag>TXT_Auto_Calibration_STR_S</tag>
-    <txt>自動校準</txt>
+    <txt>GPS自動校正</txt>
   </str>
   <str>
    <tag>TXT_Auto_Clubs_STR</tag>
@@ -10266,7 +10306,7 @@
   </str>
   <str>
    <tag>TXT_Basic_Details_Downloaded_STR</tag>
-    <txt>下載的地理緩存asis信息。提示，說明和日誌現在已在後台下載。</txt>
+    <txt>下載的地理藏寶asis信息。提示，說明和日誌現在已在後台下載。</txt>
   </str>
   <str>
    <tag>TXT_Basic_STR_M</tag>
@@ -10490,7 +10530,7 @@
   </str>
   <str>
    <tag>TXT_Cache_Size_STR_M</tag>
-    <txt>緩存大小</txt>
+    <txt>快取大小</txt>
   </str>
   <str>
    <tag>TXT_Cadence_STR_M</tag>
@@ -10606,7 +10646,7 @@
   </str>
   <str>
     <tag>TXT_GPS_Elevation_STR_M</tag>
-    <txt>GPS-海拔</txt>
+    <txt>GPS-高度</txt>
   </str>
   <str>
     <tag>TXT_Geocache_Basic_Member_Forbidden_STR</tag>
@@ -10616,7 +10656,7 @@
   </str>
   <str>
     <tag>TXT_GPS_Elevation_STR_S</tag>
-    <txt>GPS-海拔</txt>
+    <txt>GPS-高度</txt>
   </str>
   <str>
     <tag>TXT_February_STR_M</tag>
@@ -10712,7 +10752,7 @@
   </str>
     <str>
     <tag>TXT_Deep_Water_STR_M</tag>
-    <txt>深水</txt>
+    <txt>深水警示</txt>
   </str>
   <str>
     <tag>TXT_Day_STR_M</tag>
@@ -11461,7 +11501,7 @@
   </str>
   <str>
    <tag>TXT_Do_you_really_want_to_delete_these_geocaches__STR_M</tag>
-    <txt>是否刪除所選的地理位置緩存？</txt>
+    <txt>是否刪除所選的地理藏寶位置？</txt>
   </str>
   <str>
    <tag>TXT_Do_you_really_want_to_delete_these_prox_alarms__STR_M</tag>
@@ -11593,7 +11633,7 @@
   </str>
   <str>
    <tag>TXT_ETE_NEXT_STR_N</tag>
-    <txt>下一個時間</txt>
+    <txt>航程時間</txt>
   </str>
   <str>
    <tag>TXT_ETE_NEXT_STR_S</tag>
@@ -12357,7 +12397,7 @@
   </str>
   <str>
    <tag>TXT_Filter_Show_All_STR_M</tag>
-    <txt>卡通人</txt>
+    <txt>顯示全部</txt>
   </str>
   <str>
    <tag>TXT_Filter_Virtual_STR_M</tag>
@@ -12417,7 +12457,7 @@
   </str>
   <str>
    <tag>TXT_Fixed_Elevation_STR_M</tag>
-    <txt>固定高度</txt>
+    <txt>高度固定狀態</txt>
   </str>
    <str>
    <tag>TXT_Florist_STR</tag>
@@ -12827,7 +12867,7 @@
   </str>
   <str>
    <tag>TXT_Grid_STR_M</tag>
-    <txt>網格</txt>
+    <txt>網格北</txt>
   </str>
   <str>
    <tag>TXT_Grill_STR</tag>
@@ -13142,7 +13182,7 @@
   </str>
   <str>
    <tag>TXT_Insufficient_Track_Data_STR_M</tag>
-    <txt>曲目不足
+    <txt>航跡不足
  高程數據
  高度剖面。</txt>
   </str>
@@ -13441,7 +13481,7 @@
   </str>
   <str>
    <tag>TXT_Log_Upload_Success_STR</tag>
-    <txt>地理緩存日誌已成功上傳到geocaching.com。</txt>
+    <txt>地理藏寶日誌已成功上傳到geocaching.com。</txt>
   </str>
    <str>
    <tag>TXT_Longitude_Of_Central_Point_STR_S</tag>
@@ -13725,15 +13765,15 @@
   </str>
   <str>
    <tag>TXT_MNU_Stopwatch_STR_L</tag>
-    <txt>秒錶</txt>
+    <txt>碼錶</txt>
   </str>
   <str>
    <tag>TXT_MNU_Stopwatch_STR_M</tag>
-    <txt>秒錶</txt>
+    <txt>碼錶</txt>
   </str>
   <str>
    <tag>TXT_MNU_Stopwatch_STR_S</tag>
-    <txt>秒錶</txt>
+    <txt>碼錶</txt>
   </str>
   <str>
    <tag>TXT_MNU_Sun_and_Moon_STR_L</tag>
@@ -13749,15 +13789,15 @@
   </str>
   <str>
    <tag>TXT_MNU_Track_Manager_STR_L</tag>
-    <txt>保存的曲目</txt>
+    <txt>保存的航跡</txt>
   </str>
   <str>
    <tag>TXT_MNU_Track_Manager_STR_M</tag>
-    <txt>保存的曲目</txt>
+    <txt>保存的航跡</txt>
   </str>
   <str>
    <tag>TXT_MNU_Track_Manager_STR_S</tag>
-    <txt>保存的曲目</txt>
+    <txt>保存的航跡</txt>
   </str>
   <str>
    <tag>TXT_MNU_Trip_Computer_STR_L</tag>
@@ -13868,10 +13908,17 @@
     <tag>TXT_STP_Marine_STR_S</tag>
     <txt>航海</txt>
   </str>
-
+ <str>
+    <tag>TXT_Set_Anchor_Drag_Alarm_STR_M</tag>
+    <txt>流錨警示</txt>
+  </str>
+  <str>
+    <tag>TXT_Anchor_Drag_Alarm_STR_S</tag>
+    <txt>流錨警示</txt>
+  </str>
    <str>
    <tag>TXT_Marine_Alarm_Setup_STR_M</tag>
-    <txt>設置海洋警報</txt>
+    <txt>航海警示設定</txt>
   </str>
    <str>
    <tag>TXT_Marine_Forecast_Failed_STR_M</tag>
@@ -13883,7 +13930,7 @@
   </str>
   <str>
    <tag>TXT_Marine_Mode_STR_M</tag>
-    <txt>水圖模式</txt>
+    <txt>航海圖模式</txt>
   </str>
     <str>
    <tag>TXT_Maserati_Dealers_STR</tag>
@@ -14220,7 +14267,7 @@
   </str>
   <str>
    <tag>TXT_Near_Geocache_FRMT_STR_M</tag>
-    <txt>接近地理緩存：％1</txt>
+    <txt>接近地理藏寶：％1</txt>
   </str>
   <str>
    <tag>TXT_Near_Proximity_Point_STR_M</tag>
@@ -14292,7 +14339,7 @@
   </str>
   <str>
    <tag>TXT_No_Active_Geocache_STR_M</tag>
-    <txt>選擇要開始的地理緩存。</txt>
+    <txt>選擇要開始的地理藏寶。</txt>
   </str>
   <str>
    <tag>TXT_No_Active_Route_1_STR_M</tag>
@@ -14328,23 +14375,23 @@
   </str>
   <str>
    <tag>TXT_No_Geocache_Lists_STR</tag>
-    <txt>未檢測到地理緩存列表。轉到geocaching.com設置地理緩存列表。</txt>
+    <txt>未檢測到地理藏寶列表。轉到geocaching.com設置地理藏寶列表。</txt>
   </str>
   <str>
    <tag>TXT_No_Geocaches_Dash_STR_M</tag>
-   <txt>Geen地理緩存</txt>
+   <txt>沒有地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_No_Geocaches_Found_Help_Text_STR_M</tag>
-    <txt>找不到地理緩存</txt>
+    <txt>找不到地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_No_Geocaches_STR_M</tag>
-    <txt>找不到地理緩存。</txt>
+    <txt>找不到地理藏寶。</txt>
   </str>
   <str>
    <tag>TXT_No_Geocaches_Sub_Text_STR_M</tag>
-    <txt>訪問garmin.com/geocache以獲取有關地理緩存的更多信息。</txt>
+    <txt>訪問garmin.com/geocache以獲取有關地理藏寶的更多信息。</txt>
   </str>
   <str>
    <tag>TXT_No_Hint_STR_M</tag>
@@ -14424,7 +14471,7 @@
   </str>
   <str>
    <tag>TXT_North_Reference_STR_S</tag>
-   <txt>指向北方</txt>
+   <txt>方位基準</txt>
   </str>
   <str>
    <tag>TXT_Not_Chosen_STR_M</tag>
@@ -14524,7 +14571,7 @@
   </str>
   <str>
    <tag>TXT_Off_Course_Alarm_STR_S</tag>
-    <txt>課程錯誤警報</txt>
+    <txt>偏航警示</txt>
   </str>
   <str>
    <tag>TXT_Off_Course_alarm_banner_STR_M</tag>
@@ -14708,7 +14755,7 @@
   </str>
   <str>
    <tag>TXT_Plot_Type_STR_M</tag>
-    <txt>類型圖</txt>
+    <txt>圖形顯示模式</txt>
   </str>
   <str>
    <tag>TXT_Point_to_your_approximate_STR_S</tag>
@@ -14804,7 +14851,7 @@
   </str>
   <str>
    <tag>TXT_Pressure_Trend_Recording_STR_S</tag>
-    <txt>大氣壓力趨勢</txt>
+    <txt>氣壓記錄開關</txt>
   </str>
   <str>
    <tag>TXT_Private_STR_M</tag>
@@ -15060,7 +15107,7 @@
   </str>
   <str>
    <tag>TXT_Register_Device_Prompt_STR_M</tag>
-    <txt>通過在geocaching.com上註冊設備來訪問實時地理緩存信息。選擇下面的“註冊設備”並開始註冊。</txt>
+    <txt>通過在geocaching.com上註冊設備來訪問實時地理藏寶信息。選擇下面的“註冊設備”並開始註冊。</txt>
   </str>
   <str>
    <tag>TXT_Register_Device_STR_M</tag>
@@ -15076,7 +15123,7 @@
   </str>
     <str>
    <tag>TXT_Remove_Geocaches_STR</tag>
-    <txt>具有地理緩存</txt>
+    <txt>移除地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Remove_Live_Data</tag>
@@ -15104,7 +15151,7 @@
   </str>
   <str>
    <tag>TXT_Requesting_Geocache_Information_STR</tag>
-    <txt>請求地理緩存信息...</txt>
+    <txt>請求地理藏寶信息...</txt>
   </str>
   <str>
    <tag>TXT_Require_Device_Verification_STR_M</tag>
@@ -15364,7 +15411,7 @@
   </str>
   <str>
    <tag>TXT_STP_Appearance_STR_S</tag>
-    <txt>演示</txt>
+    <txt>外觀</txt>
   </str>
   <str>
     <tag>TXT_Big_STR_M</tag>
@@ -15536,7 +15583,7 @@
   </str>
    <str>
    <tag>TXT_Save_When_Power_On_STR_M</tag>
-    <txt>啟用時保存</txt>
+    <txt>僅開機時記錄</txt>
   </str>
   <str>
    <tag>TXT_Save_and_Edit_STR_M</tag>
@@ -15769,7 +15816,7 @@
   </str>
    <str>
    <tag>TXT_Send_Geocache_STR_M</tag>
-    <txt>發送地理緩存</txt>
+    <txt>發送地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Send_Location_STR_M</tag>
@@ -15857,7 +15904,7 @@
   </str>
   <str>
    <tag>TXT_Setup_Geocaching_STR_M</tag>
-    <txt>設置地理緩存</txt>
+    <txt>設置地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_Setup_Heading_STR_M</tag>
@@ -15925,7 +15972,7 @@
   </str>
   <str>
    <tag>TXT_Shallow_Water_STR_M</tag>
-    <txt>淺水</txt>
+    <txt>淺水警示</txt>
   </str>
   <str>
    <tag>TXT_Share_Mode_STR_M</tag>
@@ -15945,11 +15992,11 @@
   </str>
   <str>
    <tag>TXT_Show_Codes_STR_M</tag>
-    <txt>卡通代碼</txt>
+    <txt>顯示代碼</txt>
   </str>
   <str>
    <tag>TXT_Show_Dashboard_STR_M</tag>
-    <txt>卡通儀表板</txt>
+    <txt>顯示儀表板</txt>
   </str>
   <str>
    <tag>TXT_Show_Description_STR_M</tag>
@@ -15961,7 +16008,7 @@
   </str>
    <str>
    <tag>TXT_Show_Logs_STR_M</tag>
-    <txt>卡通日誌</txt>
+    <txt>顯示日誌</txt>
   </str>
    <str>
    <tag>TXT_Show_Photos_Created_STR_M</tag>
@@ -15969,7 +16016,7 @@
   </str>
   <str>
    <tag>TXT_Show_Photos_STR_M</tag>
-    <txt>卡通照片的</txt>
+    <txt>顯示照片的</txt>
   </str>
   <str>
    <tag>TXT_Show_Position_in_Sky_STR_M</tag>
@@ -16001,7 +16048,7 @@
   </str>
    <str>
    <tag>TXT_Sort_Tracks_STR_M</tag>
-    <txt>排序曲目</txt>
+    <txt>排序航跡</txt>
   </str>
     <str>
    <tag>TXT_Sos_Cannot_Send_STR_M</tag>
@@ -16209,23 +16256,23 @@
   </str>
   <str>
    <tag>TXT_Stopwatch_Items_STR_M</tag>
-    <txt>秒錶項目</txt>
+    <txt>碼錶項目</txt>
   </str>
   <str>
    <tag>TXT_Stopwatch_STR_L</tag>
-    <txt>秒錶</txt>
+    <txt>碼錶</txt>
   </str>
   <str>
    <tag>TXT_Stopwatch_STR_M</tag>
-    <txt>秒錶</txt>
+    <txt>碼錶</txt>
   </str>
   <str>
    <tag>TXT_Stopwatch_Timer_STR_M</tag>
-    <txt>秒錶計時器</txt>
+    <txt>碼錶計時器</txt>
   </str>
   <str>
    <tag>TXT_Stopwatch_Timer_STR_S</tag>
-    <txt>秒錶計時器</txt>
+    <txt>碼錶計時器</txt>
   </str>
   <str>
    <tag>TXT_Storage_Location_STR_M</tag>
@@ -16325,7 +16372,7 @@
   </str>
   <str>
    <tag>TXT_TOTAL_ASCNT_STR_N</tag>
-    <txt>總上升</txt>
+    <txt>總爬升落差</txt>
   </str>
   <str>
    <tag>TXT_TOTAL_ASCNT_STR_S</tag>
@@ -16596,7 +16643,7 @@
   </str>
   <str>
    <tag>TXT_Tracking_Moving_Interval_STR_M</tag>
-    <txt>運動間隔</txt>
+    <txt>追踨回報間隔</txt>
   </str>
    <str>
    <tag>TXT_Tracking_SOS_STR_M</tag>
@@ -16632,7 +16679,7 @@
   </str>
   <str>
    <tag>TXT_Tracks_Logged_STR_S</tag>
-    <txt>捕獲的曲目</txt>
+    <txt>記錄的航跡</txt>
   </str>
     <str>
    <tag>TXT_Traditional_STR_M</tag>
@@ -16804,7 +16851,7 @@
   </str>
   <str>
    <tag>TXT_Updating_Geocache_List_Information_STR</tag>
-    <txt>更新地理緩存列表信息</txt>
+    <txt>更新地理藏寶列表信息</txt>
   </str>
   <str>
    <tag>TXT_Updating_Maps_STR_M</tag>
@@ -16836,7 +16883,7 @@
   </str>
   <str>
    <tag>TXT_User_STR_M</tag>
-    <txt>用戶</txt>
+    <txt>自訂</txt>
   </str>
     <str>
    <tag>TXT_Utilities_Activate_Device_to_Access_Plan_Details_STR_M</tag>
@@ -16936,7 +16983,7 @@
   </str>
   <str>
    <tag>TXT_Variable_Elevation_STR_M</tag>
-    <txt>可變高度</txt>
+    <txt>高度變動狀態</txt>
   </str>
   <str>
    <tag>TXT_Vegan_STR</tag>
@@ -17036,7 +17083,7 @@
   </str>
   <str>
    <tag>TXT_View_Geocache_STR</tag>
-    <txt>查看地理緩存</txt>
+    <txt>查看地理藏寶</txt>
   </str>
   <str>
    <tag>TXT_View_Hunt_And_Fish_STR_M</tag>
