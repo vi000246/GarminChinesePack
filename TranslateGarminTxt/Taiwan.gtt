@@ -743,12 +743,16 @@
         <txt>目標方位(大)</txt>
     </str>
     <str>
+        <tag>TXT_Bearing_Small_STR_M</tag>
+        <txt>目標方位(小)</txt>
+    </str>
+    <str>
         <tag>TXT_Bearing_Medium_STR_M</tag>
         <txt>目標方位(中)</txt>
     </str>
     <str>
         <tag>TXT_Bearing_STR_M</tag>
-        <txt>目標方位</txt>
+        <txt>到終點的方向</txt>
     </str>
 
 <str>
@@ -4593,7 +4597,7 @@
   </str>
   <str>
     <tag>TXT_Lock_On_Road_STR_M</tag>
-    <txt>鎖定道路</txt>
+    <txt>箭頭鎖定在道路上</txt>
   </str>
   <str>
     <tag>TXT_Log_STR_S</tag>
@@ -5534,6 +5538,10 @@
     <tag>TXT_Barometer_Mode_STR_S</tag>
     <txt>氣壓計模式</txt>
   </str>
+      <str>
+        <tag>TXT_Barometric_Pressure_STR_M</tag>
+        <txt>calibrated current pressure</txt>
+    </str>
   <str>
     <tag>TXT_Reset_STR_M</tag>
     <txt>重置</txt>
@@ -6587,7 +6595,7 @@
   </str>
   <str>
     <tag>TXT_To_Course_STR_M</tag>
-    <txt>前往航向</txt>
+    <txt>往航線方向</txt>
   </str>
   <str>
     <tag>TXT_Tone_10_STR_M</tag>
@@ -6679,7 +6687,7 @@
   </str>
     <str>
     <tag>TXT_Turn_STR_M</tag>
-    <txt>轉彎</txt>
+    <txt>到目的地的夾角角度</txt>
   </str>
   <str>
     <tag>TXT_Unspecified_STR</tag>
@@ -6711,7 +6719,7 @@
   </str>
   <str>
     <tag>TXT_Waypoint_Destination_STR_M</tag>
-    <txt>航點目的地</txt>
+    <txt>航線上最後一個航點</txt>
   </str>
   <str>
     <tag>TXT_Waypoint_IDs_STR_S</tag>
@@ -6931,7 +6939,7 @@
   </str>
     <str>
     <tag>TXT_Vertical_Dist_to_Next_STR_S</tag>
-    <txt>垂直到下個點距離</txt>
+    <txt>到下個點垂直距離</txt>
   </str>
   <str>
     <tag>TXT_Vertical_Speed_Dest_STR_M</tag>
@@ -6939,15 +6947,15 @@
   </str>
   <str>
     <tag>TXT_Vertical_Dist_to_Dest_STR_M</tag>
-    <txt>垂直到目的地距離</txt>
+    <txt>到目的地垂直距離</txt>
   </str>
   <str>
     <tag>TXT_Vertical_Dist_to_Dest_STR_S</tag>
-    <txt>垂直到目的地距離</txt>
+    <txt>到目的地垂直距離</txt>
   </str>
   <str>
     <tag>TXT_Vertical_Dist_to_Next_STR_M</tag>
-    <txt>垂直到下個點距離</txt>
+    <txt>到下個點垂直距離</txt>
   </str>
   <str>
     <tag>TXT_Utilities_Tracking_Points_STR_M</tag>
@@ -7199,7 +7207,7 @@
   </str>
   <str>
     <tag>TXT_Temperature_Water_STR_M</tag>
-    <txt>溫度-水</txt>
+    <txt>水溫</txt>
   </str>
   <str>
     <tag>TXT_Sleep_STR_M</tag>
@@ -10211,7 +10219,7 @@
   </str>
   <str>
    <tag>TXT_Auto_Save_STR_M</tag>
-    <txt>自動保存</txt>
+    <txt>自動封存</txt>
   </str>
   <str>
    <tag>TXT_Auto_Start_STR_M</tag>
@@ -10275,19 +10283,19 @@
   </str>
   <str>
    <tag>TXT_Avg_Ascent_STR_M</tag>
-    <txt>平均上升</txt>
+    <txt>平均上升垂直距離</txt>
   </str>
   <str>
    <tag>TXT_Avg_Descent_STR_M</tag>
-    <txt>平均下降</txt>
+    <txt>平均下降垂直距離</txt>
   </str>
  <str>
         <tag>TXT_Max_Descent_STR_M</tag>
-        <txt>最大下降</txt>
+        <txt>最大下降垂直距離</txt>
     </str>
     <str>
         <tag>TXT_Descent_STR_M</tag>
-        <txt>下降</txt>
+        <txt>下降垂直距離</txt>
     </str>
   <str>
    <tag>TXT_Avg_Lap_STR_S</tag>
@@ -10737,11 +10745,11 @@
   </str>
   <str>
         <tag>TXT_Automotive_Turn_STR_M</tag>
-        <txt>轉彎</txt>
+        <txt>下個轉彎方向</txt>
     </str>
     <str>
         <tag>TXT_Automotive_Turn_STR_S</tag>
-        <txt>轉彎</txt>
+        <txt>下個轉彎方向</txt>
     </str>
   <str>
     <tag>TXT_Exits_STR_M</tag>
@@ -11241,7 +11249,7 @@
   </str>
   <str>
    <tag>TXT_Current_Lap_Cnfgfld_STR_S</tag>
-    <txt>當前回合</txt>
+    <txt>碼錶當前圈的時間</txt>
   </str>
   <str>
    <tag>TXT_Current_Lap_STR_M</tag>
@@ -11673,7 +11681,7 @@
   </str>
   <str>
    <tag>TXT_ETA_Destination_STR_M</tag>
-    <txt>目的地處的預計到達時間</txt>
+    <txt>目的地預計到達時間</txt>
   </str>
   <str>
    <tag>TXT_ETA_NEXT_STR_N</tag>
@@ -11701,15 +11709,15 @@
   </str>
   <str>
    <tag>TXT_ETE_NEXT_STR_N</tag>
-    <txt>航程時間</txt>
+    <txt>到下個航點預計時間</txt>
   </str>
   <str>
    <tag>TXT_ETE_NEXT_STR_S</tag>
-    <txt>航程時間</txt>
+    <txt>到下個航點預計時間</txt>
   </str>
   <str>
    <tag>TXT_ETE_Next_STR_M</tag>
-    <txt>航程時間</txt>
+    <txt>到下個航點預計時間</txt>
   </str>
   <str>
    <tag>TXT_ETE_TO_PT_STR_N</tag>
@@ -13127,7 +13135,7 @@
   </str>
   <str>
    <tag>TXT_Importing_Courses_as_Tracks_STR_S</tag>
-    <txt>將課程導入為航跡</txt>
+    <txt>將航向導入為航跡</txt>
   </str>
   <str>
    <tag>TXT_Importing_Track_STR_M</tag>
@@ -13545,7 +13553,7 @@
   </str>
   <str>
    <tag>TXT_Location_at_Dest_STR_M</tag>
-    <txt>目標位置</txt>
+    <txt>目標點位置</txt>
   </str>
   <str>
    <tag>TXT_Location_at_Dest_STR_S</tag>
@@ -13553,7 +13561,7 @@
   </str>
   <str>
    <tag>TXT_Lock_Direction_STR_M</tag>
-    <txt>修正方向</txt>
+    <txt>鎖定方向</txt>
   </str>
   <str>
    <tag>TXT_Log_Attempt_STR_M</tag>
@@ -14026,7 +14034,7 @@
   </str>
   <str>
    <tag>TXT_Max_Ascent_STR_M</tag>
-    <txt>上升-最高</txt>
+   <txt>最大上升率 feet/min</txt>
   </str>
     <str>
    <tag>TXT_Max_Difficulty_STR_S</tag>
@@ -15467,11 +15475,11 @@
   </str>
    <str>
    <tag>TXT_STP_Advanced_STR_M</tag>
-    <txt>高級。設置</txt>
+    <txt>進階設定</txt>
   </str>
   <str>
    <tag>TXT_STP_Advanced_STR_S</tag>
-    <txt>高級。設置</txt>
+    <txt>進階設定</txt>
   </str>
   <str>
    <tag>TXT_STP_Adventures_STR_L</tag>
@@ -16048,7 +16056,7 @@
   </str>
   <str>
    <tag>TXT_Shaded_Relief_Show_STR_M</tag>
-    <txt>顯示（如果可用）。</txt>
+    <txt>顯示地勢（如果可用）。</txt>
   </str>
   <str>
    <tag>TXT_Shallow_Water_Alert_STR_M</tag>
@@ -16388,7 +16396,7 @@
   </str>
    <str>
    <tag>TXT_Sunrise_Sunset_STR_M</tag>
-    <txt>區域操作/順序</txt>
+   <txt>日出/日落</txt>
   </str>
   <str>
    <tag>TXT_Sunrise_Sunset_STR_S</tag>
@@ -16396,7 +16404,7 @@
   </str>
   <str>
    <tag>TXT_Sunset_STR_M</tag>
-    <txt>區域劃分</txt>
+    <txt>日落</txt>
   </str>
   <str>
    <tag>TXT_Sunset_STR_S</tag>
@@ -16811,7 +16819,7 @@
   </str>
    <str>
    <tag>TXT_Trip_Timer_Stopped_STR_M</tag>
-    <txt>行程時間-已停止</txt>
+    <txt>總休息時間</txt>
   </str>
   <str>
    <tag>TXT_Trouble_finding_satellites_STR_M</tag>
