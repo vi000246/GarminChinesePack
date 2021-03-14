@@ -126,15 +126,15 @@
 </str>
  <str>
         <tag>TXT_FND_Food___Drink_STR_L</tag>
-        <txt>食物及飲料</txt>
+        <txt>餐飲</txt>
     </str>
     <str>
         <tag>TXT_FND_Food___Drink_STR_M</tag>
-        <txt>食物及飲料</txt>
+        <txt>餐飲</txt>
     </str>
     <str>
         <tag>TXT_FND_Food___Drink_STR_S</tag>
-        <txt>食物及飲料</txt>
+        <txt>餐飲</txt>
     </str>
 
     <str>
@@ -4741,7 +4741,7 @@
   </str>
   <str>
     <tag>TXT_InReach_Message_Wpt_Id_STR_M</tag>
-    <txt>信息</txt>
+    <txt>訊息</txt>
   </str>
   <str>
     <tag>TXT_Internet_Comic_Cafe_STR</tag>
@@ -4757,7 +4757,7 @@
   </str>
     <str>
     <tag>TXT_InReachMessaging_Course_M</tag>
-    <txt>課程</txt>
+    <txt>InReach軌道</txt>
   </str>
   <str>
     <tag>TXT_InReachMessaging_Time_M</tag>
@@ -6266,6 +6266,10 @@
 	<txt>速限警示: </txt>
 </str>
  <str>
+        <tag>TXT_Less_Data_STR_M</tag>
+        <txt>較少訊息</txt>
+    </str>
+ <str>
     <tag>TXT_ETA_DEST_STR_S</tag>
     <txt>最終到達時間</txt>
   </str>
@@ -6583,7 +6587,7 @@
   </str>
   <str>
     <tag>TXT_To_Course_STR_M</tag>
-    <txt>前往課程</txt>
+    <txt>前往航向</txt>
   </str>
   <str>
     <tag>TXT_Tone_10_STR_M</tag>
@@ -6651,7 +6655,7 @@
   </str>
     <str>
     <tag>TXT_Tourist_Information_STR</tag>
-    <txt>旅遊信息</txt>
+    <txt>旅遊訊息</txt>
   </str>
   <str>
     <tag>TXT_Tow_Services_STR</tag>
@@ -6675,7 +6679,7 @@
   </str>
     <str>
     <tag>TXT_Turn_STR_M</tag>
-    <txt>出口</txt>
+    <txt>轉彎</txt>
   </str>
   <str>
     <tag>TXT_Unspecified_STR</tag>
@@ -6907,7 +6911,7 @@
   </str>
   <str>
     <tag>TXT_View_Map_Information_STR_M</tag>
-    <txt>地圖信息</txt>
+    <txt>地圖訊息</txt>
   </str>
   <str>
     <tag>TXT_View_Spot_STR</tag>
@@ -7043,16 +7047,20 @@
   </str>
     <str>
     <tag>TXT_Trip_Avg_Speed_Overall_STR_M</tag>
-    <txt>速度：總平均速度</txt>
+    <txt>整個行程平均速度</txt>
   </str>
   <str>
     <tag>TXT_Trip_Timer_Moving_STR_M</tag>
-    <txt>旅行移動計時器</txt>
+    <txt>旅行計時器(移動時)</txt>
   </str>
   <str>
     <tag>TXT_Trip_Timer_STR_M</tag>
     <txt>旅行時間</txt>
   </str>
+   <str>
+        <tag>TXT_Battery_Level_STR_M</tag>
+        <txt>電量</txt>
+    </str>
   <str>
     <tag>TXT_True_STR_M</tag>
     <txt>真北</txt>
@@ -7071,7 +7079,7 @@
   </str>
   <str>
     <tag>TXT_Trip_Avg_Speed_Moving_STR_M</tag>
-    <txt>速度：平均移動速度</txt>
+    <txt>移動時的平均速度</txt>
   </str>
     <str>
     <tag>TXT_Track_STR_M</tag>
@@ -7207,7 +7215,7 @@
   </str>
   <str>
     <tag>TXT_TRIP_ODOM_STR_N</tag>
-    <txt>行程計數器</txt>
+    <txt>行程里程表</txt>
   </str>
   <str>
     <tag>TXT_TRIP_ODOM_STR_S</tag>
@@ -7915,7 +7923,7 @@
 </str>
 <str>
 	<tag>TXT_STOP_TMR_STR_S</tag>
-	<txt>靜止時間</txt>
+	<txt>停留時間</txt>
 </str>
 <str>
 	<tag>TXT_Straight_Territorial_Sea_Baseline_STR</tag>
@@ -9767,7 +9775,7 @@
   </str>
   <str>
    <tag>TXT_A_Recent_Find_STR_M</tag>
-    <txt>最近發現</txt>
+    <txt>最近搜尋</txt>
   </str>
   <str>
    <tag>TXT_A_Waypoint_STR_M</tag>
@@ -9883,7 +9891,7 @@
   </str>
   <str>
    <tag>TXT_Activity_Distance_STR_S</tag>
-    <txt>距離活動</txt>
+    <txt>航跡距離</txt>
   </str>
   <str>
    <tag>TXT_Activity_Paused_STR_M</tag>
@@ -9999,7 +10007,7 @@
   </str>
   <str>
    <tag>TXT_All_POI_STR_M</tag>
-    <txt>所有景點</txt>
+    <txt>所有興趣點</txt>
   </str>
   <str>
    <tag>TXT_All_Symbols_STR_M</tag>
@@ -10011,7 +10019,7 @@
    </str>
   <str>
    <tag>TXT_Altimeter_Cal_Fail_STR_M</tag>
-    <txt>校準失敗。有關更多信息，請參見手冊。</txt>
+    <txt>校準失敗。有關更多訊息，請參見手冊。</txt>
   </str>
   <str>
    <tag>TXT_Altimeter_Calibration_STR_M</tag>
@@ -10335,7 +10343,7 @@
   </str>
   <str>
    <tag>TXT_Basic_Details_Downloaded_STR</tag>
-    <txt>下載的地理藏寶asis信息。提示，說明和日誌現在已在後台下載。</txt>
+    <txt>下載的地理藏寶asis訊息。提示，說明和日誌現在已在後台下載。</txt>
   </str>
   <str>
    <tag>TXT_Basic_STR_M</tag>
@@ -10375,7 +10383,7 @@
   </str>
   <str>
    <tag>TXT_Battery_too_low_to_update_STR_M</tag>
-    <txt>電池電量太低，無法更新軟件。</txt>
+    <txt>電池電量太低，無法更新軟體。</txt>
   </str>
   <str>
    <tag>TXT_Beauty_Personal_Care_STR</tag>
@@ -10563,7 +10571,7 @@
   </str>
   <str>
    <tag>TXT_Cadence_STR_M</tag>
-    <txt>卡登斯</txt>
+    <txt>自行車速度感測器</txt>
   </str>
   <str>
    <tag>TXT_Cadence_STR_N</tag>
@@ -10631,11 +10639,11 @@
   </str>
   <str>
     <tag>TXT_FND_Community_STR_L</tag>
-    <txt>社區</txt>
+    <txt>機關社團</txt>
   </str>
   <str>
     <tag>TXT_FND_Community_STR_M</tag>
-    <txt>社區</txt>
+    <txt>機關社團</txt>
   </str>
     <str>
     <tag>TXT_Fishing_STR_M</tag>
@@ -10713,7 +10721,7 @@
   </str>
   <str>
     <tag>TXT_FND_Community_STR_S</tag>
-    <txt>社區</txt>
+    <txt>機關社團</txt>
   </str>
     <str>
     <tag>TXT_Enter_Pressure_In_STR_M</tag>
@@ -10727,6 +10735,14 @@
     <tag>TXT_Exit_Road_STR_S</tag>
     <txt>出口</txt>
   </str>
+  <str>
+        <tag>TXT_Automotive_Turn_STR_M</tag>
+        <txt>轉彎</txt>
+    </str>
+    <str>
+        <tag>TXT_Automotive_Turn_STR_S</tag>
+        <txt>轉彎</txt>
+    </str>
   <str>
     <tag>TXT_Exits_STR_M</tag>
     <txt>出口</txt>
@@ -10749,7 +10765,7 @@
   </str>
   <str>
     <tag>TXT_Distance_to_Saved_STR_M</tag>
-    <txt>到Saved的距離</txt>
+    <txt>到儲存座標的距離</txt>
   </str>
   <str>
     <tag>TXT_Dist_To_Point_STR_M</tag>
@@ -10889,7 +10905,7 @@
   </str>
   <str>
    <tag>TXT_Can_t_Verify_Map_Signature_Nag_STR_M</tag>
-    <txt>無法驗證卡。卡在％1上關閉。有關更多信息，請參閱用戶手冊。</txt>
+    <txt>無法驗證卡。卡在％1上關閉。有關更多訊息，請參閱用戶手冊。</txt>
   </str>
   <str>
    <tag>TXT_Can_t_Verify_Map_Signature_STR_M</tag>
@@ -10929,12 +10945,28 @@
   </str>
   <str>
    <tag>TXT_Change_Dashboard_STR_M</tag>
-    <txt>修改儀表板</txt>
+    <txt>更改儀表板</txt>
   </str>
   <str>
    <tag>TXT_Change_Data_Fields_STR_M</tag>
-    <txt>更改數據字段</txt>
+    <txt>更改資料欄位</txt>
   </str>
+   <str>
+        <tag>TXT_Off_Course_Alarm_STR_S</tag>
+        <txt>偏離路徑警示</txt>
+    </str>
+    <str>
+        <tag>TXT_Off_Course_STR_M</tag>
+        <txt>偏離路徑</txt>
+    </str>
+<str>
+        <tag>TXT_Off_Course_alarm_banner_STR_M</tag>
+        <txt>偏離路徑</txt>
+    </str>
+<str>
+        <tag>TXT_Set_Off_Course_Alarm_STR_M</tag>
+        <txt>偏離路徑設定</txt>
+    </str>
   <str>
    <tag>TXT_Change_Date_STR_M</tag>
     <txt>更改日期</txt>
@@ -10953,8 +10985,12 @@
   </str>
   <str>
    <tag>TXT_Change_Photo_STR_M</tag>
-    <txt>修改照片</txt>
+    <txt>更換照片</txt>
   </str>
+   <str>
+        <tag>TXT_Save_Projected_Waypoint_Message_STR_M</tag>
+        <txt>投影航點</txt>
+    </str>
   <str>
    <tag>TXT_Change_Proximity_STR_M</tag>
     <txt>更改距離</txt>
@@ -11285,15 +11321,15 @@
   </str>
   <str>
    <tag>TXT_Date_Cnfgfld_STR_S</tag>
-    <txt>基準</txt>
+    <txt>日期</txt>
   </str>
   <str>
    <tag>TXT_Date_STR_M</tag>
-    <txt>基準</txt>
+    <txt>日期</txt>
   </str>
   <str>
    <tag>TXT_Date_STR_S</tag>
-    <txt>基準</txt>
+    <txt>日期</txt>
   </str>
    <str>
    <tag>TXT_Daylight_Savings_Time_STR_S</tag>
@@ -11405,11 +11441,11 @@
   </str>
   <str>
    <tag>TXT_Detail_STR_M</tag>
-    <txt>詳細信息</txt>
+    <txt>詳細訊息</txt>
   </str>
   <str>
    <tag>TXT_Details_STR</tag>
-    <txt>詳細信息</txt>
+    <txt>詳細訊息</txt>
   </str>
   <str>
    <tag>TXT_Device_Approaching_Min_Temperature_STR_M</tag>
@@ -11641,15 +11677,15 @@
   </str>
   <str>
    <tag>TXT_ETA_NEXT_STR_N</tag>
-    <txt>下一個ETA</txt>
+    <txt>ETA:下一個點</txt>
   </str>
   <str>
    <tag>TXT_ETA_NEXT_STR_S</tag>
-    <txt>下一個ETA</txt>
+    <txt>ETA:下一個點</txt>
   </str>
   <str>
    <tag>TXT_ETA_Next_STR_M</tag>
-    <txt>下一個ETA</txt>
+    <txt>ETA:下一個點</txt>
   </str>
   <str>
    <tag>TXT_ETE_DEST_STR_N</tag>
@@ -11669,11 +11705,11 @@
   </str>
   <str>
    <tag>TXT_ETE_NEXT_STR_S</tag>
-    <txt>下一個時間</txt>
+    <txt>航程時間</txt>
   </str>
   <str>
    <tag>TXT_ETE_Next_STR_M</tag>
-    <txt>下一個時間</txt>
+    <txt>航程時間</txt>
   </str>
   <str>
    <tag>TXT_ETE_TO_PT_STR_N</tag>
@@ -12057,19 +12093,27 @@
   </str>
   <str>
    <tag>TXT_FND_All_POI_STR_L</tag>
-    <txt>所有景點</txt>
+    <txt>所有興趣點</txt>
   </str>
+  <str>
+        <tag>TXT_FND_All_POI_STR_M</tag>
+        <txt>所有興趣點</txt>
+    </str>
+    <str>
+        <tag>TXT_FND_All_POI_STR_S</tag>
+        <txt>所有興趣點</txt>
+    </str>
    <str>
    <tag>TXT_FND_Attractions_STR_L</tag>
-    <txt>景點</txt>
+    <txt>吸引點</txt>
   </str>
   <str>
    <tag>TXT_FND_Attractions_STR_M</tag>
-    <txt>景點</txt>
+    <txt>吸引點</txt>
   </str>
   <str>
    <tag>TXT_FND_Attractions_STR_S</tag>
-    <txt>景點</txt>
+    <txt>吸引點</txt>
   </str>
   <str>
    <tag>TXT_FND_Auto_Services_STR_L</tag>
@@ -12177,27 +12221,27 @@
   </str>
   <str>
    <tag>TXT_FND_Intersections_STR_L</tag>
-    <txt>交叉點</txt>
+    <txt>路口</txt>
   </str>
   <str>
    <tag>TXT_FND_Intersections_STR_M</tag>
-    <txt>交叉點</txt>
+    <txt>路口</txt>
   </str>
   <str>
    <tag>TXT_FND_Intersections_STR_S</tag>
-    <txt>交叉點</txt>
+    <txt>路口</txt>
   </str>
   <str>
    <tag>TXT_FND_Lodging_STR_L</tag>
-    <txt>日誌</txt>
+    <txt>住宿</txt>
   </str>
   <str>
    <tag>TXT_FND_Lodging_STR_M</tag>
-    <txt>日誌</txt>
+    <txt>住宿</txt>
   </str>
   <str>
    <tag>TXT_FND_Lodging_STR_S</tag>
-    <txt>日誌</txt>
+    <txt>住宿</txt>
   </str>
   <str>
    <tag>TXT_FND_Marine_Services_STR_M</tag>
@@ -12245,15 +12289,15 @@
   </str>
   <str>
    <tag>TXT_FND_Recreation_STR_L</tag>
-    <txt>娛樂節目</txt>
+    <txt>遊憩場所</txt>
   </str>
   <str>
    <tag>TXT_FND_Recreation_STR_M</tag>
-    <txt>娛樂節目</txt>
+    <txt>遊憩場所</txt>
   </str>
   <str>
    <tag>TXT_FND_Recreation_STR_S</tag>
-    <txt>娛樂節目</txt>
+    <txt>遊憩場所</txt>
   </str>
   <str>
    <tag>TXT_FND_Restricted_Areas_STR_L</tag>
@@ -12317,15 +12361,15 @@
   </str>
    <str>
    <tag>TXT_FND_Transportation_STR_L</tag>
-    <txt>運輸</txt>
+    <txt>交通設施</txt>
   </str>
   <str>
    <tag>TXT_FND_Transportation_STR_M</tag>
-    <txt>運輸</txt>
+    <txt>交通設施</txt>
   </str>
   <str>
    <tag>TXT_FND_Transportation_STR_S</tag>
-    <txt>運輸</txt>
+    <txt>交通設施</txt>
   </str>
   <str>
    <tag>TXT_FND_Use_Map_STR_L</tag>
@@ -12717,7 +12761,7 @@
   </str>
    <str>
    <tag>TXT_GPS_Heading_STR_M</tag>
-   <txt>GPS導航器</txt>
+   <txt>GPS航向</txt>
   </str>
   <str>
    <tag>TXT_GPS_Heading_STR_S</tag>
@@ -12801,7 +12845,7 @@
   </str>
   <str>
    <tag>TXT_Geocache_Basic_Member_Download_Prompt_STR</tag>
-    <txt>地理藏寶下載基本成員每天可以下載3個地理藏寶的詳細信息。</txt>
+    <txt>地理藏寶下載基本成員每天可以下載3個地理藏寶的詳細訊息。</txt>
   </str>
   <str>
    <tag>TXT_Geocache_DB_Full_STR_M</tag>
@@ -12819,11 +12863,11 @@
   </str>
    <str>
    <tag>TXT_Geocache_Information_Received_STR</tag>
-    <txt>接收地理藏寶信息</txt>
+    <txt>接收地理藏寶訊息</txt>
   </str>
    <str>
    <tag>TXT_Geocache_Not_In_Database_STR_M</tag>
-    <txt>無法找到有關此地理藏寶的其他信息。</txt>
+    <txt>無法找到有關此地理藏寶的其他訊息。</txt>
   </str>
   <str>
    <tag>TXT_Geocache_Premium_Member_Only_STR</tag>
@@ -13553,15 +13597,15 @@
   </str>
    <str>
    <tag>TXT_MNU_Active_Route_STR_L</tag>
-    <txt>活動路線</txt>
+    <txt>行經路線</txt>
   </str>
   <str>
    <tag>TXT_MNU_Active_Route_STR_M</tag>
-    <txt>活動路線</txt>
+    <txt>行經路線</txt>
   </str>
   <str>
    <tag>TXT_MNU_Active_Route_STR_S</tag>
-    <txt>活動路線</txt>
+    <txt>行經路線</txt>
   </str>
   <str>
    <tag>TXT_MNU_Active_Weather_STR_L</tag>
@@ -13837,7 +13881,7 @@
   </str>
   <str>
    <tag>TXT_MNU_Trip_Computer_STR_L</tag>
-    <txt>行程儀表板</txt>
+    <txt>航行資訊</txt>
   </str>
     <str>
         <tag>TXT_Odometer_STR_M</tag>
@@ -13854,11 +13898,11 @@
 
   <str>
    <tag>TXT_MNU_Trip_Computer_STR_M</tag>
-    <txt>行程儀表板</txt>
+    <txt>航行資訊</txt>
   </str>
   <str>
    <tag>TXT_MNU_Trip_Computer_STR_S</tag>
-    <txt>行程儀表板</txt>
+    <txt>航行資訊</txt>
   </str>
    <str>
    <tag>TXT_MOB_STR_S</tag>
@@ -14050,7 +14094,7 @@
   </str>
   <str>
    <tag>TXT_Messages_Not_Sent_Instructions_STR_M</tag>
-    <txt>檢查設備的天空視野是否清晰。選擇繼續以繼續嘗試。選擇停止以稍後發送消息，或通過消息詳細信息將其刪除。</txt>
+    <txt>檢查設備的天空視野是否清晰。選擇繼續以繼續嘗試。選擇停止以稍後發送消息，或通過消息詳細訊息將其刪除。</txt>
   </str>
   <str>
    <tag>TXT_Messages_Not_Sent_STR_M</tag>
@@ -14147,7 +14191,7 @@
   </str>
    <str>
    <tag>TXT_More_Data_STR_M</tag>
-    <txt>更多詳細信息</txt>
+    <txt>更多詳細訊息</txt>
   </str>
     <str>
    <tag>TXT_Most_Recent_STR_M</tag>
@@ -14255,11 +14299,11 @@
   </str>
   <str>
    <tag>TXT_NRML_PRES_STR_N</tag>
-    <txt>晴雨表</txt>
+    <txt>大氣壓(晴雨表)</txt>
   </str>
   <str>
    <tag>TXT_NRML_PRES_STR_S</tag>
-    <txt>晴雨表</txt>
+    <txt>大氣壓</txt>
   </str>
   <str>
    <tag>TXT_NVG_CNG_STR</tag>
@@ -14351,7 +14395,7 @@
   </str>
   <str>
    <tag>TXT_New_software_found_STR_M</tag>
-    <txt>找到了新軟件。繼續安裝嗎？</txt>
+    <txt>找到了新軟體。繼續安裝嗎？</txt>
   </str>
   <str>
    <tag>TXT_Next_Stage_STR_M</tag>
@@ -14395,7 +14439,7 @@
   </str>
   <str>
    <tag>TXT_No_CIQ_Apps_Sub_Text_STR_M</tag>
-    <txt>訪問apps.garmin.com了解更多信息。</txt>
+    <txt>訪問apps.garmin.com了解更多訊息。</txt>
   </str>
   <str>
    <tag>TXT_No_CIQ_Widgets_STR_M</tag>
@@ -14427,7 +14471,7 @@
   </str>
   <str>
    <tag>TXT_No_Geocaches_Sub_Text_STR_M</tag>
-    <txt>訪問garmin.com/geocache以獲取有關地理藏寶的更多信息。</txt>
+    <txt>訪問garmin.com/geocache以獲取有關地理藏寶的更多訊息。</txt>
   </str>
   <str>
    <tag>TXT_No_Hint_STR_M</tag>
@@ -14447,7 +14491,7 @@
   </str>
   <str>
    <tag>TXT_No_KML_Sub_Text_STR_M</tag>
-    <txt>有關更多信息，請訪問www.garmin.com/CustomMaps。</txt>
+    <txt>有關更多訊息，請訪問www.garmin.com/CustomMaps。</txt>
   </str>
   <str>
    <tag>TXT_No_Matches_Found_Sub_Text_STR_M</tag>
@@ -14499,8 +14543,16 @@
   </str>
   <str>
    <tag>TXT_Normalized_Pressure_STR_M</tag>
-    <txt>晴雨表</txt>
+    <txt>大氣壓(晴雨表)</txt>
   </str>
+   <str>
+        <tag>TXT_LLap_Distance_STR_M</tag>
+        <txt>單圈距離</txt>
+    </str>
+    <str>
+        <tag>TXT_LLap_Distance_STR_S</tag>
+        <txt>單圈距離</txt>
+    </str>
   <str>
    <tag>TXT_North_Indian_STR</tag>
     <txt>北印度</txt>
@@ -14606,16 +14658,8 @@
     <txt>里程表</txt>
   </str>
   <str>
-   <tag>TXT_Off_Course_Alarm_STR_S</tag>
-    <txt>偏航警示</txt>
-  </str>
-  <str>
-   <tag>TXT_Off_Course_alarm_banner_STR_M</tag>
-    <txt>價格錯誤</txt>
-  </str>
-  <str>
    <tag>TXT_Off_Road_Info_STR_XS</tag>
-   <txt>越野信息</txt>
+   <txt>越野訊息</txt>
   </str>
   <str>
    <tag>TXT_Off_Route_Recalculate_STR_M</tag>
@@ -14647,7 +14691,7 @@
   </str>
   <str>
    <tag>TXT_On_Road_Info_STR_XS</tag>
-    <txt>通過wegen通過路由獲取的信息</txt>
+    <txt>通過wegen通過路由獲取的訊息</txt>
   </str>
   <str>
    <tag>TXT_On_Road_Nav_STR_M</tag>
@@ -14793,6 +14837,10 @@
    <tag>TXT_Plot_Type_STR_M</tag>
     <txt>圖形顯示模式</txt>
   </str>
+   <str>
+        <tag>TXT_Spot_Elevation_STR</tag>
+        <txt>高拔剖面圖</txt>
+    </str>
   <str>
    <tag>TXT_Point_to_your_approximate_STR_S</tag>
     <txt>指向您的大概位置，然後按Use。</txt>
@@ -14883,7 +14931,7 @@
   </str>
   <str>
    <tag>TXT_Press_start_to_average_STR_M</tag>
-    <txt>記錄新樣本請按開心</txt>
+    <txt>記錄新樣本請按開始</txt>
   </str>
   <str>
    <tag>TXT_Pressure_Trend_Recording_STR_S</tag>
@@ -15143,7 +15191,7 @@
   </str>
   <str>
    <tag>TXT_Register_Device_Prompt_STR_M</tag>
-    <txt>通過在geocaching.com上註冊設備來訪問實時地理藏寶信息。選擇下面的“註冊設備”並開始註冊。</txt>
+    <txt>通過在geocaching.com上註冊設備來訪問實時地理藏寶訊息。選擇下面的“註冊設備”並開始註冊。</txt>
   </str>
   <str>
    <tag>TXT_Register_Device_STR_M</tag>
@@ -15187,7 +15235,7 @@
   </str>
   <str>
    <tag>TXT_Requesting_Geocache_Information_STR</tag>
-    <txt>請求地理藏寶信息...</txt>
+    <txt>請求地理藏寶訊息...</txt>
   </str>
   <str>
    <tag>TXT_Require_Device_Verification_STR_M</tag>
@@ -15215,7 +15263,7 @@
   </str>
     <str>
    <tag>TXT_Retrieving_Account_Information_STR</tag>
-    <txt>請求帳戶信息...</txt>
+    <txt>請求帳戶訊息...</txt>
   </str>
   <str>
    <tag>TXT_Retrieving_Activation_Code_STR_M</tag>
@@ -15243,7 +15291,7 @@
   </str>
   <str>
    <tag>TXT_Review_Track_STR_M</tag>
-    <txt>查看曲目</txt>
+    <txt>查看航跡</txt>
   </str>
   <str>
    <tag>TXT_Rinex_Logging_STR_S</tag>
@@ -15623,7 +15671,7 @@
   </str>
   <str>
    <tag>TXT_Save_and_Edit_STR_M</tag>
-    <txt>保存並編輯</txt>
+    <txt>儲存並編輯</txt>
   </str>
   <str>
    <tag>TXT_Save_as_Track_STR_M</tag>
@@ -15635,7 +15683,7 @@
   </str>
    <str>
    <tag>TXT_Saved_Location_STR_M</tag>
-    <txt>保存的位置</txt>
+    <txt>儲存座標</txt>
   </str>
   <str>
    <tag>TXT_Saved_Track_Log_STR_M</tag>
@@ -15876,7 +15924,7 @@
   </str>
   <str>
    <tag>TXT_Sending_Shot_Data_STR_M</tag>
-    <txt>發送XERO位置信息。</txt>
+    <txt>發送XERO位置訊息。</txt>
   </str>
   <str>
    <tag>TXT_Sensors_Found_STR_M</tag>
@@ -15924,7 +15972,7 @@
   </str>
   <str>
    <tag>TXT_Set_Off_Course_Alarm_STR_M</tag>
-    <txt>設置課程錯誤警報</txt>
+    <txt>設置偏離軌道警報</txt>
   </str>
    <str>
    <tag>TXT_Set_Shallow_Water_Alarm_STR_M</tag>
@@ -15944,7 +15992,7 @@
   </str>
   <str>
    <tag>TXT_Setup_Heading_STR_M</tag>
-    <txt>設置課程</txt>
+    <txt>設置方向</txt>
   </str>
   <str>
    <tag>TXT_Setup_Main_Menu_Help_1_STR_M</tag>
@@ -16495,11 +16543,11 @@
 
     <str>
    <tag>TXT_TO_COURSE_STR_N</tag>
-    <txt>評分</txt>
+    <txt>航向</txt>
   </str>
   <str>
    <tag>TXT_TO_COURSE_STR_S</tag>
-    <txt>評分</txt>
+    <txt>航向</txt>
   </str>
   <str>
    <tag>TXT_TRACK_STR_N</tag>
@@ -16563,7 +16611,7 @@
   </str>
    <str>
    <tag>TXT_This_Chirp_Contains_No_Data_STR_XS</tag>
-    <txt>無可用信息。</txt>
+    <txt>無可用訊息。</txt>
   </str>
   <str>
    <tag>TXT_This_Route_Does_Not_Match_the_Available_Maps__STR_M</tag>
@@ -16615,11 +16663,11 @@
   </str>
   <str>
    <tag>TXT_Touch_Screen_Firmware_Updating_STR_M</tag>
-    <txt>更新觸摸屏軟件</txt>
+    <txt>更新觸控螢幕軟體</txt>
   </str>
    <str>
    <tag>TXT_Tourist_Info_STR</tag>
-    <txt>旅遊信息</txt>
+    <txt>旅遊訊息</txt>
   </str>
    <str>
    <tag>TXT_Tourist_Ride_STR</tag>
@@ -16735,7 +16783,7 @@
   </str>
   <str>
    <tag>TXT_Transfer_Failed_STR_M</tag>
-    <txt>無法發送XERO位置信息。</txt>
+    <txt>無法發送XERO位置訊息。</txt>
   </str>
   <str>
    <tag>TXT_Transfer_Successful_STR_M</tag>
@@ -16887,7 +16935,7 @@
   </str>
   <str>
    <tag>TXT_Updating_Geocache_List_Information_STR</tag>
-    <txt>更新地理藏寶列表信息</txt>
+    <txt>更新地理藏寶列表訊息</txt>
   </str>
   <str>
    <tag>TXT_Updating_Maps_STR_M</tag>
@@ -16923,7 +16971,7 @@
   </str>
     <str>
    <tag>TXT_Utilities_Activate_Device_to_Access_Plan_Details_STR_M</tag>
-    <txt>啟動以獲取訂戶信息。</txt>
+    <txt>啟動以獲取訂戶訊息。</txt>
   </str>
   <str>
    <tag>TXT_Utilities_Activate_Device_to_Access_Plan_Usage_STR_M</tag>
@@ -17011,7 +17059,7 @@
   </str>
    <str>
    <tag>TXT_VMG_STR_M</tag>
-    <txt>保持速度</txt>
+    <txt>提高速度:VMG 航海用</txt>
   </str>
    <str>
    <tag>TXT_Validating_Update_STR_M</tag>
@@ -17132,7 +17180,7 @@
   </str>
   <str>
    <tag>TXT_View_Details_STR_M</tag>
-    <txt>查看詳細信息</txt>
+    <txt>查看詳細訊息</txt>
   </str>
   <str>
    <tag>TXT_View_Geocache_STR</tag>
@@ -17144,7 +17192,7 @@
   </str>
   <str>
    <tag>TXT_View_Information_STR_M</tag>
-    <txt>查看信息</txt>
+    <txt>查看訊息</txt>
   </str>
   <str>
    <tag>TXT_View_Map_STR_M</tag>
@@ -17575,7 +17623,7 @@
   </str>
   <str>
    <tag>TXT_inReach_See_more_on_inReach_STR_M</tag>
-    <txt>在inReach上了解更多信息。</txt>
+    <txt>在inReach上了解更多訊息。</txt>
   </str>
   <str>
    <tag>TXT_inReach_Weather_Welcome_Message_STR_M</tag>
