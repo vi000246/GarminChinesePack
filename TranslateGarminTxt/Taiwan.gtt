@@ -6283,7 +6283,7 @@
   </str>
   <str>
     <tag>TXT_MNU_FIT_History_STR_M</tag>
-    <txt>FIT歷史</txt>
+    <txt>活動歷史</txt>
   </str>
   <str>
     <tag>TXT_MNU_FIT_History_STR_S</tag>
@@ -6311,7 +6311,7 @@
   </str>
    <str>
     <tag>TXT_Restore_Profile_Settings_STR_M</tag>
-    <txt>恢復設置</txt>
+    <txt>恢復profile設定</txt>
   </str>
     <str>
     <tag>TXT_SD_Card_STR_M</tag>
@@ -6591,7 +6591,7 @@
   </str>
     <str>
     <tag>TXT_Timers_Averages_etc_STR_M</tag>
-    <txt>計時器 平均</txt>
+    <txt>時間,平均值,等</txt>
   </str>
   <str>
     <tag>TXT_To_Course_STR_M</tag>
@@ -10107,7 +10107,7 @@
   </str>
   <str>
    <tag>TXT_Are_You_Sure__Profile_STR_M</tag>
-    <txt>將當前配置文件恢復為默認設置。繼續嗎？</txt>
+    <txt>將當前profile設定恢復為默認設置。繼續嗎？</txt>
   </str>
   <str>
    <tag>TXT_Are_You_Sure__Remove_Live_Geocache_Data_STR_M</tag>
@@ -10115,7 +10115,7 @@
   </str>
   <str>
    <tag>TXT_Are_You_Sure__Settings_STR_M</tag>
-    <txt>恢復默認設置和配置文件，並且不刪除您的用戶數據，例如軌跡和航路點。繼續嗎？</txt>
+    <txt>恢復預設設置和profile設定，並且不刪除您的用戶數據，例如軌跡和航路點。繼續嗎？</txt>
   </str>
   <str>
    <tag>TXT_Are_You_Sure__Trip_Data_STR_M</tag>
@@ -11297,7 +11297,7 @@
   </str>
   <str>
    <tag>TXT_DIS_DEST_STR_S</tag>
-    <txt>。最好。</txt>
+    <txt>距離目的剩餘</txt>
   </str>
   <str>
    <tag>TXT_DUTCH_KB_LANG_STR_M</tag>
@@ -12489,7 +12489,7 @@
   </str>
   <str>
    <tag>TXT_Find_Another_STR_M</tag>
-    <txt>查找其他人</txt>
+    <txt>搜尋其他地點</txt>
   </str>
   <str>
    <tag>TXT_Find_Menu_STR_M</tag>
@@ -13797,7 +13797,7 @@
   </str>
     <str>
    <tag>TXT_MNU_Profile_Change_STR_L</tag>
-    <txt>更改個人資料</txt>
+    <txt>更改Profile</txt>
   </str>
   <str>
    <tag>TXT_MNU_Profile_Change_STR_M</tag>
@@ -15251,7 +15251,7 @@
   </str>
   <str>
    <tag>TXT_Reset_All_Settings_STR_M</tag>
-    <txt>恢復所有設置。</txt>
+    <txt>重設所有設定。</txt>
   </str>
     <str>
     <tag>TXT_Reset_STR_M</tag>
@@ -15300,6 +15300,10 @@
   <str>
    <tag>TXT_Review_Track_STR_M</tag>
     <txt>查看航跡</txt>
+  </str>
+    <str>
+   <tag>TXT_to_Pan_STR_M</tag>
+    <txt>平移</txt>
   </str>
   <str>
    <tag>TXT_Rinex_Logging_STR_S</tag>
