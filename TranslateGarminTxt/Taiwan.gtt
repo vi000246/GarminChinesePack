@@ -5536,11 +5536,11 @@
 
  <str>
     <tag>TXT_Barometer_Mode_STR_S</tag>
-    <txt>氣壓計模式</txt>
+    <txt>氣壓式高度計模式</txt>
   </str>
       <str>
         <tag>TXT_Barometric_Pressure_STR_M</tag>
-        <txt>calibrated current pressure</txt>
+        <txt>氣壓式高度計</txt>
     </str>
   <str>
     <tag>TXT_Reset_STR_M</tag>
@@ -10043,7 +10043,7 @@
   </str>
   <str>
    <tag>TXT_Ambient_Pressure_STR_M</tag>
-    <txt>現地氣壓</txt>
+    <txt>環境氣壓</txt>
   </str>
   <str>
    <tag>TXT_Amusement_Parks_STR</tag>
@@ -14551,7 +14551,7 @@
   </str>
   <str>
    <tag>TXT_Normalized_Pressure_STR_M</tag>
-    <txt>大氣壓(晴雨表)</txt>
+    <txt>大氣壓</txt>
   </str>
    <str>
         <tag>TXT_LLap_Distance_STR_M</tag>
