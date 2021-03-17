@@ -6287,7 +6287,7 @@
   </str>
   <str>
     <tag>TXT_MNU_FIT_History_STR_S</tag>
-    <txt>FIT歷史</txt>
+    <txt>活動歷史</txt>
   </str>
     <str>
     <tag>TXT_MNU_Inreach_Weather_STR_L</tag>
@@ -10045,6 +10045,10 @@
    <tag>TXT_Ambient_Pressure_STR_M</tag>
     <txt>環境氣壓</txt>
   </str>
+      <str>
+        <tag>TXT_Acquiring_Satellites_STR_L</tag>
+        <txt>衛星搜尋中...</txt>
+    </str>
   <str>
    <tag>TXT_Amusement_Parks_STR</tag>
     <txt>遊樂園</txt>
@@ -15422,6 +15426,14 @@
     <txt>搜索衛星...</txt>
   </str>
   <str>
+   <tag>TXT_STATUS_BAR_Locating_Satellites_STR_L</tag>
+    <txt>搜索衛星...</txt>
+  </str>
+  <str>
+   <tag>TXT_STATUS_BAR_Locating_Satellites_STR_S</tag>
+    <txt>搜索衛星...</txt>
+  </str>
+  <str>
    <tag>TXT_STATUS_BAR_Missed_Call_STR_S</tag>
     <txt>未接來電</txt>
   </str>
@@ -16502,7 +16514,10 @@
     <tag>TXT_MNU_Flashlight_STR_S</tag>
     <txt>手電筒</txt>
   </str>
-
+<str>
+    <tag>TXT_Min_Elevation_STR_S</tag>
+    <txt>最小相對高度</txt>
+  </str>
 <str>
     <tag>TXT_Min_Elevation_STR_M</tag>
     <txt>最小相對高度</txt>
