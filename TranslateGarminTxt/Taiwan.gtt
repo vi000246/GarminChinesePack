@@ -13625,11 +13625,11 @@
   </str>
   <str>
    <tag>TXT_MNU_Active_Weather_STR_M</tag>
-    <txt>活躍天氣</txt>
+    <txt>目前天氣</txt>
   </str>
   <str>
    <tag>TXT_MNU_Active_Weather_STR_S</tag>
-    <txt>活躍天氣</txt>
+    <txt>目前天氣</txt>
   </str>
   <str>
    <tag>TXT_MNU_Adventures_STR_L</tag>
