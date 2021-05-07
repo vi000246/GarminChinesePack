@@ -9802,6 +9802,10 @@
     <txt>搜索衛星...</txt>
   </str>
   <str>
+   <tag>TXT_Acquiring_Satellites_STR_M</tag>
+    <txt>搜索衛星...</txt>
+  </str>
+  <str>
    <tag>TXT_Acres_STR_M</tag>
     <txt>英畝</txt>
   </str>
@@ -10045,10 +10049,14 @@
    <tag>TXT_Ambient_Pressure_STR_M</tag>
     <txt>環境氣壓</txt>
   </str>
-      <str>
-        <tag>TXT_Acquiring_Satellites_STR_L</tag>
-        <txt>衛星搜尋中...</txt>
-    </str>
+  <str>
+     <tag>TXT_Acquiring_Satellites_STR_L</tag>
+     <txt>衛星搜尋中...</txt>
+  </str>
+  <str>
+     <tag>TXT_Acquiring_Satellites_STR_M</tag>
+     <txt>衛星搜尋中...</txt>
+  </str>
   <str>
    <tag>TXT_Amusement_Parks_STR</tag>
     <txt>遊樂園</txt>
@@ -10294,9 +10302,9 @@
     <txt>平均下降垂直距離</txt>
   </str>
  <str>
-        <tag>TXT_Max_Descent_STR_M</tag>
-        <txt>最大下降垂直距離</txt>
-    </str>
+    <tag>TXT_Max_Descent_STR_M</tag>
+     <txt>最大下降垂直距離</txt>
+ </str>
     <str>
         <tag>TXT_Descent_STR_M</tag>
         <txt>下降垂直距離</txt>
@@ -10748,13 +10756,13 @@
     <txt>出口</txt>
   </str>
   <str>
-        <tag>TXT_Automotive_Turn_STR_M</tag>
-        <txt>下個轉彎方向</txt>
-    </str>
-    <str>
-        <tag>TXT_Automotive_Turn_STR_S</tag>
-        <txt>下個轉彎方向</txt>
-    </str>
+    <tag>TXT_Automotive_Turn_STR_M</tag>
+    <txt>下個轉彎方向</txt>
+  </str>
+  <str>
+    <tag>TXT_Automotive_Turn_STR_S</tag>
+    <txt>下個轉彎方向</txt>
+  </str>
   <str>
     <tag>TXT_Exits_STR_M</tag>
     <txt>出口</txt>
@@ -10843,10 +10851,10 @@
     <tag>TXT_Controls_Display_Help_Text_STR_M</tag>
     <txt>選擇操作介面</txt>
   </str>
-    <str>
-        <tag>TXT_Goto_Line_3axis_STR_M</tag>
-	<txt>指示線/指標</txt>
-    </str>
+  <str>
+     <tag>TXT_Goto_Line_3axis_STR_M</tag>
+     <txt>指示線/指標</txt>
+  </str>
   <str>
    <tag>TXT_Calibrate_Compass_STR_M</tag>
     <txt>電子羅盤校正</txt>
@@ -10963,22 +10971,22 @@
    <tag>TXT_Change_Data_Fields_STR_M</tag>
     <txt>更改資料欄位</txt>
   </str>
-   <str>
-        <tag>TXT_Off_Course_Alarm_STR_S</tag>
-        <txt>偏離路徑警示</txt>
-    </str>
-    <str>
-        <tag>TXT_Off_Course_STR_M</tag>
-        <txt>偏離路徑</txt>
-    </str>
-<str>
-        <tag>TXT_Off_Course_alarm_banner_STR_M</tag>
-        <txt>偏離路徑</txt>
-    </str>
-<str>
-        <tag>TXT_Set_Off_Course_Alarm_STR_M</tag>
-        <txt>偏離路徑設定</txt>
-    </str>
+  <str>
+    <tag>TXT_Off_Course_Alarm_STR_S</tag>
+    <txt>偏離路徑警示</txt>
+  </str>
+  <str>
+    <tag>TXT_Off_Course_STR_M</tag>
+    <txt>偏離路徑</txt>
+  </str>
+  <str>
+    <tag>TXT_Off_Course_alarm_banner_STR_M</tag>
+    <txt>偏離路徑</txt>
+  </str>
+  <str>
+    <tag>TXT_Set_Off_Course_Alarm_STR_M</tag>
+    <txt>偏離路徑設定</txt>
+  </str>
   <str>
    <tag>TXT_Change_Date_STR_M</tag>
     <txt>更改日期</txt>
@@ -13665,27 +13673,27 @@
   </str>
   <str>
    <tag>TXT_MNU_Calculator_STR_L</tag>
-    <txt>計算器</txt>
+    <txt>計算機</txt>
   </str>
   <str>
    <tag>TXT_MNU_Calculator_STR_M</tag>
-    <txt>計算器</txt>
+    <txt>計算機</txt>
   </str>
   <str>
    <tag>TXT_MNU_Calculator_STR_S</tag>
-    <txt>計算器</txt>
+    <txt>計算機</txt>
   </str>
   <str>
    <tag>TXT_MNU_Calendar_STR_L</tag>
-    <txt>議程</txt>
+    <txt>行事曆</txt>
   </str>
   <str>
    <tag>TXT_MNU_Calendar_STR_M</tag>
-    <txt>議程</txt>
+    <txt>行事曆</txt>
   </str>
   <str>
    <tag>TXT_MNU_Calendar_STR_S</tag>
-    <txt>議程</txt>
+    <txt>行事曆</txt>
   </str>
   <str>
    <tag>TXT_MNU_Collections_Manager_STR_L</tag>
@@ -13717,15 +13725,15 @@
   </str>
   <str>
    <tag>TXT_MNU_Current_Track_STR_M</tag>
-    <txt>錄製按鈕</txt>
+    <txt>錄製活動</txt>
   </str>
   <str>
    <tag>TXT_MNU_Current_Track_STR_S</tag>
-    <txt>錄製按鈕</txt>
+    <txt>錄製活動</txt>
   </str>
   <str>
    <tag>TXT_MNU_FIT_History_STR_L</tag>
-    <txt>目前活動</txt>
+    <txt>錄製活動</txt>
   </str>
     <str>
    <tag>TXT_MNU_Geocaches_STR_L</tag>
@@ -13765,15 +13773,15 @@
   </str>
   <str>
    <tag>TXT_MNU_Inreach_Activation_STR_L</tag>
-    <txt>激活inReach</txt>
+    <txt>啟動inReach</txt>
   </str>
   <str>
    <tag>TXT_MNU_Inreach_Activation_STR_M</tag>
-    <txt>激活inReach</txt>
+    <txt>啟動inReach</txt>
   </str>
   <str>
    <tag>TXT_MNU_Inreach_Activation_STR_S</tag>
-    <txt>激活inReach</txt>
+    <txt>啟動inReach</txt>
   </str>
    <str>
    <tag>TXT_MNU_Inreach_Sos_STR_L</tag>
@@ -13789,19 +13797,19 @@
   </str>
   <str>
    <tag>TXT_MNU_Inreach_Utilities_STR_L</tag>
-   <txt>Inreach實用程序</txt>
+   <txt>Inreach實用程式</txt>
   </str>
   <str>
    <tag>TXT_MNU_Inreach_Utilities_STR_M</tag>
-   <txt>Inreach實用程序</txt>
+   <txt>Inreach實用程式</txt>
   </str>
   <str>
    <tag>TXT_MNU_Inreach_Utilities_STR_S</tag>
-   <txt>Inreach實用程序</txt>
+   <txt>Inreach實用程式</txt>
   </str>
     <str>
    <tag>TXT_MNU_Profile_Change_STR_L</tag>
-    <txt>更改Profile</txt>
+    <txt>更改個人資料</txt>
   </str>
   <str>
    <tag>TXT_MNU_Profile_Change_STR_M</tag>
