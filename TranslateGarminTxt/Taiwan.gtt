@@ -5781,11 +5781,11 @@
    </str>
    <str>
       <tag>TXT_Safety_Camera_Ahead_STR</tag>
-      <txt>前方測速照相機設置區</txt>
+      <txt>前方測速照相機擺放區</txt>
    </str>
    <str>
       <tag>TXT_Safety_Camera_Zone_STR</tag>
-      <txt>可變式測速照相點設置區</txt>
+      <txt>可變式測速照相點擺放區</txt>
    </str>
    <str>
       <tag>TXT_Samara_STR_M</tag>
@@ -6493,11 +6493,11 @@
    </str>
    <str>
       <tag>TXT_STP_Profiles_STR_M</tag>
-      <txt>設置個人資料</txt>
+      <txt>設定個人資料</txt>
    </str>
    <str>
       <tag>TXT_STP_Profiles_STR_S</tag>
-      <txt>設置個人資料</txt>
+      <txt>設定個人資料</txt>
    </str>
    <str>
       <tag>TXT_STP_Reset_STR_L</tag>
@@ -7361,7 +7361,7 @@
    </str>
    <str>
       <tag>TXT_Set_Via_Point_STR_M</tag>
-      <txt>中途點設置</txt>
+      <txt>中途點設定</txt>
    </str>
    <str>
       <tag>TXT_Single_STR_M</tag>
@@ -7449,7 +7449,7 @@
    </str>
    <str>
       <tag>TXT_Save_Track_STR_M</tag>
-      <txt>保存Track</txt>
+      <txt>儲存航跡</txt>
    </str>
    <str>
       <tag>TXT_Save_as_Waypoint_STR_M</tag>
@@ -7533,7 +7533,7 @@
    </str>
    <str>
       <tag>TXT_STP_Advanced_STR_L</tag>
-      <txt>進階設置</txt>
+      <txt>進階設定</txt>
    </str>
    <str>
       <tag>TXT_STATUS_BAR_Brightness_STR_M</tag>
@@ -7701,7 +7701,7 @@
    </str>
    <str>
       <tag>TXT_MNU_Setup_STR_M</tag>
-      <txt>設置</txt>
+      <txt>設定</txt>
    </str>
    <str>
       <tag>TXT_MNU_Virb_Remote_STR_L</tag>
@@ -9980,7 +9980,7 @@
    </str>
    <str>
       <tag>TXT_Alarm_Confirm_Message_1_STR_M</tag>
-      <txt>鬧鐘已設置，設備喚醒</txt>
+      <txt>鬧鐘已設定，設備喚醒</txt>
    </str>
    <str>
       <tag>TXT_Alarm_timer_STR_M</tag>
@@ -10060,7 +10060,7 @@
    </str>
    <str>
       <tag>TXT_Apply_Saved_Filter_Text_STR_M</tag>
-      <txt>應用保存的過濾器</txt>
+      <txt>應用儲存的過濾器</txt>
    </str>
    <str>
       <tag>TXT_Approaching_Proximity_Beep_STR_S</tag>
@@ -10096,7 +10096,7 @@
    </str>
    <str>
       <tag>TXT_Are_You_Sure__Profile_STR_M</tag>
-      <txt>將當前profile設定恢復為默認設置。繼續嗎？</txt>
+      <txt>將當前profile設定恢復為默認設定。繼續嗎？</txt>
    </str>
    <str>
       <tag>TXT_Are_You_Sure__Remove_Live_Geocache_Data_STR_M</tag>
@@ -10104,7 +10104,7 @@
    </str>
    <str>
       <tag>TXT_Are_You_Sure__Settings_STR_M</tag>
-      <txt>恢復預設設置和profile設定，並且不刪除您的用戶數據，例如軌跡和航路點。繼續嗎？</txt>
+      <txt>恢復預設設定和profile設定，並且不刪除您的用戶數據，例如軌跡和航路點。繼續嗎？</txt>
    </str>
    <str>
       <tag>TXT_Are_You_Sure__Trip_Data_STR_M</tag>
@@ -10440,7 +10440,7 @@
    </str>
    <str>
       <tag>TXT_Birdseye_Not_Enough_Space</tag>
-      <txt>沒有足夠的空間來下載圖像。降低半徑或分辨率，或釋放磁盤空間。</txt>
+      <txt>沒有足夠的空間來下載圖像。降低半徑或解析度，或釋放磁盤空間。</txt>
    </str>
    <str>
       <tag>TXT_Birdseye_Queue_Full</tag>
@@ -10464,7 +10464,7 @@
    </str>
    <str>
       <tag>TXT_Bluetooth_Garmin_Connect_Mobile_Setup_Failed_STR_M</tag>
-      <txt>設置Garmin Connect Mobile應用失敗。按繼續，然後重試。</txt>
+      <txt>設定Garmin Connect Mobile應用失敗。按繼續，然後重試。</txt>
    </str>
    <str>
       <tag>TXT_Bluetooth_MAC_Address_STR_M</tag>
@@ -10484,7 +10484,7 @@
    </str>
    <str>
       <tag>TXT_Bluetooth_Phone_Setup_STR_M</tag>
-      <txt>設置藍芽電話</txt>
+      <txt>設定藍芽電話</txt>
    </str>
    <str>
       <tag>TXT_Bluetooth_Waiting_to_Connect_STR_M</tag>
@@ -10934,7 +10934,7 @@
    </str>
    <str>
       <tag>TXT_Change_CDI_Scale_STR_M</tag>
-      <txt>設置比例</txt>
+      <txt>設定比例</txt>
    </str>
    <str>
       <tag>TXT_Change_Coordinates_STR_M</tag>
@@ -11070,7 +11070,7 @@
    </str>
    <str>
       <tag>TXT_Clear_Profile_Settings_STR_M</tag>
-      <txt>預設配置文件設置將恢復。</txt>
+      <txt>預設配置文件設定將恢復。</txt>
    </str>
    <str>
       <tag>TXT_Clear_Track_Log_Msg1_STR_M</tag>
@@ -11162,11 +11162,11 @@
    </str>
    <str>
       <tag>TXT_Contact_No_Address_STR_M</tag>
-      <txt>要保存聯繫人，您必須提供名字，姓氏和至少一個地址。</txt>
+      <txt>要儲存聯絡人，您必須提供名字，姓氏和至少一個地址。</txt>
    </str>
    <str>
       <tag>TXT_Contact_Oversize_STR_M</tag>
-      <txt>聯繫人字段包含太多字符。保存前請縮短字段。</txt>
+      <txt>聯絡人字段包含太多字符。儲存前請縮短字段。</txt>
    </str>
    <str>
       <tag>TXT_Continental_STR</tag>
@@ -11370,7 +11370,7 @@
    </str>
    <str>
       <tag>TXT_Delete_All_Settings_Prompt_STR_M</tag>
-      <txt>刪除所有保存的用戶數據，恢復預設設置。活動數據，每人。刪除GPS數據作為軌跡和航路點。注意：不會影響從PC複製的文件。繼續嗎？</txt>
+      <txt>刪除所有儲存的用戶數據，恢復預設設定。活動數據，每人。刪除GPS數據作為軌跡和航路點。注意：不會影響從PC複製的文件。繼續嗎？</txt>
    </str>
    <str>
       <tag>TXT_Delete_All_Settings_STR_M</tag>
@@ -11382,7 +11382,7 @@
    </str>
    <str>
       <tag>TXT_Delete_Contact_Confirm_STR_M</tag>
-      <txt>刪除聯繫人？</txt>
+      <txt>刪除聯絡人？</txt>
    </str>
    <str>
       <tag>TXT_Delete_Contact_STR_M</tag>
@@ -11730,7 +11730,7 @@
    </str>
    <str>
       <tag>TXT_Edit_Contact_STR_M</tag>
-      <txt>編輯聯繫人</txt>
+      <txt>編輯聯絡人</txt>
    </str>
    <str>
       <tag>TXT_Edit_Favorites_STR_M</tag>
@@ -12062,7 +12062,7 @@
    </str>
    <str>
       <tag>TXT_FIT__Saving_Requirements_STR_M</tag>
-      <txt>活動至少需要保存兩點。</txt>
+      <txt>活動至少需要儲存兩點。</txt>
    </str>
    <str>
       <tag>TXT_FND_Addresses_STR_L</tag>
@@ -12466,7 +12466,7 @@
    </str>
    <str>
       <tag>TXT_Filter_Setup_STR_M</tag>
-      <txt>設置過濾器</txt>
+      <txt>設定過濾器</txt>
    </str>
    <str>
       <tag>TXT_Filter_Show_All_STR_M</tag>
@@ -12666,7 +12666,7 @@
    </str>
    <str>
       <tag>TXT_GMU_Setup_STR_M</tag>
-      <txt>設置HMU</txt>
+      <txt>設定HMU</txt>
    </str>
    <str>
       <tag>TXT_GPI_Nav_Begin_STR_M</tag>
@@ -12976,7 +12976,7 @@
    </str>
    <str>
       <tag>TXT_HD_Video_STR_M</tag>
-      <txt>高清視頻</txt>
+      <txt>高清視訊</txt>
    </str>
    <str>
       <tag>TXT_HEBREW_KB_LANG_STR_M</tag>
@@ -13518,7 +13518,7 @@
    </str>
    <str>
       <tag>TXT_Location_STR_M</tag>
-      <txt>位置（設置）</txt>
+      <txt>位置（設定）</txt>
    </str>
    <str>
       <tag>TXT_Location_STR_S</tag>
@@ -13590,7 +13590,7 @@
    </str>
    <str>
       <tag>TXT_MAN_OVERBOARD_message2_STR_M</tag>
-      <txt>您要保存並導航到MOB航點嗎？</txt>
+      <txt>您要儲存並導航到MOB航點嗎？</txt>
    </str>
    <str>
       <tag>TXT_MNU_Active_Route_STR_L</tag>
@@ -13826,7 +13826,7 @@
    </str>
    <str>
       <tag>TXT_MNU_Setup_STR_S</tag>
-      <txt>設置</txt>
+      <txt>設定</txt>
    </str>
    <str>
       <tag>TXT_MNU_Share_Wirelessly_STR_L</tag>
@@ -13866,15 +13866,15 @@
    </str>
    <str>
       <tag>TXT_MNU_Track_Manager_STR_L</tag>
-      <txt>保存的航跡</txt>
+      <txt>儲存的航跡</txt>
    </str>
    <str>
       <tag>TXT_MNU_Track_Manager_STR_M</tag>
-      <txt>保存的航跡</txt>
+      <txt>儲存的航跡</txt>
    </str>
    <str>
       <tag>TXT_MNU_Track_Manager_STR_S</tag>
-      <txt>保存的航跡</txt>
+      <txt>儲存的航跡</txt>
    </str>
    <str>
       <tag>TXT_MNU_Trip_Computer_STR_L</tag>
@@ -14014,7 +14014,7 @@
    </str>
    <str>
       <tag>TXT_Master_Reset_STR_M</tag>
-      <txt>設置和活動將恢復為默認設置。</txt>
+      <txt>設定和活動將恢復為默認設定。</txt>
    </str>
    <str>
       <tag>TXT_Material_Lift_STR</tag>
@@ -14098,7 +14098,7 @@
    </str>
    <str>
       <tag>TXT_Messages_Setup_STR_M</tag>
-      <txt>設置郵件</txt>
+      <txt>設定郵件</txt>
    </str>
    <str>
       <tag>TXT_Sunrise_STR_M</tag>
@@ -14114,7 +14114,7 @@
    </str>
    <str>
       <tag>TXT_Setup_Map_STR_M</tag>
-      <txt>地圖設置</txt>
+      <txt>地圖設定</txt>
    </str>
    <str>
       <tag>TXT_Enter_Distance_In_STR_M</tag>
@@ -14366,7 +14366,7 @@
    </str>
    <str>
       <tag>TXT_New_Contact_STR_M</tag>
-      <txt>新聯繫人</txt>
+      <txt>新聯絡人</txt>
    </str>
    <str>
       <tag>TXT_New_Forecast_STR_M</tag>
@@ -14450,7 +14450,7 @@
    </str>
    <str>
       <tag>TXT_No_Geocache_Lists_STR</tag>
-      <txt>未檢測到地理藏寶列表。轉到geocaching.com設置地理藏寶列表。</txt>
+      <txt>未檢測到地理藏寶列表。轉到geocaching.com設定地理藏寶列表。</txt>
    </str>
    <str>
       <tag>TXT_No_Geocaches_Dash_STR_M</tag>
@@ -14802,15 +14802,15 @@
    </str>
    <str>
       <tag>TXT_Photo_GFS_Err_STR_M</tag>
-      <txt>保存照片錯誤</txt>
+      <txt>儲存照片錯誤</txt>
    </str>
    <str>
       <tag>TXT_Photo_Resolution_Help_Text_STR_M</tag>
-      <txt>相機照片分辨率</txt>
+      <txt>相機照片解析度</txt>
    </str>
    <str>
       <tag>TXT_Photo_Settings_STR_M</tag>
-      <txt>照片設置</txt>
+      <txt>照片設定</txt>
    </str>
    <str>
       <tag>TXT_Photo_Taken_STR_M</tag>
@@ -14942,11 +14942,11 @@
    </str>
    <str>
       <tag>TXT_Profile_Setup_STR_M</tag>
-      <txt>設置個人資料</txt>
+      <txt>設定個人資料</txt>
    </str>
    <str>
       <tag>TXT_Profile_created_successfully_STR_M</tag>
-      <txt>已創建一個新的配置文件。現在是當前配置文件。以前的配置文件已保存。</txt>
+      <txt>已創建一個新的配置文件。現在是當前配置文件。以前的配置文件已儲存。</txt>
    </str>
    <str>
       <tag>TXT_Project_Distance_Instructions_STR_M</tag>
@@ -15131,7 +15131,7 @@
    </str>
    <str>
       <tag>TXT_Record_Show_On_Map_STR_M</tag>
-      <txt>保存，在地圖上顯示</txt>
+      <txt>儲存，在地圖上顯示</txt>
    </str>
    <str>
       <tag>TXT_STP_Tracking_STR_L</tag>
@@ -15251,7 +15251,7 @@
    </str>
    <str>
       <tag>TXT_Restore_Defaults_STR_M</tag>
-      <txt>默認設置</txt>
+      <txt>默認設定</txt>
    </str>
    <str>
       <tag>TXT_Resume_Navigation_STR_M</tag>
@@ -15331,7 +15331,7 @@
    </str>
    <str>
       <tag>TXT_SETUP_TIME_Set_Time_STR_L</tag>
-      <txt>設置時間</txt>
+      <txt>設定時間</txt>
    </str>
    <str>
       <tag>TXT_SLOVAKIAN_KB_LANG_STR_M</tag>
@@ -15559,11 +15559,11 @@
    </str>
    <str>
       <tag>TXT_STP_Marine_Alarm_STR_L</tag>
-      <txt>設置鬧鐘</txt>
+      <txt>設定鬧鐘</txt>
    </str>
    <str>
       <tag>TXT_STP_Marine_Alarm_STR_M</tag>
-      <txt>設置鬧鐘</txt>
+      <txt>設定鬧鐘</txt>
    </str>
    <str>
       <tag>TXT_STP_Position_Format_STR_L</tag>
@@ -15655,7 +15655,7 @@
    </str>
    <str>
       <tag>TXT_Save_Activity_STR_M</tag>
-      <txt>保存活動</txt>
+      <txt>儲存活動</txt>
    </str>
    <str>
       <tag>TXT_Save_Always_STR_M</tag>
@@ -15663,7 +15663,7 @@
    </str>
    <str>
       <tag>TXT_Save_Contact_STR_M</tag>
-      <txt>保存聯繫人</txt>
+      <txt>儲存聯絡人</txt>
    </str>
    <str>
       <tag>TXT_Save_Photos_To_Help_Text_STR_M</tag>
@@ -15671,7 +15671,7 @@
    </str>
    <str>
       <tag>TXT_Save_Portion_STR_M</tag>
-      <txt>保存共享</txt>
+      <txt>儲存共享</txt>
    </str>
    <str>
       <tag>TXT_Save_When_Power_On_STR_M</tag>
@@ -15687,7 +15687,7 @@
    </str>
    <str>
       <tag>TXT_Save_as_Waypoint_Confirm_Message_STR_M</tag>
-      <txt>此位置已保存為航點</txt>
+      <txt>此位置已儲存為航點</txt>
    </str>
    <str>
       <tag>TXT_Saved_Location_STR_M</tag>
@@ -15748,7 +15748,7 @@
    </str>
    <str>
       <tag>TXT_Search_Near_HINT_STR_M</tag>
-      <txt>提示：您還可以通過在滾動地圖時按“查找”來設置搜索位置。</txt>
+      <txt>提示：您還可以通過在滾動地圖時按“查找”來設定搜索位置。</txt>
    </str>
    <str>
       <tag>TXT_Search_Near_Help_STR_M</tag>
@@ -15816,7 +15816,7 @@
    </str>
    <str>
       <tag>TXT_Select_First_Track_Segment_STR_M</tag>
-      <txt>選擇要保存的第一段</txt>
+      <txt>選擇要儲存的第一段</txt>
    </str>
    <str>
       <tag>TXT_Select_GPS_Mode_STR_M</tag>
@@ -15836,7 +15836,7 @@
    </str>
    <str>
       <tag>TXT_Select_Last_Track_Segment_STR_M</tag>
-      <txt>選擇要保存的最後一個段</txt>
+      <txt>選擇要儲存的最後一個段</txt>
    </str>
    <str>
       <tag>TXT_Select_Location_STR_M</tag>
@@ -15968,39 +15968,39 @@
    </str>
    <str>
       <tag>TXT_Set_Current_Track_Color_STR_M</tag>
-      <txt>設置當前曲目的顏色</txt>
+      <txt>設定當前航跡的顏色</txt>
    </str>
    <str>
       <tag>TXT_Set_Deep_Water_Alarm_STR_M</tag>
-      <txt>設置深水警報</txt>
+      <txt>設定深水警報</txt>
    </str>
    <str>
       <tag>TXT_Set_Location_On_Map_STR_M</tag>
-      <txt>在地圖上設置位置</txt>
+      <txt>在地圖上設定位置</txt>
    </str>
    <str>
       <tag>TXT_Set_Off_Course_Alarm_STR_M</tag>
-      <txt>設置偏離軌道警報</txt>
+      <txt>設定偏離軌道警報</txt>
    </str>
    <str>
       <tag>TXT_Set_Shallow_Water_Alarm_STR_M</tag>
-      <txt>設置淺水警報</txt>
+      <txt>設定淺水警報</txt>
    </str>
    <str>
       <tag>TXT_Setup_Altimeter_STR_M</tag>
-      <txt>設置高度計</txt>
+      <txt>設定高度計</txt>
    </str>
    <str>
       <tag>TXT_Setup_Bluetooth_STR_M</tag>
-      <txt>設置藍牙</txt>
+      <txt>設定藍牙</txt>
    </str>
    <str>
       <tag>TXT_Setup_Geocaching_STR_M</tag>
-      <txt>設置地理藏寶</txt>
+      <txt>設定地理藏寶</txt>
    </str>
    <str>
       <tag>TXT_Setup_Heading_STR_M</tag>
-      <txt>設置方向</txt>
+      <txt>設定方向</txt>
    </str>
    <str>
       <tag>TXT_Setup_Main_Menu_Help_1_STR_M</tag>
@@ -16008,15 +16008,15 @@
    </str>
    <str>
       <tag>TXT_Setup_Marine_STR_M</tag>
-      <txt>海事設置</txt>
+      <txt>海事設定</txt>
    </str>
    <str>
       <tag>TXT_Setup_STR_M</tag>
-      <txt>設置</txt>
+      <txt>設定</txt>
    </str>
    <str>
       <tag>TXT_Setup_Satellite_STR_M</tag>
-      <txt>設置衛星</txt>
+      <txt>設定衛星</txt>
    </str>
    <str>
       <tag>TXT_STP_Tones_STR_L</tag>
@@ -16024,27 +16024,27 @@
    </str>
    <str>
       <tag>TXT_Setup_Tones_STR_M</tag>
-      <txt>設置警報音</txt>
+      <txt>設定警報音</txt>
    </str>
    <str>
       <tag>TXT_Setup_Tracks_STR_M</tag>
-      <txt>設置活動</txt>
+      <txt>設定活動</txt>
    </str>
    <str>
       <tag>TXT_Setup_WiFi_STR_M</tag>
-      <txt>設置Wi-Fi</txt>
+      <txt>設定Wi-Fi</txt>
    </str>
    <str>
       <tag>TXT_Setup_Wifi_with_Express_For_Feature_STR_M</tag>
-      <txt>在通過Garmin Express設置Wi-Fi之前，此功能不可用。</txt>
+      <txt>在通過Garmin Express設定Wi-Fi之前，此功能不可用。</txt>
    </str>
    <str>
       <tag>TXT_Setup_Wifi_with_Express_STR_M</tag>
-      <txt>在使用Garmin Express設置Wi-Fi之前，某些功能可能不可用。</txt>
+      <txt>在使用Garmin Express設定Wi-Fi之前，某些功能可能不可用。</txt>
    </str>
    <str>
       <tag>TXT_Setup_no_options_STR_M</tag>
-      <txt>沒有可用的跟踪設置。</txt>
+      <txt>沒有可用的跟踪設定。</txt>
    </str>
    <str>
       <tag>TXT_Shaded_Relief_Hide_STR_M</tag>
@@ -16172,7 +16172,7 @@
    </str>
    <str>
       <tag>TXT_Sos_Reset_Settings_Warning_STR_M</tag>
-      <txt>如果正在運行SOS，則無法將設備恢復為出廠設置。取消SOS，然後重試。</txt>
+      <txt>如果正在運行SOS，則無法將設備恢復為出廠設定。取消SOS，然後重試。</txt>
    </str>
    <str>
       <tag>TXT_South_African_Grid_STR_M</tag>
@@ -16368,7 +16368,7 @@
    </str>
    <str>
       <tag>TXT_Storage_Location_STR_M</tag>
-      <txt>保存位置</txt>
+      <txt>儲存位置</txt>
    </str>
    <str>
       <tag>TXT_Street_1_STR_M</tag>
@@ -16640,7 +16640,7 @@
    </str>
    <str>
       <tag>TXT_Time_Setup_STR_M</tag>
-      <txt>時間設置</txt>
+      <txt>時間設定</txt>
    </str>
    <str>
       <tag>TXT_Timer_STR_M</tag>
@@ -16768,7 +16768,7 @@
    </str>
    <str>
       <tag>TXT_Tracking_Tracking_Setup_STR_M</tag>
-      <txt>設置跟踪</txt>
+      <txt>設定跟踪</txt>
    </str>
    <str>
       <tag>TXT_Tracks_Logged_STR_S</tag>
@@ -16960,7 +16960,7 @@
    </str>
    <str>
       <tag>TXT_Use_Activity_History_STR_M</tag>
-      <txt>可以在“記錄的活動”中查看已保存的活動。</txt>
+      <txt>可以在“記錄的活動”中查看已儲存的活動。</txt>
    </str>
    <str>
       <tag>TXT_Use_Current_Date_STR_M</tag>
@@ -17156,7 +17156,7 @@
    </str>
    <str>
       <tag>TXT_Video_FPS_STR_M</tag>
-      <txt>視頻FPS</txt>
+      <txt>視訊FPS</txt>
    </str>
    <str>
       <tag>TXT_Video_Interval_STR_M</tag>
@@ -17168,11 +17168,11 @@
    </str>
    <str>
       <tag>TXT_Video_Resolution_STR_M</tag>
-      <txt>分辨率</txt>
+      <txt>解析度</txt>
    </str>
    <str>
       <tag>TXT_Video_Settings_STR_M</tag>
-      <txt>視頻設置</txt>
+      <txt>視訊設定</txt>
    </str>
    <str>
       <tag>TXT_越南語_STR</tag>
@@ -17180,7 +17180,7 @@
    </str>
    <str>
       <tag>TXT_View_Contact_STR_M</tag>
-      <txt>查看聯繫人</txt>
+      <txt>查看聯絡人</txt>
    </str>
    <str>
       <tag>TXT_View_Content_STR_M</tag>
@@ -17284,7 +17284,7 @@
    </str>
    <str>
       <tag>TXT_Waypoint_Averaging_Distance_Warning_STR_M</tag>
-      <txt>您不在保存的航點位置附近。</txt>
+      <txt>您不在儲存的航點位置附近。</txt>
    </str>
    <str>
       <tag>TXT_Waypoint_Averaging_Time_Warning_STR_M</tag>
@@ -17533,7 +17533,7 @@
    </str>
    <str>
       <tag>TXT_Writing_All_GPX_Data_STR_M</tag>
-      <txt>所有航路點，路線和旅行日誌數據均以GPX格式保存：</txt>
+      <txt>所有航路點，路線和旅行日誌數據均以GPX格式儲存：</txt>
    </str>
    <str>
       <tag>TXT_Zone_1_STR_M</tag>
@@ -17569,7 +17569,7 @@
    </str>
    <str>
       <tag>TXT_inReach_Configuration_Apply_Message_STR_M</tag>
-      <txt>應用新的配置文件會覆蓋預設，快速短信和聯繫人。現有的GPX數據。不會被刪除/替換。</txt>
+      <txt>應用新的配置文件會覆蓋預設，快速簡訊和聯絡人。現有的GPX數據。不會被刪除/替換。</txt>
    </str>
    <str>
       <tag>TXT_inReach_Configuration_Apply_Updates_STR_M</tag>
