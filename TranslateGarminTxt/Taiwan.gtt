@@ -10746,7 +10746,7 @@
    </str>
    <str>
       <tag>TXT_Entering_Expedition_Mode_STR_M</tag>
-      <txt>啟用探險模式</txt>
+      <txt>啟用遠征模式</txt>
    </str>
    <str>
       <tag>TXT_Depth_STR_M</tag>
@@ -11852,11 +11852,11 @@
    </str>
    <str>
       <tag>TXT_Enter_Expedition_Mode_Low_Battery_STR_M</tag>
-      <txt>電池電量太低，無法使用探險模式。</txt>
+      <txt>電池電量太低，無法使用遠征模式。</txt>
    </str>
    <str>
       <tag>TXT_Enter_Expedition_Mode_STR_M</tag>
-      <txt>啟用探險模式嗎？</txt>
+      <txt>啟用遠征模式嗎？</txt>
    </str>
    <str>
       <tag>TXT_Enter_False_Easting_in_STR_M</tag>
@@ -12004,29 +12004,29 @@
    </str>
    <str>
       <tag>TXT_Exit_Expedition_Mode_Low_Battery_STR_M</tag>
-      <txt>退出探險模式電池電源太晚</txt>
+      <txt>退出遠征模式電池電源太低</txt>
    </str>
    <str>
       <tag>TXT_Expedition_Mode_Auto_Detail_STR_M</tag>
-      <txt>閒置2分鐘後，設備會自動切換到探險模式。
+      <txt>閒置2分鐘後，設備會自動切換到遠征模式。
 
 使用探險模式時，消息和航跡點會延遲。</txt>
    </str>
    <str>
       <tag>TXT_Expedition_Mode_Auto_STR_M</tag>
-      <txt>閒置2分鐘後，設備將自動進入探險模式。</txt>
+      <txt>閒置2分鐘後，設備將自動進入遠征模式。</txt>
    </str>
    <str>
       <tag>TXT_Expedition_Mode_Instructions_STR_M</tag>
-      <txt>在運輸模式下，電池續航時間較長，可能會導致跟踪日誌降低。</txt>
+      <txt>在遠征模式下，電池續航時間較長，可能會導致跟踪日誌降低。</txt>
    </str>
    <str>
       <tag>TXT_Expedition_Mode_Prompted_STR_M</tag>
-      <txt>關閉設備時，系統會提示您啟用探險模式。</txt>
+      <txt>關閉設備時，系統會提示您啟用遠征模式。</txt>
    </str>
    <str>
       <tag>TXT_Expedition_Mode_inReach_Queue_Message_STR_M</tag>
-      <txt>使用探險模式時，消息和航跡點會延遲。</txt>
+      <txt>使用遠征模式時，消息和航跡點會延遲。</txt>
    </str>
    <str>
       <tag>TXT_Expired_STR_M</tag>
@@ -12686,15 +12686,15 @@
    </str>
    <str>
       <tag>TXT_STP_Expedition_Mode_STR_L</tag>
-      <txt>探險模式</txt>
+      <txt>遠征模式</txt>
    </str>
    <str>
       <tag>TXT_STP_Expedition_Mode_STR_M</tag>
-      <txt>探險模式</txt>
+      <txt>遠征模式</txt>
    </str>
    <str>
       <tag>TXT_STP_Expedition_Mode_STR_S</tag>
-      <txt>探險模式</txt>
+      <txt>遠征模式</txt>
    </str>
    <str>
       <tag>TXT_STP_Map_STR_L</tag>
