@@ -17569,7 +17569,7 @@
    </str>
    <str>
       <tag>TXT_inReach_Configuration_Apply_Message_STR_M</tag>
-      <txt>應用新的配置文件會覆蓋預設，快速短信和聯絡人。現有的GPX數據。不會被刪除/替換。</txt>
+      <txt>應用新的配置文件會覆蓋預設，快速簡訊和聯絡人。現有的GPX數據。不會被刪除/替換。</txt>
    </str>
    <str>
       <tag>TXT_inReach_Configuration_Apply_Updates_STR_M</tag>
