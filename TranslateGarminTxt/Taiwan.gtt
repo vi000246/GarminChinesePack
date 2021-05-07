@@ -9791,10 +9791,6 @@
       <txt>搜索衛星...</txt>
    </str>
    <str>
-      <tag>TXT_Acquiring_Satellites_STR_M</tag>
-      <txt>搜索衛星...</txt>
-   </str>
-   <str>
       <tag>TXT_Acres_STR_M</tag>
       <txt>英畝</txt>
    </str>
@@ -10037,14 +10033,6 @@
    <str>
       <tag>TXT_Ambient_Pressure_STR_M</tag>
       <txt>環境氣壓</txt>
-   </str>
-   <str>
-      <tag>TXT_Acquiring_Satellites_STR_L</tag>
-      <txt>衛星搜尋中...</txt>
-   </str>
-   <str>
-      <tag>TXT_Acquiring_Satellites_STR_M</tag>
-      <txt>衛星搜尋中...</txt>
    </str>
    <str>
       <tag>TXT_Amusement_Parks_STR</tag>
