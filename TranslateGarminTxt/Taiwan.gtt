@@ -5781,11 +5781,11 @@
    </str>
    <str>
       <tag>TXT_Safety_Camera_Ahead_STR</tag>
-      <txt>前方測速照相機設定區</txt>
+      <txt>前方測速照相機擺放區</txt>
    </str>
    <str>
       <tag>TXT_Safety_Camera_Zone_STR</tag>
-      <txt>可變式測速照相點設定區</txt>
+      <txt>可變式測速照相點擺放區</txt>
    </str>
    <str>
       <tag>TXT_Samara_STR_M</tag>
