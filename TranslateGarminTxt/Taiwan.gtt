@@ -6503,11 +6503,11 @@
   </str>
   <str>
     <tag>TXT_STP_Profiles_STR_M</tag>
-    <txt>個人資料</txt>
+    <txt>設置個人資料</txt>
   </str>
   <str>
     <tag>TXT_STP_Profiles_STR_S</tag>
-    <txt>個人資料</txt>
+    <txt>設置個人資料</txt>
   </str>
   <str>
     <tag>TXT_STP_Reset_STR_L</tag>
@@ -13625,11 +13625,11 @@
   </str>
   <str>
    <tag>TXT_MNU_Active_Weather_STR_M</tag>
-    <txt>活躍天氣</txt>
+    <txt>目前天氣</txt>
   </str>
   <str>
    <tag>TXT_MNU_Active_Weather_STR_S</tag>
-    <txt>活躍天氣</txt>
+    <txt>目前天氣</txt>
   </str>
   <str>
    <tag>TXT_MNU_Adventures_STR_L</tag>
@@ -13805,11 +13805,11 @@
   </str>
   <str>
    <tag>TXT_MNU_Profile_Change_STR_M</tag>
-    <txt>更改個人資料</txt>
+    <txt>個人資料</txt>
   </str>
   <str>
    <tag>TXT_MNU_Profile_Change_STR_S</tag>
-    <txt>更改個人資料</txt>
+    <txt>個人資料</txt>
   </str>
     <str>
    <tag>TXT_MNU_Route_Planner_STR_L</tag>
@@ -15187,7 +15187,7 @@
   </str>
   <str>
    <tag>TXT_Recording_Controls_STR_M</tag>
-    <txt>錄製按鈕</txt>
+    <txt>錄製活動</txt>
   </str>
   <str>
    <tag>TXT_Recreational_Center_STR</tag>
