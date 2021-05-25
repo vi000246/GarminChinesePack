@@ -10388,7 +10388,7 @@
    </str>
    <str>
       <tag>TXT_Best_Times_STR_S</tag>
-      <txt>最佳時間</txt>
+      <txt>最佳時段</txt>
    </str>
    <str>
       <tag>TXT_Bicycle_Parking_STR</tag>
@@ -12928,7 +12928,7 @@
    </str>
    <str>
       <tag>TXT_Good_Times_STR_S</tag>
-      <txt>好時光</txt>
+      <txt>適合時段</txt>
    </str>
    <str>
       <tag>TXT_Greek_STR</tag>
@@ -15547,15 +15547,15 @@
    </str>
    <str>
       <tag>TXT_STP_InReach_Contacts_STR_L</tag>
-      <txt>聯繫</txt>
+      <txt>聯絡人</txt>
    </str>
    <str>
       <tag>TXT_STP_InReach_Contacts_STR_M</tag>
-      <txt>聯繫</txt>
+      <txt>聯絡人</txt>
    </str>
    <str>
       <tag>TXT_STP_InReach_Contacts_STR_S</tag>
-      <txt>聯繫</txt>
+      <txt>聯絡人</txt>
    </str>
    <str>
       <tag>TXT_STP_Marine_Alarm_STR_L</tag>
