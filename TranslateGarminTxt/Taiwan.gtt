@@ -7613,7 +7613,7 @@
    </str>
    <str>
       <tag>TXT_Millimeters__Hg__STR_M</tag>
-      <txt>毫米 (Hg)</txt>
+      <txt>毫米(Hg)</txt>
    </str>
    <str>
       <tag>TXT_Min_Terrain_STR_S</tag>
@@ -13168,7 +13168,7 @@
    </str>
    <str>
       <tag>TXT_Inches__Hg__STR_M</tag>
-      <txt>英寸（Hg）</txt>
+      <txt>英寸(Hg)</txt>
    </str>
    <str>
       <tag>TXT_India_Zone_0_STR_M</tag>
