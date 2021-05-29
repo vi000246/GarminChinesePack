@@ -10344,7 +10344,7 @@
    </str>
    <str>
       <tag>TXT_Basic_STR_M</tag>
-      <txt>基礎</txt>
+      <txt>基本</txt>
    </str>
    <str>
       <tag>TXT_Basic_With_Marine_STR_M</tag>
@@ -15439,7 +15439,7 @@
    </str>
    <str>
       <tag>TXT_STATUS_BAR_Weather_Wind_STR_S</tag>
-      <txt>風</txt>
+      <txt>風力</txt>
    </str>
    <str>
       <tag>TXT_STATUS_BAR_Wireless_Searching_STR_S</tag>
