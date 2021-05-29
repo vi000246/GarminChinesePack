@@ -7433,7 +7433,7 @@
    </str>
    <str>
       <tag>TXT_Select_A_Dashboard_To_Replace_STR_M</tag>
-      <txt>當前的儀表板是</txt>
+      <txt>目前的儀表板是</txt>
    </str>
    <str>
       <tag>TXT_Select_A_Data_Field_Category_STR_M</tag>
@@ -10096,7 +10096,7 @@
    </str>
    <str>
       <tag>TXT_Are_You_Sure__Profile_STR_M</tag>
-      <txt>將當前profile設定恢復為默認設定。繼續嗎？</txt>
+      <txt>將目前profile設定恢復為默認設定。繼續嗎？</txt>
    </str>
    <str>
       <tag>TXT_Are_You_Sure__Remove_Live_Geocache_Data_STR_M</tag>
@@ -10444,7 +10444,7 @@
    </str>
    <str>
       <tag>TXT_Birdseye_Queue_Full</tag>
-      <txt>BirdsEye下載隊列已滿。等待當前下載完成或取消項目，然後再添加另一個下載。</txt>
+      <txt>BirdsEye下載隊列已滿。等待目前下載完成或取消項目，然後再添加另一個下載。</txt>
    </str>
    <str>
       <tag>TXT_Blue_STR_M</tag>
@@ -10806,11 +10806,11 @@
    </str>
    <str>
       <tag>TXT_Current_STR_M</tag>
-      <txt>當前的</txt>
+      <txt>目前的</txt>
    </str>
    <str>
       <tag>TXT_Current_Status_STR_M</tag>
-      <txt>當前狀態</txt>
+      <txt>目前狀態</txt>
    </str>
    <str>
       <tag>TXT_Continue_STR_S</tag>
@@ -11074,7 +11074,7 @@
    </str>
    <str>
       <tag>TXT_Clear_Track_Log_Msg1_STR_M</tag>
-      <txt>清除當前活動嗎？</txt>
+      <txt>清除目前活動嗎？</txt>
    </str>
    <str>
       <tag>TXT_Clear_Track_Log_Msg2_STR_M</tag>
@@ -11230,31 +11230,31 @@
    </str>
    <str>
       <tag>TXT_Current_Activity_STR_M</tag>
-      <txt>當前活動</txt>
+      <txt>目前活動</txt>
    </str>
    <str>
       <tag>TXT_Current_Elevation_STR_M</tag>
-      <txt>當前相對高度</txt>
+      <txt>目前相對高度</txt>
    </str>
    <str>
       <tag>TXT_Current_Lap_Cnfgfld_STR_S</tag>
-      <txt>碼錶當前圈的時間</txt>
+      <txt>碼錶現圈的時間</txt>
    </str>
    <str>
       <tag>TXT_Current_Lap_STR_M</tag>
-      <txt>當前回合</txt>
+      <txt>目前回合</txt>
    </str>
    <str>
       <tag>TXT_Current_Lap_STR_S</tag>
-      <txt>當前回合</txt>
+      <txt>目前回合</txt>
    </str>
    <str>
       <tag>TXT_Current_Location_STR_M</tag>
-      <txt>當前位置</txt>
+      <txt>目前位置</txt>
    </str>
    <str>
       <tag>TXT_Currently_navigating_to_STR_M</tag>
-      <txt>當前導航目標</txt>
+      <txt>目前導航目標</txt>
    </str>
    <str>
       <tag>TXT_Currently_no_items_STR_M</tag>
@@ -11538,7 +11538,7 @@
    </str>
    <str>
       <tag>TXT_Do_You_Want_to_Clear_the_Current_Track</tag>
-      <txt>清除當前活動嗎？</txt>
+      <txt>清除目前活動嗎？</txt>
    </str>
    <str>
       <tag>TXT_Do_you_really_want_to_clear_the_recent_finds__STR_M</tag>
@@ -11546,7 +11546,7 @@
    </str>
    <str>
       <tag>TXT_Do_you_really_want_to_clear_the_track_log__STR_M</tag>
-      <txt>清除當前活動嗎？</txt>
+      <txt>清除目前活動嗎？</txt>
    </str>
    <str>
       <tag>TXT_Do_you_really_want_to_delete_all_prox_alarms__STR_M</tag>
@@ -12654,7 +12654,7 @@
    </str>
    <str>
       <tag>TXT_GC_Coords_Too_Close_STR_M</tag>
-      <txt>當前坐標與下一個坐標太近</txt>
+      <txt>目前坐標與下一個坐標太近</txt>
    </str>
    <str>
       <tag>TXT_GC_Live_Download_STR</tag>
@@ -14042,7 +14042,7 @@
    </str>
    <str>
       <tag>TXT_Measure_Distance_HINT_STR_M</tag>
-      <txt>提示：移動光標以計算距當前位置的距離。</txt>
+      <txt>提示：移動光標以計算距目前位置的距離。</txt>
    </str>
    <str>
       <tag>TXT_Measure_Distance_STR_M</tag>
@@ -14286,7 +14286,7 @@
    </str>
    <str>
       <tag>TXT_My_Current_Location_STR_M</tag>
-      <txt>我當前的位置</txt>
+      <txt>我目前的位置</txt>
    </str>
    <str>
       <tag>TXT_My_Location_STR_M</tag>
@@ -14418,7 +14418,7 @@
    </str>
    <str>
       <tag>TXT_No_Active_Route_1_STR_M</tag>
-      <txt>當前沒有有效的航線。</txt>
+      <txt>目前沒有有效的航線。</txt>
    </str>
    <str>
       <tag>TXT_No_Adventures_STR_M</tag>
@@ -14946,7 +14946,7 @@
    </str>
    <str>
       <tag>TXT_Profile_created_successfully_STR_M</tag>
-      <txt>已創建一個新的配置文件。現在是當前配置文件。以前的配置文件已儲存。</txt>
+      <txt>已創建一個新的配置文件。現在是目前配置文件。以前的配置文件已儲存。</txt>
    </str>
    <str>
       <tag>TXT_Project_Distance_Instructions_STR_M</tag>
@@ -15968,7 +15968,7 @@
    </str>
    <str>
       <tag>TXT_Set_Current_Track_Color_STR_M</tag>
-      <txt>設定當前航跡的顏色</txt>
+      <txt>設定目前航跡的顏色</txt>
    </str>
    <str>
       <tag>TXT_Set_Deep_Water_Alarm_STR_M</tag>
@@ -16700,7 +16700,7 @@
    </str>
    <str>
       <tag>TXT_Track_Saved_STR_M</tag>
-      <txt>當前活動另存為</txt>
+      <txt>目前活動另存為</txt>
    </str>
    <str>
       <tag>TXT_Track_Truncated_STR_M</tag>
@@ -16964,7 +16964,7 @@
    </str>
    <str>
       <tag>TXT_Use_Current_Date_STR_M</tag>
-      <txt>使用當前日期</txt>
+      <txt>使用目前日期</txt>
    </str>
    <str>
       <tag>TXT_Use_With_GPS_On_STR_M</tag>
@@ -17028,7 +17028,7 @@
    </str>
    <str>
       <tag>TXT_Utilities_Subscription_Active_STR_M</tag>
-      <txt>您的訂閱當前處於活動狀態</txt>
+      <txt>您的訂閱目前處於活動狀態</txt>
    </str>
    <str>
       <tag>TXT_Utilities_Subscription_Required_STR_M</tag>
@@ -17296,7 +17296,7 @@
    </str>
    <str>
       <tag>TXT_Waypoint_Position_Updated_STR_M</tag>
-      <txt>航點位置已更新為當前位置。</txt>
+      <txt>航點位置已更新為目前位置。</txt>
    </str>
    <str>
       <tag>TXT_Waypoint_Route_WPL_RTE_STR_M</tag>
@@ -17665,11 +17665,11 @@
    </str>
    <str>
       <tag>TXT_inReach_presets_not_loaded_STR_M</tag>
-      <txt>當前沒有預設。</txt>
+      <txt>目前沒有預設。</txt>
    </str>
    <str>
       <tag>TXT_inReach_quicktexts_not_loaded_STR_M</tag>
-      <txt>當前沒有加載快速文本。</txt>
+      <txt>目前沒有加載快速文本。</txt>
    </str>
    <str>
       <tag>TXT_inReach_track_during_sos_STR_M</tag>
