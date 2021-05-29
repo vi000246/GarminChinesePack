@@ -485,11 +485,11 @@
    </str>
    <str>
       <tag>TXT_AUF_contact_STR_M</tag>
-      <txt>若要購買較新版本的地圖,請參考網站www.garmin.com.tw訊息.</txt>
+      <txt>若要購買較新版本的地圖,請參考網站www.garmin.com.tw資訊.</txt>
    </str>
    <str>
       <tag>TXT_AUF_txt_STR_M</tag>
-      <txt>下列地圖版本屬一年前的版本,請上網查詢是否有較新版本的訊息.</txt>
+      <txt>下列地圖版本屬一年前的版本,請上網查詢是否有較新版本的資訊.</txt>
    </str>
    <str>
       <tag>TXT_AUG_STR</tag>
@@ -1017,7 +1017,7 @@
    </str>
    <str>
       <tag>TXT_Camera_Update_STR_M</tag>
-      <txt>測速照相警示點位置變換頻繁,因此時常上網更新是重要的.請多瀏覽下列網站最新訊息:www.garmin.com.tw 或 my.garmin.com</txt>
+      <txt>測速照相警示點位置變換頻繁,因此時常上網更新是重要的.請多瀏覽下列網站最新資訊:www.garmin.com.tw 或 my.garmin.com</txt>
    </str>
    <str>
       <tag>TXT_Campground_RV_Park_STR</tag>
@@ -1306,7 +1306,7 @@
    </str>
    <str>
       <tag>TXT_CONTACT_INFORMATION_STR</tag>
-      <txt>聯絡訊息</txt>
+      <txt>聯絡資訊</txt>
    </str>
    <str>
       <tag>TXT_Continue_on_Battery_Power_STR_M</tag>
@@ -6265,7 +6265,7 @@
    </str>
    <str>
       <tag>TXT_Less_Data_STR_M</tag>
-      <txt>較少訊息</txt>
+      <txt>較少資訊</txt>
    </str>
    <str>
       <tag>TXT_ETA_DEST_STR_S</tag>
@@ -6653,7 +6653,7 @@
    </str>
    <str>
       <tag>TXT_Tourist_Information_STR</tag>
-      <txt>旅遊訊息</txt>
+      <txt>旅遊資訊</txt>
    </str>
    <str>
       <tag>TXT_Tow_Services_STR</tag>
@@ -6909,7 +6909,7 @@
    </str>
    <str>
       <tag>TXT_View_Map_Information_STR_M</tag>
-      <txt>地圖訊息</txt>
+      <txt>地圖資訊</txt>
    </str>
    <str>
       <tag>TXT_View_Spot_STR</tag>
@@ -10016,7 +10016,7 @@
    </str>
    <str>
       <tag>TXT_Altimeter_Cal_Fail_STR_M</tag>
-      <txt>校準失敗。有關更多訊息，請參見手冊。</txt>
+      <txt>校準失敗。有關更多資訊，請參見手冊。</txt>
    </str>
    <str>
       <tag>TXT_Altimeter_Calibration_STR_M</tag>
@@ -10340,7 +10340,7 @@
    </str>
    <str>
       <tag>TXT_Basic_Details_Downloaded_STR</tag>
-      <txt>下載的地理藏寶asis訊息。提示，說明和日誌現在已在後台下載。</txt>
+      <txt>下載的地理藏寶asis資訊。提示，說明和日誌現在已在後台下載。</txt>
    </str>
    <str>
       <tag>TXT_Basic_STR_M</tag>
@@ -10902,7 +10902,7 @@
    </str>
    <str>
       <tag>TXT_Can_t_Verify_Map_Signature_Nag_STR_M</tag>
-      <txt>無法驗證卡。卡在％1上關閉。有關更多訊息，請參閱用戶手冊。</txt>
+      <txt>無法驗證卡。卡在％1上關閉。有關更多資訊，請參閱用戶手冊。</txt>
    </str>
    <str>
       <tag>TXT_Can_t_Verify_Map_Signature_STR_M</tag>
@@ -11438,11 +11438,11 @@
    </str>
    <str>
       <tag>TXT_Detail_STR_M</tag>
-      <txt>詳細訊息</txt>
+      <txt>詳細資訊</txt>
    </str>
    <str>
       <tag>TXT_Details_STR</tag>
-      <txt>詳細訊息</txt>
+      <txt>詳細資訊</txt>
    </str>
    <str>
       <tag>TXT_Device_Approaching_Min_Temperature_STR_M</tag>
@@ -12842,7 +12842,7 @@
    </str>
    <str>
       <tag>TXT_Geocache_Basic_Member_Download_Prompt_STR</tag>
-      <txt>地理藏寶下載基本成員每天可以下載3個地理藏寶的詳細訊息。</txt>
+      <txt>地理藏寶下載基本成員每天可以下載3個地理藏寶的詳細資訊。</txt>
    </str>
    <str>
       <tag>TXT_Geocache_DB_Full_STR_M</tag>
@@ -12860,11 +12860,11 @@
    </str>
    <str>
       <tag>TXT_Geocache_Information_Received_STR</tag>
-      <txt>接收地理藏寶訊息</txt>
+      <txt>接收地理藏寶資訊</txt>
    </str>
    <str>
       <tag>TXT_Geocache_Not_In_Database_STR_M</tag>
-      <txt>無法找到有關此地理藏寶的其他訊息。</txt>
+      <txt>無法找到有關此地理藏寶的其他資訊。</txt>
    </str>
    <str>
       <tag>TXT_Geocache_Premium_Member_Only_STR</tag>
@@ -14186,7 +14186,7 @@
    </str>
    <str>
       <tag>TXT_More_Data_STR_M</tag>
-      <txt>更多詳細訊息</txt>
+      <txt>更多詳細資訊</txt>
    </str>
    <str>
       <tag>TXT_Most_Recent_STR_M</tag>
@@ -14434,7 +14434,7 @@
    </str>
    <str>
       <tag>TXT_No_CIQ_Apps_Sub_Text_STR_M</tag>
-      <txt>訪問apps.garmin.com了解更多訊息。</txt>
+      <txt>訪問apps.garmin.com了解更多資訊。</txt>
    </str>
    <str>
       <tag>TXT_No_CIQ_Widgets_STR_M</tag>
@@ -14466,7 +14466,7 @@
    </str>
    <str>
       <tag>TXT_No_Geocaches_Sub_Text_STR_M</tag>
-      <txt>訪問garmin.com/geocache以獲取有關地理藏寶的更多訊息。</txt>
+      <txt>訪問garmin.com/geocache以獲取有關地理藏寶的更多資訊。</txt>
    </str>
    <str>
       <tag>TXT_No_Hint_STR_M</tag>
@@ -14486,7 +14486,7 @@
    </str>
    <str>
       <tag>TXT_No_KML_Sub_Text_STR_M</tag>
-      <txt>有關更多訊息，請訪問www.garmin.com/CustomMaps。</txt>
+      <txt>有關更多資訊，請訪問www.garmin.com/CustomMaps。</txt>
    </str>
    <str>
       <tag>TXT_No_Matches_Found_Sub_Text_STR_M</tag>
@@ -14654,7 +14654,7 @@
    </str>
    <str>
       <tag>TXT_Off_Road_Info_STR_XS</tag>
-      <txt>越野訊息</txt>
+      <txt>越野資訊</txt>
    </str>
    <str>
       <tag>TXT_Off_Route_Recalculate_STR_M</tag>
@@ -14686,7 +14686,7 @@
    </str>
    <str>
       <tag>TXT_On_Road_Info_STR_XS</tag>
-      <txt>通過wegen通過路由獲取的訊息</txt>
+      <txt>通過wegen通過路由獲取的資訊</txt>
    </str>
    <str>
       <tag>TXT_On_Road_Nav_STR_M</tag>
@@ -15187,7 +15187,7 @@
    </str>
    <str>
       <tag>TXT_Register_Device_Prompt_STR_M</tag>
-      <txt>通過在geocaching.com上註冊設備來訪問實時地理藏寶訊息。選擇下面的“註冊設備”並開始註冊。</txt>
+      <txt>通過在geocaching.com上註冊設備來訪問實時地理藏寶資訊。選擇下面的“註冊設備”並開始註冊。</txt>
    </str>
    <str>
       <tag>TXT_Register_Device_STR_M</tag>
@@ -15231,7 +15231,7 @@
    </str>
    <str>
       <tag>TXT_Requesting_Geocache_Information_STR</tag>
-      <txt>請求地理藏寶訊息...</txt>
+      <txt>請求地理藏寶資訊...</txt>
    </str>
    <str>
       <tag>TXT_Require_Device_Verification_STR_M</tag>
@@ -15259,7 +15259,7 @@
    </str>
    <str>
       <tag>TXT_Retrieving_Account_Information_STR</tag>
-      <txt>請求帳戶訊息...</txt>
+      <txt>請求帳戶資訊...</txt>
    </str>
    <str>
       <tag>TXT_Retrieving_Activation_Code_STR_M</tag>
@@ -15932,7 +15932,7 @@
    </str>
    <str>
       <tag>TXT_Sending_Shot_Data_STR_M</tag>
-      <txt>發送XERO位置訊息。</txt>
+      <txt>發送XERO位置資訊。</txt>
    </str>
    <str>
       <tag>TXT_Sensors_Found_STR_M</tag>
@@ -16620,7 +16620,7 @@
    </str>
    <str>
       <tag>TXT_This_Chirp_Contains_No_Data_STR_XS</tag>
-      <txt>無可用訊息。</txt>
+      <txt>無可用資訊。</txt>
    </str>
    <str>
       <tag>TXT_This_Route_Does_Not_Match_the_Available_Maps__STR_M</tag>
@@ -16676,7 +16676,7 @@
    </str>
    <str>
       <tag>TXT_Tourist_Info_STR</tag>
-      <txt>旅遊訊息</txt>
+      <txt>旅遊資訊</txt>
    </str>
    <str>
       <tag>TXT_Tourist_Ride_STR</tag>
@@ -16792,7 +16792,7 @@
    </str>
    <str>
       <tag>TXT_Transfer_Failed_STR_M</tag>
-      <txt>無法發送XERO位置訊息。</txt>
+      <txt>無法發送XERO位置資訊。</txt>
    </str>
    <str>
       <tag>TXT_Transfer_Successful_STR_M</tag>
@@ -16944,7 +16944,7 @@
    </str>
    <str>
       <tag>TXT_Updating_Geocache_List_Information_STR</tag>
-      <txt>更新地理藏寶列表訊息</txt>
+      <txt>更新地理藏寶列表資訊</txt>
    </str>
    <str>
       <tag>TXT_Updating_Maps_STR_M</tag>
@@ -16980,7 +16980,7 @@
    </str>
    <str>
       <tag>TXT_Utilities_Activate_Device_to_Access_Plan_Details_STR_M</tag>
-      <txt>啟動以獲取訂戶訊息。</txt>
+      <txt>啟動以獲取訂戶資訊。</txt>
    </str>
    <str>
       <tag>TXT_Utilities_Activate_Device_to_Access_Plan_Usage_STR_M</tag>
@@ -17188,7 +17188,7 @@
    </str>
    <str>
       <tag>TXT_View_Details_STR_M</tag>
-      <txt>查看詳細訊息</txt>
+      <txt>查看詳細資訊</txt>
    </str>
    <str>
       <tag>TXT_View_Geocache_STR</tag>
@@ -17200,7 +17200,7 @@
    </str>
    <str>
       <tag>TXT_View_Information_STR_M</tag>
-      <txt>查看訊息</txt>
+      <txt>查看資訊</txt>
    </str>
    <str>
       <tag>TXT_View_Map_STR_M</tag>
