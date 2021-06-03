@@ -15391,7 +15391,7 @@
    </str>
    <str>
       <tag>TXT_STATUS_BAR_Brightness_Instructions_STR_M</tag>
-      <txt>+/-編輯</txt>
+      <txt>+/-調整</txt>
    </str>
    <str>
       <tag>TXT_STATUS_BAR_GPS_Off_STR_M</tag>
@@ -17376,11 +17376,11 @@
    </str>
    <str>
       <tag>TXT_Wifi_Add_Network_STR_M</tag>
-      <txt>添加網絡</txt>
+      <txt>添加網路</txt>
    </str>
    <str>
       <tag>TXT_Wifi_Add_Network_STR_S</tag>
-      <txt>添加網絡。添加</txt>
+      <txt>添加網路</txt>
    </str>
    <str>
       <tag>TXT_Wifi_Already_connected_to_STR_S</tag>
@@ -17412,7 +17412,7 @@
    </str>
    <str>
       <tag>TXT_Wifi_Network_Added_STR_S</tag>
-      <txt>已添加網絡</txt>
+      <txt>已添加網路</txt>
    </str>
    <str>
       <tag>TXT_Wifi_Password_STR_S</tag>
@@ -17420,11 +17420,11 @@
    </str>
    <str>
       <tag>TXT_Wifi_Remove_Network_STR_S</tag>
-      <txt>刪除網絡</txt>
+      <txt>刪除網路</txt>
    </str>
    <str>
       <tag>TXT_Wifi_Remove_from_My_Networks_STR_S</tag>
-      <txt>從我的網絡中刪除？</txt>
+      <txt>從我的網路中刪除？</txt>
    </str>
    <str>
       <tag>TXT_Wifi_SSID_STR_M</tag>
@@ -17440,7 +17440,7 @@
    </str>
    <str>
       <tag>TXT_Wifi_Unsupported_Network_STR_S</tag>
-      <txt>不兼容的網絡類型。</txt>
+      <txt>不兼容的網路類型。</txt>
    </str>
    <str>
       <tag>TXT_Wifi_WiFi_STR_S</tag>
