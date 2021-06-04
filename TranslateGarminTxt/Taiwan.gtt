@@ -10416,7 +10416,7 @@
    </str>
    <str>
       <tag>TXT_BirdsEye_Off_STR_M</tag>
-      <txt>禁用BirdsEye</txt>
+      <txt>關閉BirdsEye</txt>
    </str>
    <str>
       <tag>TXT_BirdsEye_On_STR_M</tag>
@@ -11414,7 +11414,7 @@
    </str>
    <str>
       <tag>TXT_Demo_mode_disabled_to_provide_gps_for_inreach_STR_M</tag>
-      <txt>demo模式已禁用，無法從inReach設備發送GPS位置。</txt>
+      <txt>demo模式已關閉，無法從inReach設備發送GPS位置。</txt>
    </str>
    <str>
       <tag>TXT_Demo_mode_not_allowed_when_using_inreach_functionality_STR_M</tag>
@@ -11490,19 +11490,19 @@
    </str>
    <str>
       <tag>TXT_Disable_All_Alarms_STR_M</tag>
-      <txt>禁用所有警報</txt>
+      <txt>關閉所有警報</txt>
    </str>
    <str>
       <tag>TXT_Disable_All_STR_M</tag>
-      <txt>禁用所有</txt>
+      <txt>關閉所有</txt>
    </str>
    <str>
       <tag>TXT_Disable_STR_M</tag>
-      <txt>禁用</txt>
+      <txt>關閉</txt>
    </str>
    <str>
       <tag>TXT_Disable_Track_Sync_STR_M</tag>
-      <txt>禁用追踨。同步</txt>
+      <txt>關閉追踨。同步</txt>
    </str>
    <str>
       <tag>TXT_Discard_Changes_Go_To_Thread_STR_M</tag>
@@ -11806,7 +11806,7 @@
    </str>
    <str>
       <tag>TXT_Enable_inReach_Remote_STR_M</tag>
-      <txt>inReach Remote已禁用。
+      <txt>inReach Remote已關閉。
 
 啟用嗎？</txt>
    </str>
@@ -14890,7 +14890,7 @@
    </str>
    <str>
       <tag>TXT_Power_Off_STR_M</tag>
-      <txt>禁用</txt>
+      <txt>關閉</txt>
    </str>
    <str>
       <tag>TXT_Precharged_NiMH_STR_M</tag>
@@ -16864,7 +16864,7 @@
    </str>
    <str>
       <tag>TXT_Turn_Off_STR_M</tag>
-      <txt>禁用</txt>
+      <txt>關閉</txt>
    </str>
    <str>
       <tag>TXT_Turn_Warning_Early_STR_S</tag>
@@ -17673,7 +17673,7 @@
    </str>
    <str>
       <tag>TXT_inReach_track_during_sos_STR_M</tag>
-      <txt>在緊急情況下不能禁用錄製。</txt>
+      <txt>在緊急情況下不能關閉錄製。</txt>
    </str>
    <str>
       <tag>TXT_inches_STR_M</tag>
