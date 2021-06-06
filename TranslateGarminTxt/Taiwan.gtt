@@ -15671,7 +15671,7 @@
    </str>
    <str>
       <tag>TXT_Save_Portion_STR_M</tag>
-      <txt>儲存共享</txt>
+      <txt>儲存航跡段</txt>
    </str>
    <str>
       <tag>TXT_Save_When_Power_On_STR_M</tag>
@@ -16028,7 +16028,7 @@
    </str>
    <str>
       <tag>TXT_Setup_Tracks_STR_M</tag>
-      <txt>設定活動</txt>
+      <txt>設定活動紀錄</txt>
    </str>
    <str>
       <tag>TXT_Setup_WiFi_STR_M</tag>
