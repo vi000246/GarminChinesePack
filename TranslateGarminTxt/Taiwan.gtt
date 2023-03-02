@@ -14685,6 +14685,10 @@
       <txt>在日期</txt>
    </str>
    <str>
+      <tag>TXT_On_Course_alarm_banner_STR_M</tag>
+      <txt>請保持路線</txt>
+   </str>
+   <str>
       <tag>TXT_On_Road_Info_STR_XS</tag>
       <txt>通過wegen通過路由獲取的資訊</txt>
    </str>
