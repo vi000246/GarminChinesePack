@@ -9860,7 +9860,7 @@
    </str>
    <str>
       <tag>TXT_Activation_Step_3_Status_3_STR_M</tag>
-      <txt>等待響應</txt>
+      <txt>等待回應</txt>
    </str>
    <str>
       <tag>TXT_Activation_Welcome_STR_M</tag>
@@ -17605,7 +17605,7 @@
    </str>
    <str>
       <tag>TXT_inReach_Emergency_Response_STR_M</tag>
-      <txt>響應幫助</txt>
+      <txt>緊急協助</txt>
    </str>
    <str>
       <tag>TXT_inReach_Features_Require_Subscription_STR_M</tag>
