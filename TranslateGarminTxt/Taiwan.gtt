@@ -9788,7 +9788,7 @@
    </str>
    <str>
       <tag>TXT_Acquiring_Satellites_STR_L</tag>
-      <txt>搜索衛星...</txt>
+      <txt>搜索衛星</txt>
    </str>
    <str>
       <tag>TXT_Acres_STR_M</tag>
@@ -15411,15 +15411,7 @@
    </str>
    <str>
       <tag>TXT_STATUS_BAR_Locating_Satellites_STR_M</tag>
-      <txt>搜索衛星...</txt>
-   </str>
-   <str>
-      <tag>TXT_STATUS_BAR_Locating_Satellites_STR_L</tag>
-      <txt>搜索衛星...</txt>
-   </str>
-   <str>
-      <tag>TXT_STATUS_BAR_Locating_Satellites_STR_S</tag>
-      <txt>搜索衛星...</txt>
+      <txt>搜索衛星</txt>
    </str>
    <str>
       <tag>TXT_STATUS_BAR_Missed_Call_STR_S</tag>
@@ -15910,6 +15902,26 @@
       <tag>TXT_Select_Voice_Language_STR_M</tag>
       <txt>選擇語音語言</txt>
    </str>
+   <str>
+      <tag>TXT_Send_As_Group_Message_M</tag>
+      <txt>向所有收件人發送群組訊息</txt>
+   </str>
+   <str>
+      <tag>TXT_Send_As_Group_Title_M</tag>
+      <txt>作為群組訊息發送</txt>
+   </str>
+   <str>
+      <tag>TXT_Send_As_Post_M</tag>
+      <txt>作為發文發送給收件人。發文單獨發送，回覆以直接訊息形式接收。</txt>
+    </str>
+    <str>
+      <tag>TXT_Send_As_Post_Title_M</tag>
+      <txt>作為發文訊息發送</txt>
+    </str>
+    <str>
+      <tag>TXT_Send_Check_In_STR_M</tag>
+      <txt>傳送預設訊息</txt>
+    </str>
    <str>
       <tag>TXT_Send_Geocache_STR_M</tag>
       <txt>發送地理藏寶</txt>
@@ -16828,11 +16840,11 @@
    </str>
    <str>
       <tag>TXT_Trouble_finding_satellites_STR_M</tag>
-      <txt>衛星接收問題。</txt>
+      <txt>衛星接收問題</txt>
    </str>
    <str>
       <tag>TXT_Trouble_finding_satellites__STR_M</tag>
-      <txt>無法接收衛星。繼續搜索？</txt>
+      <txt>無法接收衛星，繼續搜索？</txt>
    </str>
    <str>
       <tag>TXT_Truck_Dealership_STR</tag>
